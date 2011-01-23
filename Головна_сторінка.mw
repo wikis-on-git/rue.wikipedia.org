@@ -1,291 +1,111 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in '''[[русиньскый язык]]''' language==
+__NOTOC__
+__NOTOC__
+{{Інтродукція (Головна сторінка)}}
+{| wikitable border="2" width="100%"
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|BetaWikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
+<br />
+<center>''Тоты што говорять по русиньскы суть вітаны створити тілько квалітных статей кілько будуть мочі''. </center>
 
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[translatewiki:|translatewiki]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
+<center>Теперь є у [[Русиньскый язык|русиньскій]] вікіпедії {{NUMBEROFARTICLES}} статей.</center>
 
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+<center>[[Special:PrefixIndex/Wp/rue|Вшыткы сторінкы ]]<br />
 
-== Sister projects ==
-<span class="plainlinks">
-[http://www.wikipedia.org Wikipedia] |
-[http://www.wiktionary.org Wiktonary] |
-[http://www.wikibooks.org Wikibooks] |
-[http://www.wikinews.org Wikinews] |
-[http://www.wikiquote.org Wikiquote] |
-[http://www.wikisource.org Wikisource]
-[http://www.wikiversity.org Wikiversity]
-</span>
+[[Special:PrefixIndex/Category:Wp/rue|Вшыткы катеґорії]]</center><br />
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
+| width="55%" valign="top" style="padding: 0; margin:0;" |
+{| cellspacing="0" cellpadding="4"
+| align="center" style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: center; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[image:Clanektydne.gif|20px]]   '''[[Template:Статя_тыждня|Статя тыждня]]''' 
+|-
+| style="border-top:1px solid #BED2E0; font: 85% Verdana;" align="left" bgcolor="#EAF5FB"|
 
-[[aa:]]
-[[ab:]]
-[[ace:]]
-[[af:]]
-[[ak:]]
-[[als:]]
-[[am:]]
-[[an:]]
-[[ang:]]
-[[ar:]]
-[[arc:]]
-[[arz:]]
-[[as:]]
-[[ast:]]
-[[av:]]
-[[ay:]]
-[[az:]]
-[[ba:]]
-[[bar:]]
-[[bat-smg:]]
-[[bcl:]]
-[[be:]]
-[[be-x-old:]]
-[[bg:]]
-[[bh:]]
-[[bi:]]
-[[bm:]]
-[[bn:]]
-[[bo:]]
-[[bpy:]]
-[[br:]]
-[[bs:]]
-[[bug:]]
-[[bxr:]]
-[[ca:]]
-[[cbk-zam:]]
-[[cdo:]]
-[[ce:]]
-[[ceb:]]
-[[ch:]]
-[[cho:]]
-[[chr:]]
-[[chy:]]
-[[ckb:]]
-[[co:]]
-[[cr:]]
-[[crh:]]
-[[cs:]]
-[[csb:]]
-[[cu:]]
-[[cv:]]
-[[cy:]]
-[[da:]]
-[[de:]]
-[[diq:]]
-[[dsb:]]
-[[dv:]]
-[[dz:]]
-[[ee:]]
-[[el:]]
-[[eml:]]
-[[en:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[ext:]]
-[[fa:]]
-[[ff:]]
-[[fi:]]
-[[fiu-vro:]]
-[[fj:]]
-[[fo:]]
-[[fr:]]
-[[frp:]]
-[[fur:]]
-[[fy:]]
-[[ga:]]
-[[gan:]]
-[[gd:]]
-[[gl:]]
-[[glk:]]
-[[gn:]]
-[[got:]]
-[[gu:]]
-[[gv:]]
-[[ha:]]
-[[hak:]]
-[[haw:]]
-[[he:]]
-[[hi:]]
-[[hif:]]
-[[ho:]]
-[[hr:]]
-[[hsb:]]
-[[ht:]]
-[[hu:]]
-[[hy:]]
-[[hz:]]
-[[ia:]]
-[[id:]]
-[[ie:]]
-[[ig:]]
-[[ii:]]
-[[ik:]]
-[[ilo:]]
-[[io:]]
-[[is:]]
-[[it:]]
-[[iu:]]
-[[ja:]]
-[[jbo:]]
-[[jv:]]
-[[ka:]]
-[[kaa:]]
-[[kab:]]
-[[kg:]]
-[[ki:]]
-[[kj:]]
-[[kk:]]
-[[kl:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[kr:]]
-[[ks:]]
-[[ksh:]]
-[[ku:]]
-[[kv:]]
-[[kw:]]
-[[ky:]]
-[[la:]]
-[[lad:]]
-[[lb:]]
-[[lbe:]]
-[[lg:]]
-[[li:]]
-[[lij:]]
-[[lmo:]]
-[[ln:]]
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[map-bms:]]
-[[mdf:]]
-[[mg:]]
-[[mh:]]
-[[mhr:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mo:]]
-[[mr:]]
-[[ms:]]
-[[mt:]]
-[[mus:]]
-[[mwl:]]
-[[my:]]
-[[myv:]]
-[[mzn:]]
-[[na:]]
-[[nan:]]
-[[nap:]]
-[[nds:]]
-[[nds-nl:]]
-[[ne:]]
-[[new:]]
-[[ng:]]
-[[nl:]]
-[[nn:]]
-[[no:]]
-[[nov:]]
-[[nrm:]]
-[[nv:]]
-[[ny:]]
-[[oc:]]
-[[om:]]
-[[or:]]
-[[os:]]
-[[pa:]]
-[[pag:]]
-[[pam:]]
-[[pap:]]
-[[pdc:]]
-[[pi:]]
-[[pih:]]
-[[pl:]]
-[[pms:]]
-[[pnt:]]
-[[pnb:]]
-[[ps:]]
-[[pt:]]
-[[qu:]]
-[[rm:]]
-[[rmy:]]
-[[rn:]]
-[[ro:]]
-[[roa-rup:]]
-[[roa-tara:]]
-[[ru:]]
-[[rw:]]
-[[sa:]]
-[[sah:]]
-[[sc:]]
-[[scn:]]
-[[sco:]]
-[[sd:]]
-[[se:]]
-[[sg:]]
-[[sh:]]
-[[si:]]
-[[simple:]]
-[[sk:]]
-[[sl:]]
-[[sm:]]
-[[sn:]]
-[[so:]]
-[[sq:]]
-[[sr:]]
-[[srn:]]
-[[ss:]]
-[[st:]]
-[[stq:]]
-[[su:]]
-[[sv:]]
-[[sw:]]
-[[szl:]]
-[[ta:]]
-[[te:]]
-[[tet:]]
-[[tg:]]
-[[th:]]
-[[ti:]]
-[[tk:]]
-[[tl:]]
-[[tn:]]
-[[to:]]
-[[tpi:]]
-[[tr:]]
-[[ts:]]
-[[tt:]]
-[[tum:]]
-[[tw:]]
-[[ty:]]
-[[udm:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[ve:]]
-[[vec:]]
-[[vi:]]
-[[vls:]]
-[[vo:]]
-[[wa:]]
-[[war:]]
-[[wo:]]
-[[wuu:]]
-[[xal:]]
-[[xh:]]
-[[yi:]]
-[[yo:]]
-[[za:]]
-[[zea:]]
-[[zh:]]
-[[zh-classical:]]
-[[zh-min-nan:]]
-[[zh-yue:]]
-[[zu:]]
+<!------- СТАТЯ ТЫЖДНЯ -------> 
+<div style="margin: 0.4em; margin-top: 1em; text-align: justify;">
+<div id="mp-tfa">{{Статя тыждня/{{#time:o/W|{{#ifexist:Статя тыждня/{{#time:o/W}}||0 week}}}}}}</div>
+</div>
+<div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%; clear: both;">[[Template:Статя тыждня/Архів|Архів]]</div>
+</div>
+
+
+|-
+|}
+<center>Написати нову статю:
+<inputbox>
+ type=create
+ width=40
+ bgcolor=#f0f0ff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+</inputbox></center>
+
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |'''Статї русиньской Вікіпедії'''
+|-
+| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
+*[http://incubator.wikimedia.org/wiki/Category:Wp/rue All pages of Carpatho-Rusyn Wikipedia]
+<br />
+<br />
+[[File:Teritorio_de_rutenoj.jpg|left|thumb|220px|[http://www.carpathorusynsociety.org/geography.html Geography and Economy] ]]
+[[Image:CarpathianRutheniaCoA.svg|thumb|140px||[[Русины|Русины]]]]
+|}
+
+| width="60%" valign="top" style="border-bottom:1px solid #DBD2B0; border-top:1px solid #DBD2B0;"|
+{| cellspacing="0" cellpadding="5" 
+| style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #ECE5CA; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[image:Wikipedia-logo.png|20px]]  '''Обсяг'''
+|- 
+| style="border-top:1px solid #DBD2B0; font: 100% Verdana;" |
+{{Содержаня}}</td>
+
+|}
+<!------- ЗНАЄТЕ ЖЕ -------> 
+<div style="background-color: rgb(253, 254, 255); width: 100%; border: 1px #9EE072 solid; margin-bottom: 5px;margin-left:-1px">
+<div style="height: 16pt; background-color: rgb(253, 254, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[File:Viteze.gif|32px]]</div>
+<div style="padding-left: 35px;">[[Template:Інтересне|Знаєте, же…]]</div></div>
+<div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
+<div id="mp-dyk">{{Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
+</div>
+<div style="width: 100%; background-color: #DCF4CC; border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Special:Newpages|Найновшы статї]]</div>
+</div>
+|}
+<br />
+<br />
+
+<!------- Сестерьскы проєкты -------> 
+<div style="margin-left:-1px; width: 99.9%; background-color: rgb(255, 254, 255); border: 1px rgb(210, 210, 240) solid; margin-bottom: 5px">
+<div style="height: 16pt; background-color: rgb(210, 210, 240); border: 0px; border-bottom: 1px rgb(170, 170, 200); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[File:Nuvola_apps_kdf.gif|32px]]</div>
+<div style="padding-left: 35px;">[[Фонд_Вікімедія|Іншы проєкты]]</div></div>
+<div style="margin-top:.8em">
+{{Wikipediasister}}
+</div>
+</div>
+<!------- Іншы языкы -------> 
+<div id="іншыязыкы" style="margin-left:-1px; width: 99.9%; background-color: rgb(255, 254, 255); border: 1px rgb(210, 210, 240) solid; margin-bottom: 5px">
+<div style="height: 16pt; background-color: rgb(210, 210, 240); border: 0px; border-bottom: 1px rgb(170, 170, 200); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[File:Crystal 128 locale.gif|32px]]</div>
+<div style="padding-left: 35px;">[[meta:List of Wikipedias|Іншы языкы]]</div></div>
+<div style="clear: both; font-size: 95%; margin: 0.5em">
+{{Іншы_языкы}}
+{{Introduction}}
+</div>
+</div>
+<center><small>[http://translatewiki.net/wiki/Translating:Group_statistics Штатістіка ґруп на Betawiki] - [[mw:Localisation_statistics|Штатістіка локалізацій на Mediawiki]]</small></center>
+<center>'''Найчастїше хоснованы повідомлїня 100% [[Image:Yes check.svg|20px]] ''' -  '''MediaWiki повідомлїя 100% [[Image:Yes check.svg|15px]] '''</center>
+
+<center><small>[http://translatewiki.net/wiki/Special:Translate?task=untranslated&group=ext-0-wikimedia&limit=2000&language=rue Ту треба далшый русиньскый переклад] </small></center>
+<!------- Спіднї одказы -------> 
+<div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
+<small class="plainlinks">
+<small>
+[[Special:Allpages|'''Вшыткы статї''']] |
+[[Special:Newpages|'''Новы статї''']] |
+[[Special:Lonelypages|'''Сторінкы сироты''']] |
+[[Special:Categories|'''Катеґорії''']] |
+[http://incubator.wikimedia.org/w/index.php?title=Головна_сторінка '''Обновити кеш''']
+</small>
+</div>
+<div style="text-align: center;"><small>
+===== [[#top|Горї]] =====
+</small></div>
+[[Category:Wp/rue]]
