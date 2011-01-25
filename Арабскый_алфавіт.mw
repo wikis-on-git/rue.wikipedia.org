@@ -1,0 +1,437 @@
+{{Письмo
+|имня            = Арабскоє письмо
+|тiп            = консонантноє
+|языкы          = [[Арабскый язык|Арабскый]], [[Перьскый язык|перьскый]], [[Курдьскый язык|курдьскый]], й инші. 
+|територiя     = [[Аравiйскый пôвостров|Аравiйскый пôвостров]], [[Ближньый Выход|Ближньый Выход]], [[Средня Азiя|Средня Азiя]], [[Сïвернa Африка|Сïвернa Африка]].
+|направленя    = зправа налïво
+|знакôв         = 28
+|штатус         = В хоснованю
+|жредло  = [[Ханаанiйскоє письмо]]
+:[[|Финикийскоє письмо|Финикийскоє]]
+::[[|Арамiйскоє письмо|Арамiйскоє]]
+:::[[|Сiрiйскоє письмо|Сiрiйскоє]]
+::::Арабскоє
+|юнiкодa         = U+0600 — U+06FF <br />U+0750 — U+077F <br />U+FB50 — U+FDFF <br />U+FE70  — U+FEFF
+|ISO            = Arab (#160)
+|примiр         = Arabic albayancalligraphy.svg
+|рoзмiр         = 250px
+|пôдпись        = Примiр
+}}
+
+[[File:Modern Arabic Calligraphy.jpg|thumb|right|200px|Современная арабская каллиграфия]]
+'''Ара́бскый алфавiт''', арабскоє письмо, ара́бiца — [[Алфавіт|алфавiт]], же ся хоснує про передачу [[Арабскый язык|арабского языка]] и дакôлкых иншаких язикôв исламского світу (майчасто у модіфікованов формі), приміром [[Перьскый язык|перьского]] и дакотрых [[Тюркскы языкы|тюркскых языкôв]]. Ôн має 28 букв и хоснує ся зправа налïво.
+
+
+==Созвукы==
+Кажда из 28 букв, oкрeм буквы алiф, стоит за єден созвук. Писовня букв ся змінює ôд місця в слові. Ушиткы буквы єдного словa ся пишут уєдно, окрім шести букв, же все ся пишут ôддïлно: ([[Аліф|алiф]], [[Даль (буква)|даль]], [[Заль (буква)|заль]], [[Па (буква арабского алфавита)|ра]], [[Зай|зай]], [[Вав|вав]]).
+
+{| class="standard"
+|-
+! в концї слова
+! в серединї слова
+! на зачатку слова
+! ôддїлно 
+! назва
+! [[Транслiтерацiя|транслiтерацiя]]
+! [[Транскрипцiя|транскрипцiя]]
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺎ}} || colspan=2 | {{ar2|ﺍ}}
+| {{lang-ar2|أَلِف}} [[|Алiф|{{unicode2|’алиф}}]] || — || —
+|- align="center" style="height: 3em"
+| {{ar2|ﺐ}} || {{ar2|ﺒ}} || {{ar2|ﺑ}} || {{ar2|ﺏ}}
+| {{lang-ar2|بَاء}} [[|Ба (буква арабского алфавита)|{{unicode2|ба̄’}}]] || {{unicode2|б}} || {{IPA|[b]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺖ}} || {{ar2|ﺘ}} || {{ar2|ﺗ}} || {{ar2|ﺕ}}
+| {{lang-ar2|تَاء}} [[|Та (буква арабского алфавита)|{{unicode2|та̄’}}]] || {{unicode2|т}} || {{IPA|[t]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺚ}} || {{ar2|ﺜ}} || {{ar2|ﺛ}} || {{ar2|ﺙ}}
+| {{lang-ar2|ثَاء}} [[|Са (буква арабского алфавита)|{{unicode2|с̱а̄’}}]] || {{unicode2|с̱}} || {{IPA|[θ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺞ}} || {{ar2|ﺠ}} || {{ar2|ﺟ}} || {{ar2|ﺝ}}
+| {{lang-ar2|جِيم}} [[|Джим (буква арабского алфавита)|{{unicode2|джӣм}}]] || {{unicode2|дж}} || {{IPA|[ʤ], [g]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺢ}} || {{ar2|ﺤ}} || {{ar2|ﺣ}} || {{ar2|ﺡ}}
+| {{lang-ar2|حَاء}} [[|Ха (шестая буква арабского алфавита)|{{unicode2|х̣а̄’}}]] || {{unicode2|х̣}} || {{IPA|[ħ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺦ}} || {{ar2|ﺨ}} || {{ar2|ﺧ}} || {{ar2|ﺥ}}
+| {{lang-ar2|خَاء}} [[|Ха (седьмая буква арабского алфавита)|{{unicode2|х̮а̄’}}]] || {{unicode2|х̮}} || {{IPA|[x]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺪ}} || colspan=2 | {{ar2|ﺩ}}
+| {{lang-ar2|دَال}} [[|Даль (буква арабского алфавита)|{{unicode2|да̄ль}}]] || {{unicode2|д}} || {{IPA|[d]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺬ}} || colspan=2 | {{ar2|ﺫ}}
+| {{lang-ar2|ذَال}} [[|Заль (буква арабского алфавита)|{{unicode2|з̱а̄ль}}]] || {{unicode2|з̱}} || {{IPA|[ð]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺮ}} || colspan=2 | {{ar2|ﺭ}}
+| {{lang-ar2|رَاء}} [[|Ра (буква арабского алфавита)|{{unicode2|ра̄’}}]] || {{unicode2|р}} || {{IPA|[r]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺰ}} || colspan=2 | {{ar2|ﺯ}}
+| {{lang-ar2|زَاي}} [[|Зайн (буква арабского алфавита)|{{unicode2|за̄й}}]] || {{unicode2|з}} || {{IPA|[z]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺲ}} || {{ar2|ﺴ}} || {{ar2|ﺳ}} || {{ar2|ﺱ}}
+| {{lang-ar2|سِين}} [[|Син (буква арабского алфавита)|{{unicode2|сӣн}}]] || {{unicode2|с}} || {{IPA|[s]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺶ}} || {{ar2|ﺸ}} || {{ar2|ﺷ}} || {{ar2|ﺵ}}
+| {{lang-ar2|شِين}} [[|Шин (буква арабского алфавита)|{{unicode2|шӣн}}]] || {{unicode2|ш}} || {{IPA|[ʃ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺺ}} || {{ar2|ﺼ}} || {{ar2|ﺻ}} || {{ar2|ﺹ}}
+| {{lang-ar2|صَاد}} [[|Сад (буква арабского алфавита)|{{unicode2|с̣а̄д}}]] || {{unicode2|с̣}} || {{IPA|[sˁ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺾ}} || {{ar2|ﻀ}} || {{ar2|ﺿ}} || {{ar2|ﺽ}}
+| {{lang-ar2|ضَاد}} [[|Дад (буква арабского алфавита)|{{unicode2|д̣а̄д}}]] || {{unicode2|д̣}} || {{IPA|[dˁ], [ðˤ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻂ}} || {{ar2|ﻄ}} || {{ar2|ﻃ}} || {{ar2|ﻁ}}
+| {{lang-ar2|طَاء}} [[|Та (шестнадцатая буква арабского алфавита)|{{unicode2|т̣а̄’}}]] || {{unicode2|т̣}} || {{IPA|[tˁ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻆ}} || {{ar2|ﻈ}} || {{ar2|ﻇ}} || {{ar2|ﻅ}}
+| {{lang-ar2|ظَاء}} [[|За (буква арабского алфавита)|{{unicode2|з̣а̄’}}]] || {{unicode2|з̣}} || {{IPA|[zˁ], [ðˁ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻊ}} || {{ar2|ﻌ}} || {{ar2|ﻋ}} || {{ar2|ﻉ}}
+| {{lang-ar2|عَيْن}} [[|Айн (буква арабского алфавита)|{{unicode2|‘айн}}]] || {{unicode2|‘}} || {{IPA|[ʕ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻎ}} || {{ar2|ﻐ}} || {{ar2|ﻏ}} || {{ar2|ﻍ}}
+| {{lang-ar2|غَيْن}} [[|Гайн (буква арабского алфавита)|{{unicode2|гайн}}]] || {{unicode2|г}} || {{IPA|[ɣ]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻒ}} || {{ar2|ﻔ}} || {{ar2|ﻓ}} || {{ar2|ﻑ}}
+| {{lang-ar2|فَاء}} [[|Фа (буква арабского алфавита)|{{unicode2|фа̄’}}]] || {{unicode2|ф}} || {{IPA|[f]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻖ}} || {{ar2|ﻘ}} || {{ar2|ﻗ}} || {{ar2|ﻕ}}
+| {{lang-ar2|قَاف}} [[|Каф (буква арабского алфавита)|{{unicode2|к̣а̄ф}}]] || {{unicode2|к̣}} || {{IPA|[q]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻚ}} || {{ar2|ﻜ}} || {{ar2|ﻛ}} || {{ar2|ﻙ}}
+| {{lang-ar2|كَاف}} [[|Кяф (буква арабского алфавита)|{{unicode2|ка̄ф}}]] || {{unicode2|к}} || {{IPA|[k]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻞ}} || {{ar2|ﻠ}} || {{ar2|ﻟ}} || {{ar2|ﻝ}}
+| {{lang-ar2|لاَم}} [[|Лям (буква арабского алфавита)|{{unicode2|ля̄м}}]] || {{unicode2|ль}} || {{IPA|[l]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻢ}} || {{ar2|ﻤ}} || {{ar2|ﻣ}} || {{ar2|ﻡ}}
+| {{lang-ar2|مِيم}} [[|Мим (буква арабского алфавита)|{{unicode2|мӣм}}]] || {{unicode2|м}} || {{IPA|[m]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻦ}} || {{ar2|ﻨ}} || {{ar2|ﻧ}} || {{ar2|ﻥ}}
+| {{lang-ar2|نُون}} [[|Нун (буква арабского алфавита)|{{unicode2|нӯн}}]] || {{unicode2|н}} || {{IPA|[n]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻪ}} || {{ar2|ﻬ}} || {{ar2|ﻫ}} || {{ar2|ﻩ}}
+| {{lang-ar2|هَاء}} [[|Ха (буква арабского алфавита)|{{unicode2|ха̄’}}]] || {{unicode2|х}} || {{IPA|[h]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﻮ}} || colspan=2 | {{ar2|ﻭ}}
+| {{lang-ar2|وَاو}} [[|Уау (буква арабского алфавита)|{{unicode2|уау}}]] || {{unicode2|в}} || {{IPA|[w]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻲ}} || {{ar2|ﻴ}} || {{ar2|ﻳ}} || {{ar2|ﻱ}}
+| {{lang-ar2|يَاء}} [[|Йа (буква арабского алфавита)|{{unicode2|йа̄’}}]] || {{unicode2|й}} || {{IPA|[j]}}
+|}
+
+Далшы знакы:
+
+{| class="standard"
+|-
+! в концї слова
+! в серединї слова
+! на зачатку слова
+! ôддїлно 
+! назва
+! [[транслiтерацiя]]
+! [[транскрипцiя]]
+|- align="center" style="height: 3em"
+| colspan=4 | {{ar2|ﺀ}}
+| rowspan=5 | {{lang-ar2|هَمْزَة}} [[|Хамза (знак)|{{unicode2|хамза}}]]
+| rowspan=5 | {{unicode2|’}} || rowspan=5 | {{IPA|[ʔ]}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺄ}} || colspan=2 | {{ar2|ﺃ}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺈ}} || colspan=2 | {{ar2|ﺇ}}
+|- align="center" style="height: 3em"
+| colspan=2 | {{ar2|ﺆ}} || colspan=2 | {{ar2|ﺅ}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺊ}} || {{ar2|ﺌ}} || {{ar2|ﺋ}} || {{ar2|ﺉ}}
+|- align="center" style="height: 3em"
+| {{ar2|ﺔ}} || colspan=2 | — || {{ar2|ﺓ}}
+| {{lang-ar2|تَاء مَرْبُوطَة}} [[|Та марбута|{{unicode2|та̄’ марбӯт̣а}}]] || — || {{IPA|[h] / [t]}}
+|- align="center" style="height: 3em"
+| {{ar2|ﻰ}} || colspan=2 | — || {{ar2|ﻯ}}
+| {{lang-ar2|أَلِف مَقْصُورَة}} [[|Алiф максура|{{unicode2|’алиф мак̣с̣ӯра}}]] || {{unicode2|а̄}} || {{IPA|[aː] / [a]}}
+|}
+
+
+
+
+
+
+== Транслiтерацiя ==
+
+{| class="standard"
+! colspan=28| созвукы 
+! colspan=3| голосы
+! style="background: none; border: none" colspan=2 |
+|-
+| {{lang-ar2|ء}}
+| {{lang-ar2|ب}}
+| {{lang-ar2|ت}}
+| {{lang-ar2|ث}}
+| {{lang-ar2|ج}}
+| {{lang-ar2|ح}}
+| {{lang-ar2|خ}}
+| {{lang-ar2|د}}
+| {{lang-ar2|ذ}}
+| {{lang-ar2|ر}}
+| {{lang-ar2|ز}}
+| {{lang-ar2|س}}
+| {{lang-ar2|ش}}
+| {{lang-ar2|ص}}
+| {{lang-ar2|ض}}
+| {{lang-ar2|ط}}
+| {{lang-ar2|ظ}}
+| {{lang-ar2|ع}}
+| {{lang-ar2|غ}}
+| {{lang-ar2|ف}}
+| {{lang-ar2|ق}}
+| {{lang-ar2|ك}}
+| {{lang-ar2|ل}}
+| {{lang-ar2|م}}
+| {{lang-ar2|ن}}
+| {{lang-ar2|ه}}
+| {{lang-ar2|و}}
+| {{lang-ar2|ي}}
+| {{lang-ar2|ا}}
+| {{lang-ar2|و}}
+| {{lang-ar2|ي}}
+| style="background-color: #EEEEFF" colspan=2 | '''арабские буквы'''
+|-
+| {{unicode2|’}}
+| {{unicode2|б}}
+| {{unicode2|т}}
+| {{unicode2|с̱}}
+| {{unicode2|дж}}
+| {{unicode2|х̣}}
+| {{unicode2|х̮}}
+| {{unicode2|д}}
+| {{unicode2|з̱}}
+| {{unicode2|р}}
+| {{unicode2|з}}
+| {{unicode2|с}}
+| {{unicode2|ш}}
+| {{unicode2|с̣}}
+| {{unicode2|д̣}}
+| {{unicode2|т̣}}
+| {{unicode2|з̣}}
+| {{unicode2|‛}}
+| {{unicode2|ґ}}
+| {{unicode2|ф}}
+| {{unicode2|к̣}}
+| {{unicode2|к}}
+| {{unicode2|л}}
+| {{unicode2|м}}
+| {{unicode2|н}}
+| {{unicode2|х}}
+| {{unicode2|в}}
+| {{unicode2|й}}
+| {{unicode2|а̄}}
+| {{unicode2|ӯ}}
+| {{unicode2|ӣ}}
+| style="background-color: #EEEEFF" colspan=2 | '''кириллизация'''
+|-
+| {{unicode|ʾ}}
+| {{unicode|b}}
+| {{unicode|t}}
+| {{unicode|ṯ}}
+| {{unicode|ǧ}}
+| {{unicode|ḥ}}
+| {{unicode|ḫ}}
+| {{unicode|d}}
+| {{unicode|ḏ}}
+| {{unicode|r}}
+| {{unicode|z}}
+| {{unicode|s}}
+| {{unicode|š}}
+| {{unicode|ṣ}}
+| {{unicode|ḍ}}
+| {{unicode|ṭ}}
+| {{unicode|ẓ}}
+| {{unicode|ʿ}}
+| {{unicode|ġ}}
+| {{unicode|f}}
+| {{unicode|q}}
+| {{unicode|k}}
+| {{unicode|l}}
+| {{unicode|m}}
+| {{unicode|n}}
+| {{unicode|h}}
+| {{unicode|w}}
+| {{unicode|y}}
+| {{unicode|ā}}
+| {{unicode|ū}}
+| {{unicode|ī}}
+| style="background-color: #EEEEFF" | станд.
+| style="background-color: #EEEEFF" rowspan=3 | '''латинизация'''
+|-
+| '
+|
+|
+| th
+| j
+| 7
+| kh
+|
+| dh
+|
+|
+|
+| sh
+| 9
+|
+| 6
+| dh
+| `
+| gh
+|
+| 8
+|
+|
+|
+|
+|
+|
+|
+|
+| oo
+| ee
+| style="background-color: #EEEEFF" rowspan=2| нестр.
+|-
+| 2
+|
+|
+|
+|
+|
+| 5
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| 3
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| ou
+|
+|-
+|}
+
+
+
+
+
+
+
+
+
+== Жредла ==
+* [http://www.al-bab.com/arab/visual/calligraphy.htm {{ref-en}}
+* [http://www.omniglot.com/writing/arabic.htm] на сайтï [[Omniglot|Omniglot]] {{ref-en}}
+* [http://www.islamicart.com/main/calligraphy]{{ref-en}}
+* [http://www.primavista.ru/dictionary/abc/arabic.htm]
+* [http://www.ok-board.com/arabic.htm ]
+* [http://ar.wikisource.org/wiki/%D9%84%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8]{{ref-ar}}
+* [http://nuruliman.ru/arabskijj-alfavit]
+
+
+[[als:Arabisches Alphabet]]
+[[an:Alfabeto arabe]]
+[[ar:أبجدية عربية]]
+[[arc:ܐܠܦܒܝܬ ܥܪܒܝܐ]]
+[[arz:حروف عربى]]
+[[ast:Alfabetu árabe]]
+[[az:Ərəb əlifbası]]
+[[bar:Arabisches Alphabet]]
+[[be:Арабскі алфавіт]]
+[[be-x-old:Арабскі альфабэт]]
+[[bg:Арабска азбука]]
+[[bn:আরবি লিপি]]
+[[br:Lizherenneg arabek]]
+[[bs:Arapsko pismo]]
+[[ca:Alfabet àrab]]
+[[ceb:Sulat Inarabigo]]
+[[ckb:ئەلفوبێی عەرەبی]]
+[[cs:Arabské písmo]]
+[[cv:Арап çырăвĕ]]
+[[cy:Yr wyddor Arabeg]]
+[[da:Arabiske alfabet]]
+[[de:Arabisches Alphabet]]
+[[diq:Alfabey Erebki]]
+[[el:Αραβικό αλφάβητο]]
+[[en:Arabic alphabet]]
+[[eo:Araba alfabeto]]
+[[es:Alfabeto árabe]]
+[[eu:Arabiar alfabeto]]
+[[fa:خط عربی]]
+[[fi:Arabialainen kirjaimisto]]
+[[fr:Alphabet arabe]]
+[[gan:阿拉伯字母]]
+[[gd:Aibidil Arabach]]
+[[gl:Alfabeto árabe]]
+[[gv:Abbyrlhit Arabagh]]
+[[he:אלפבית ערבי]]
+[[hi:अरबी लिपि]]
+[[hr:Arapsko pismo]]
+[[hu:Arab írás]]
+[[ia:Alphabeto arabe]]
+[[id:Alfabet Arab]]
+[[is:Arabískt letur]]
+[[it:Alfabeto arabo]]
+[[ja:アラビア文字]]
+[[jv:Aksara Arab]]
+[[ka:არაბული დამწერლობა]]
+[[kab:Agemmay aɛrab]]
+[[ko:아랍 문자]]
+[[krc:Араб алфавит]]
+[[ku:Alfabeya erebî]]
+[[la:Abecedarium Arabicum]]
+[[lt:Arabų raštas]]
+[[lv:Arābu alfabēts]]
+[[mk:Арапска азбука]]
+[[ml:അറബി ലിപി]]
+[[mr:अरबी वर्णमाला]]
+[[ms:Abjad Arab]]
+[[nl:Arabisch alfabet]]
+[[nn:Det arabiske alfabetet]]
+[[no:Det arabiske alfabetet]]
+[[pl:Alfabet arabski]]
+[[pt:Alfabeto árabe]]
+[[qu:Arabya siq'i llumpa]]
+[[ro:Alfabetul arab]]
+[[sh:Arapsko pismo]]
+[[simple:Arabic alphabet]]
+[[sk:Arabské písmo]]
+[[sl:Arabska abeceda]]
+[[sq:Shkrimi arab]]
+[[sr:Арапско писмо]]
+[[sv:Arabiska alfabetet]]
+[[sw:Herufi za Kiarabu]]
+[[ta:அரபு எழுத்துமுறை]]
+[[tg:Ҳуруфи арабӣ]]
+[[th:อักษรอาหรับ]]
+[[tl:Sulat Arabo]]
+[[tr:Arap alfabesi]]
+[[tt:Ğäräp älifbası]]
+[[uk:Арабська абетка]]
+[[ur:عربی حروف تہجی]]
+[[vi:Bảng chữ cái Ả Rập]]
+[[wa:Alfabet arabe]]
+[[war:Inarabo nga Agi]]
+[[zh:阿拉伯字母]]
+[[zh-yue:阿剌伯字母]]
+
+[[Category:Wp/rue]]
