@@ -1,0 +1,133 @@
+{{Інфобокс языка проґрамованя
+| name                   = Scheme
+| logo                   = [[Image:Lambda lc.svg|100px]]
+| paradigm               = [[Функціоналне проґрамованя|функціонална]]
+| year                   = 1975
+| designer               = [[Guy L. Steele|Guy L. Steele]] and [[Gerald Jay Sussman|Gerald Jay Sussman]]
+| latest release version = R6RS (ratified standard)
+| latest release date    = 2007
+| latest test version    = 
+| latest test date       = 
+| typing                 = [[strong typing|strong]], [[dynamic typing|dynamic]]
+| dialects               = [[T (язык проґрамованя)|T]]
+| implementations        = Много. Видь [[:Category:Scheme implementations]]
+| influenced by          = [[Lisp programming language|Lisp]], [[ALGOL|ALGOL]]
+| influenced             = [[Common Lisp|Common Lisp]], [[JavaScript|JavaScript]], [[R (programming language)|R]], [[Ruby (programming language)|Ruby]], [[Dylan (programming language)|Dylan]], [[Lua (programming language)|Lua]], [[Hop (software)|Hop]], [[Racket (programming language)|Racket]]
+| operating system       = 
+| license                =
+| website                = 
+| file_ext               = .scm, .ss
+}}
+
+'''Scheme''' є мултіпарадіґматічный проґрамовачій язык. Фунціонална парадіґма належыть міджі такзваны декларатівны парадіґмата. Scheme є єден з двох головный діалектів функціоналного проґрамовачого языка [[Lisp|Lisp]]. Язык предложыли Гай Луіс Стіл (Guy Lewis Steele) і Жералд Джей Сусман (Gerald Jay Sussman) і ёго першый попис быв списаный в роцї 1975. Scheme быв представленый академічному світу через серію статей, нынї знамых як Сусмановы і Стіловы Ламбда Папіря. Язык Scheme дефінують два штандарты: офіціалный IEEE штандарт і штандарт званый Revisedn Report on the Algorithmic Language Scheme, скорочено RnRS, де n є чісло ревізії. Сучасный штандарт є '''R5RS''', і '''R6RS''' ся вывивать.
+
+Опроти  Lisp-у ся Scheme снажыть о мінімалізм - додати што найменше чісло основных функцій, на котрых суть пак в книжніцях поставлены зложытїшы конштрукції. Вдяка тому має дотеперь послїдня референція языка лем 50 сторінок.
+
+
+Scheme быв першым діалектом Lisp-у, котрый понукав вольбу міджі лексікалным або дінамічным россягом платности переменной. Тыж быв першым языком, котрый підпоровав „first-class continuation“.
+
+Тот язык є в праксі хоснованый рідше, хоснує ся передовшыктым в школах про учіня проґрамованя алґорітмів. Найзнамішов імплементаціов є ґрафічный едітор [[GIMP|GIMP]], котрого додатковы засувный модулы і скріпты суть писаны в діалектї языка Scheme.
+
+== Указаня коду ==
+
+Традічный проґрам [[Hello world|hello world]] вызерать в языку Scheme наприклад так:
+<source lang="scheme">
+(define (hello)
+  (display "Агой світе!")
+  (newline))
+(hello)
+</source>
+
+Не першім рядку дефініції процедуры ''hello'', котра выпише текст „Агой світе!“ і одрядкує. На четвертім рядку є пак тота процедура кликана.
+
+Команд define служыть тыж про дефініцію переменных:
+<source lang="scheme">
+(define пі 3.14)
+</source>
+
+Наслїдній приклад указує дефініцію функції, котра вырахує [[Факторіал|факторіал]] зазначеного чісла:
+<source lang="scheme">
+(define fact
+  (lambda (n)
+    (if (= n 0)
+      1
+      (* n (fact (- n 1))))))
+</source>
+
+Писаня конштрукції ''lambda'' мож быти довготырваюче, і зато Scheme нукать скороченя:
+<source lang="scheme">
+(define (fact n)
+  (if (= n 0)
+    1
+    (* n (fact (- n 1)))))
+</source>
+
+Функція ся дасть потім закликати:
+<source lang="scheme">
+(fact 4)
+</source>
+
+На выступі бы сьме дістали чісло 24. Выше зазначеный приклад указу/ пару інтересных конштрукцій. Єднак є ясне, же в языку Scheme ся хоснує префіксовый запис:
+<source lang="scheme">
+(+ 1 2)  ; сума
+(- 5 3)  ; розность
+(* 4 5)  ; умножіня
+(/ 9 3)  ; дїлїня
+
+(+ 1 3 7)  ; не треба ся обмеджовати лем на дві чісла
+</source>
+Другов інтереснов річов є подмінка ''if''. Тота має способ ''(if (výraz) true false)'', де ветва ''true'' ся проведе, кідь є выраз правдивый (кідь не є посудженый як ''#f''), ветва ''false'' в припадї, же є выраз неправдивый (''#f''; еквівалентне части ''else'' в іншых языках).
+
+Третёв інтереснов річов є [[Рекурзія|рекурзівне]] кликаня себе самого на пятім рядку дефініції функції.  Функція про рахованя факторіалу ся дасть переписати:
+<source lang="scheme">
+(define (fact n)
+  (let fact-iter ((n n) 
+                  (result 1))
+    (if (= n 0)
+        result
+        (fact-iter (- n 1) (* n result)))))
+</source>
+
+В такім припадї будуть вшыткы рекурзівны кликаня концово рекурзівны. Дочасны параметры не суть укладаны на засобник, але суть передаваны як арґументы рекурзівной функції і інтерпрет може зашмарити обсяг засобника і знову закликати функцію. То значіть же рахованя функції ся дїє в конштантім простору памятї. Штандарт языка Scheme [http://www.schemers.org/Documents/Standards/R5RS/ R5RS], точно дефінує, коли дійде ку консовому кликаню. В прикладі коду є тыж хоснована конштрукція „пописаный лїт“, котра ся хоснує про створїня рекурзії в тїли функції без того, жебы сьме імпліцітно дефіновали функцію в ґлобалнім средстві.
+
+{{Template:Языкы проґрамованя}}
+
+[[Category:Wp/rue]]
+
+[[bat-smg:Scheme]]
+[[bg:Scheme]]
+[[bn:স্কিম (প্রোগ্রামিং ভাষা)]]
+[[ca:Scheme]]
+[[cs:Scheme]]
+[[da:Scheme]]
+[[de:Scheme]]
+[[el:Scheme]]
+[[en:Scheme (programming language)]]
+[[eo:Scheme]]
+[[es:Scheme]]
+[[et:Scheme]]
+[[fa:اسکیم]]
+[[fi:Scheme]]
+[[fr:Scheme]]
+[[he:Scheme]]
+[[hr:Scheme]]
+[[hu:Scheme]]
+[[it:Scheme]]
+[[ja:Scheme]]
+[[ko:스킴 (프로그래밍 언어)]]
+[[lt:Scheme]]
+[[nl:Scheme]]
+[[no:Scheme]]
+[[pl:Scheme]]
+[[pt:Scheme]]
+[[ro:Scheme (limbaj de programare)]]
+[[ru:Scheme]]
+[[simple:Scheme (programming language)]]
+[[sk:Scheme (programovací jazyk)]]
+[[sl:Scheme (programski jezik)]]
+[[sv:Scheme]]
+[[ta:இசுகீம்]]
+[[tr:Scheme]]
+[[uk:Scheme]]
+[[vi:Scheme]]
+[[zh:Scheme]]
