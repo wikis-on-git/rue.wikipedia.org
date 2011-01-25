@@ -1,0 +1,66 @@
+'''Ада''' є робустный статічо тіпізованый [[Язык проґрамованя|язык проґрамованя]] вывинутый в 70.&nbsp;роках на обїднавку [[США|америцького]] міністерства обороны. Примарно є становленый про проґрамованя великых ''mission-critical'' проєктів, наперек тому ся їднать о універзалный язык проґрамованя. В новшых верзіях была додана підпора про [[Обєктово орьєнтоване проґрамованя|Обєктово орьєнтоване проґрамованя]].
+
+Быв названый по  „історічно першій проґраматорцї“ [[Авґуста Ада Кінґ|Адї, ґрофцї з Ловлейс]].
+
+== Hello, world ==
+Демонштрачный проґрам [[Hello world|Hello world]] в Адї може вызерати наслїднїм способом (про <code>Ada.Text_IO.Put_Line</code> екзістує скороченя, ту є про ясность хоснована повна форма):
+
+<source lang="ada">
+with Ada.Text_IO; 
+
+procedure Hello is
+begin
+	Ada.Text_IO.Put_Line("Hello, world!");
+end Hello;
+</source>
+
+
+
+
+{{Языкы_проґрамованя}}
+[[Category:Wp/rue]]
+
+[[an:Luengache de programación Ada]]
+[[ar:أيدا (لغة برمجة)]]
+[[az:Ada dili]]
+[[bg:Ada]]
+[[bn:অ্যাডা]]
+[[ca:Ada]]
+[[cs:Ada]]
+[[cv:Ада]]
+[[da:Ada (programmeringssprog)]]
+[[de:Ada (Programmiersprache)]]
+[[el:Ada]]
+[[en:Ada (programming language)]]
+[[eo:Ada (programlingvo)]]
+[[es:Ada (lenguaje de programación)]]
+[[et:Ada (programmeerimiskeel)]]
+[[eu:Ada (programazio lengoaia)]]
+[[fa:ایدا]]
+[[fi:Ada (ohjelmointikieli)]]
+[[fr:Ada (langage)]]
+[[gl:Ada (informática)]]
+[[he:עדה (שפת תכנות)]]
+[[hr:Ada (programski jezik)]]
+[[hu:Ada (programozási nyelv)]]
+[[id:Ada (bahasa pemrograman)]]
+[[it:Ada (linguaggio)]]
+[[ja:Ada]]
+[[ka:ადა (პროგრამირების ენა)]]
+[[ko:에이다]]
+[[nl:Ada (programmeertaal)]]
+[[nn:Programmeringsspråket Ada]]
+[[no:Ada]]
+[[pl:Ada (informatyka)]]
+[[pt:Ada (linguagem de programação)]]
+[[ru:Ада (язык программирования)]]
+[[sk:Ada (programovací jazyk)]]
+[[sl:Ada (programski jezik)]]
+[[sr:Ада (програмски језик)]]
+[[sv:Ada (programspråk)]]
+[[tg:Ада (забони барноманависӣ)]]
+[[th:ภาษาเอดา]]
+[[tr:Ada (programlama dili)]]
+[[uk:Ada]]
+[[vi:Ada (ngôn ngữ lập trình)]]
+[[zh:Ada]]
