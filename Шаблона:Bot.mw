@@ -6,9 +6,10 @@
 <small>''Адміністратори: якщо цей бот функціонує неправильно чи робить щось шкідливе, будь ласка [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} заблокуйте його].'</small>
 |}
 {{{category|[[Категорія:Вікіпедія:Боти|<includeonly>{{PAGENAME}}</includeonly> ]]}}}
-[[Категорія:Шаблоны|Bot]]
 
 <noinclude>
+[[Категорія:Шаблоны|Bot]]
+
 [[ab:Ашаблон:Bot]]
 [[ace:Pola:Bot]]
 [[af:Sjabloon:Bot]]
