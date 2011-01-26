@@ -1,0 +1,14 @@
+So, where is the content of this Wiki?--[[Користувач:Andrijko Z.|Andrijko Z.]] 19:43, 24 януара 2011 (CET)
+
+== Bot flag for [[User:Mjbmrbot|Mjbmrbot]] ==
+
+* '''Operator'''                       : [[User:Mjbmr|Mjbmr]]
+* '''Automatic or Manually Assisted''' : Automatic
+* '''Programming Language(s)'''        : Python (pywikipedia)
+* '''Function Summary'''               : Interwiki, fixing double redirect, modify categories when needs
+* '''Already has a bot flag (Y/N)'''   : Yes, Global flag and local flags, please see [[sulutil:Mjbmrbot|here]]
+* '''Function Details'''               : Please announce your comment and votes, thanks [[:fa:کاربر:Mjbmr|<span style="text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml">Mjbmr</span>]] <sup>[[:fa:بحث کاربر:mjbmr|<span style="color:red">Talk</span>]]</sup> 20:35, 25 януара 2011 (CET)
+::Seems to be OK but on dewikinews this bot caused some lost links, what happened there? [[Користувач:Gazeb|Gazeb]] 21:05, 25 януара 2011 (CET)
+:::i did nothing wrong there, the problem was with pywikipedia because it will remove interwiki to closed wikis and hlwikinews was closed and an admin told me that it removed a valid link, many people are accept with this but that admin is not, you check other blocking reasons [http://de.wikinews.org/w/index.php?title=Spezial%3ALogbuch&type=block&user=Aholtman&page=&year=&month=-1 here] she blocked other bots too and already there is none active bot there [[:fa:کاربر:Mjbmr|<span style="text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml">Mjbmr</span>]] <sup>[[:fa:بحث کاربر:mjbmr|<span style="color:red">Talk</span>]]</sup> 21:12, 25 януара 2011 (CET)
+
+Не існує такої мови.
