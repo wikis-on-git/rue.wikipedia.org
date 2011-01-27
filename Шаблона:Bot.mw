@@ -1,11 +1,11 @@
 {| class="messagebox"
 |align="center"|[[Image:Crystal Clear action run.png|50px]]
-|align="left" width="100%"|'''Цей користувач є [[Вікіпедія:Боти|ботом]], оператором якого є [[:{{{site|rue}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|rue}}}:User talk:{{{1}}}|обговорення]]).'''
-Це автомат, чи, радше, напівавтомат для виконання повторюваних редагувань, які зазвичай нерозумно робити вручну.
+|align="left" width="100%"|'''Сесь хоснователь є [[Вікіпедія:Боты|ботом]], оператором якого є [[:{{{site|rue}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|rue}}}:User talk:{{{1}}}|діскузія]]).'''
+Тото є автомат, ці, радше, напівавтомат про выконаня повторываных едітовань, якы звычайно нерозумно робити ручно.
 <br>
-<small>''Адміністратори: якщо цей бот функціонує неправильно чи робить щось шкідливе, будь ласка [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} заблокуйте його].'</small>
+<small>''Адміністраторы: кідь тот бот функціонує неправилно ці робить штось шкодливе, просиме [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} заблокуйте ёго].'</small>
 |}
-{{{category|[[Категорія:Вікіпедія:Боти|<includeonly>{{PAGENAME}}</includeonly> ]]}}}
+{{{category|[[Категорія:Вікіпедія:Боты|<includeonly>{{PAGENAME}}</includeonly> ]]}}}
 
 <noinclude>
 [[Категорія:Шаблоны|Bot]]
