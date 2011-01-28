@@ -1,0 +1,204 @@
+<div align="center">
+{|align="center" style="width:100%; border:2px #a3b1bf solid; background:#f5faff; text-align:left;"
+|colspan="3" align="center" style="background:#cee0f2; text-align:center;" |
+<h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;">Швыдкый перегляд</h2>
+==== Детейлы найдете на сторінцї [[Help:Як едітовати сторінку]] ====
+|-
+| width="25%" style="background:#cee0f2; padding:0.3em; text-align:center;"|'''Popis'''
+| style="background:#cee0f2; padding:0.3em; text-align:center;"|'''Napíšete'''
+| width="25%" style="background:#cee0f2; padding:0.3em; text-align:center;"|'''Výsledek'''
+|-
+|[[Help:Як едітовати сторінку#Заклады|Курзіва]]
+|
+<tt><nowiki>''курзіва''</nowiki></tt>
+|
+''курзіва''
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Заклады|Тучный текст]]
+|
+<tt><nowiki>'''тучне'''</nowiki></tt>
+|
+'''тучне'''
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Manual:Як едітовати сторінку#Заклады|Тучне курзіва]]
+|
+<tt><nowiki>'''''тучне курзіва'''''</nowiki></tt>
+|
+'''''тучне курзіва'''''
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Одказы і образкы|Інтерный одказ]]<br />
+<div style="padding: 0em .5em; font-size:0.9em;">''(на іншу сторінку Вікіпедії)''</div>
+|
+<tt><nowiki>[[Назва сторінкы]]</nowiki></tt><br />
+<tt><nowiki>[[Назва сторінкы|Текст, котрый ся має указати]]</nowiki></tt>
+|
+[[Назва сторінкы]]<br />
+[[Назва сторінкы|Текст, котрый ся має указати]]
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Одказы і образкы|Екстерный одказ]]<br />
+<div style="padding: 0em .5em; font-size:0.9em;">''(na jiný web)''</div>
+|
+<tt><nowiki>[http://www.example.org Текст, котрый ся має указати]</nowiki></tt><br />
+<tt><nowiki>[http://www.example.org]</nowiki></tt><br />
+<tt><nowiki>http://www.example.org</nowiki></tt>
+|
+[http://www.example.org Текст, котрый ся має указати]<br />
+[http://www.example.org]<br />
+http://www.example.org
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Напрямлїня|Напрямлїня на іншу сторінку]]
+|
+<tt><nowiki>#REDIRECT [[Назва цілёвой сторінкы]]</nowiki></tt>
+|
+[[Файл:Redirect arrow without text.svg|30px]][[Назва цілёвой сторінкы]]
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|rowspan="3"|[[Help:Референції|Одказы на хоснованы жрідла]]
+<div style="padding: 0em .5em; font-size:0.9em;">''Чіслованя фунґує автоматічно.''</div>
+|<div style="margin-left:2em; font-size:0.9em;">''Одказы на хоснованы жрідла (референції) ся творять так:''</div>
+<tt><nowiki>Текст статї.<ref name="test">[http://www.example.org Текст одказу], далшый текст.</ref></nowiki></tt>
+|
+Текст статї.<ref name="test">[http://www.example.org Текст одказу], далшый текст.</ref>
+|-
+|
+<div style="margin-left:2em; font-size:0.9em;">''Одказати уж на раз хосноване жрідло годен так:''</div>
+<tt><nowiki>Текст статї.<ref name="test" /></nowiki></tt>
+|
+Текст статї.<ref name="test" />
+|-
+|<div style="margin-left:2em; font-size:0.9em;">''Вложіня списку жрідел до секції Референції'' ся зробить за помочі команду:''</div>
+<tt><nowiki><references /></nowiki></tt>
+|<references />
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Таблиця вікі командів|Надписы секцій]]<ref name="зачаток-рядку">''Годен хосновати лем на початку рядку.''</ref><br />
+<div style="padding: 0em .5em; font-size:0.9em;">''Таблиця з обсягом ся створить автоматічно, кідь статя обсягує найменє штири надписы.''</div>
+|
+<tt><nowiki>== Рівень 1 ==</nowiki></tt><br />
+<tt><nowiki>=== Рівень 2 ===</nowiki></tt><br />
+<tt><nowiki>==== Рівень 3 ====</nowiki></tt><br />
+<tt><nowiki>===== Рівень 4 =====</nowiki></tt><br />
+<tt><nowiki>====== Рівень 5 ======</nowiki></tt>
+|
+== Рівень 1 ==
+=== Рівень 2 ===
+==== Рівень 3 ====
+===== Рівень 4 =====
+====== Рівень 5 ======
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Таблиця вікі командів|Список з одсеками]]
+<div style="padding: 0em .5em; font-size:0.9em;">''Не давайте міджі положкы порожнёго рядку (смоть чіслованы спискы).''</div>
+|
+<tt>* Єден</tt><br />
+<tt>* Два</tt><br />
+<tt>** Два і пів</tt><br />
+<tt>* Три</tt>
+|
+* Єдна
+* Два
+** Два і пів
+* Три
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Як едітовати сторінку#Таблиця вікі командів|Чіслованый список]]
+<div style="padding: 0em .5em; font-size:0.9em;">''Порожнїй рядок міджі двоми положками запричінить знову чіслованя од&nbsp;1.''</div>
+|
+<tt># Єден</tt><br />
+<tt># Два</tt><br />
+<tt>## Два і пів</tt><br />
+<tt># Три</tt><br />
+|
+# Єдна
+# Два
+## Два і пів
+# Три
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|[[Help:Образкы|Нагляд образку]]
+|
+<tt><nowiki>[[Файл:Wiki.png|thumb|Текст попису]]</nowiki></tt>
+|
+[[Файл:Wiki.png|thumb|Текст попису]]
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|
+[[Вікіпедія:Математічны формулы]]
+|
+<nowiki><math>\int_\Omega  \mathrm{d}P \mathrm{d} Q</math></nowiki>
+|
+<math>\int_\Omega  \mathrm{d}P \mathrm{d} Q</math>
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+| colspan="3" style="background:#E6F2FF; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | Про [[Вікіпедія:Супроводник (діскузії)|діскузны сторінкы]]
+|-
+|Підпис
+|
+<tt><nowiki>~~~~</nowiki></tt>
+|
+[[Special:Mypage|Ваше хосновательске імя]] {{CURRENTTIME}}, <br />
+{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} (UTC) 
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|Одсаджованя коментарїв
+|
+<tt><nowiki>без одсеку (основный текст)</nowiki></tt><br />
+<tt><nowiki>:першый одсек</nowiki></tt><br />
+<tt><nowiki>::двоїтый одсек</nowiki></tt><br />
+<tt><nowiki>:::троїтый одсек</nowiki></tt>
+|
+без одсеку (основный текст)
+:першый одсек
+::двоїтый одсек
+:::троїтый одсек
+|-
+
+|colspan="3" style="border-top:1px solid #cee0f2; font-size:0.9em;"|<references/>
+|}
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+
+[[Category:Help|{{PAGENAME}}]]
+
+[[ar:مساعدة:أساسيات التحرير]]
+[[bg:Уикипедия:Наръчник/Уикипищов]]
+[[ca:Viquipèdia:Apunts d'ajuda]]
+[[cy:Wicipedia:Tudalendwyllo]]
+[[en:Wikipedia:Cheatsheet]]
+[[es:Ayuda:Referencia rápida]]
+[[fa:ویکی‌پدیا:کارت راهنما]]
+[[gl:Wikipedia:Referencia rápida]]
+[[hr:Wikipedija:Šalabahter]]
+[[id:Wikipedia:Pedoman ringkas]]
+[[ja:Help:早見表]]
+[[ka:ვიკიპედია:შპარგალკა]]
+[[lo:ຊ່ວຍເຫຼືອ:ເຈ້ຍກ່າຍ]]
+[[mk:Википедија:Помошна табела]]
+[[mr:विकिपीडिया:टाचण]]
+[[nl:Wikipedia:Spiekbriefje]]
+[[ru:Википедия:Шпаргалка]]
+[[sh:Pomoć:Papirić]]
+[[th:วิธีใช้:การแก้ไขหน้าพื้นฐาน]]
+[[tr:Vikipedi:Hızlı rehber]]
+[[uk:Вікіпедія:Шпаргалка]]
+[[zh:Wikipedia:備忘單]]
