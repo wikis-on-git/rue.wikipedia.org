@@ -1,0 +1,20 @@
+<includeonly><div style="background:#F0F8FF;border:1px dotted #8BCBFF;padding:10px;margin-top:10px;clear:both;">__NOEDITSECTION__
+<div padding-right:1em;">{{tlinks|lc={{{1}}}|diswatchlink=yes}}</div><span style="font-size:11pt;line-height:11pt;">[[File:information.svg|20px|Документация|link=]]&nbsp;Документация</span>
+----</includeonly><noinclude>
+{{doc-inline}}
+Используется в {{tl|doc}} для создания заглавия и навигации.
+
+См. также:
+* {{tl|Doc/end}}
+[[Category:Википедия:Шаблоны для документирования шаблонов|{{PAGENAME}}]]
+[[Category:Шаблоны:Для шаблонов|{{PAGENAME}}]]
+[[ba:Ҡалып:Doc/begin]]
+[[bg:Шаблон:Doc/begin]]
+[[dsb:Pśedłoga:Zachopjeńk dokumentacije]]
+[[eo:Ŝablono:Ŝablona dokumentada komenco]]
+[[hsb:Předłoha:Dokumentacija/spočatk]]
+[[pnt:Πρότυπον:Doc/beginning]]
+[[ru:Шаблон:Doc/begin]]
+[[stq:Foarloage:Dokumentation/Ounfang]]
+[[xal:Кевләр:Template doc begin]]
+</noinclude>
