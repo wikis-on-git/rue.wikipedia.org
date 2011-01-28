@@ -1,2 +1,2 @@
-'''Головна статя:''' [[{{{1<includeonly>|{{PAGENAME}}</includeonly><noinclude><nowiki>|{{PAGENAME}}</nowiki></noinclude>}}}]]<!--
+'''Головна статя:''' [[{{#if: {{{2}}} | {{{1}}}{{!}}{{{2}}} | {{{1<includeonly>|{{PAGENAME}}</includeonly><noinclude><nowiki>|{{PAGENAME}}</nowiki></noinclude>}}}}}]]<!--
 --><noinclude>{{Documentation}}</noinclude>
