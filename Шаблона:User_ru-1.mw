@@ -1,10 +1,33 @@
-{{#switch:{{{1}}}
- |name = Russian
- |text = {{#switch:{{{2}}}
-|0=Этот участник не умеет читать или писать [[:category:user ru|на русском языке]]
-|1=Этот участник владеет [[:category:user ru|русским языком]] на начальном уровне
-|2=Этот участник владеет [[:category:user ru|русским языком]] на среднем уровне
-|3=Этот участник бегло говорит и пишет на [[:category:user ru|русском языке]]
-|4=Этот участник владеет [[:category:user ru|русским языком]] почти как родным
-|N=Для этого участника [[:category:user ru|русский язык]] является родным}}.
-}}
+{{userbox-level
+| level    = 1
+| id       = [[Russian language|ru]]
+| info     = Этот участник владеет '''[[:Category:User ru|русским языком]]''' на '''[[:Category:User ru-1|начальном уровне]]'''.
+| usercategory  = User ru
+| usercategory2 = User ru-1
+| nocat = {{{nocat|}}}
+}}<noinclude>
+<br><br><br><br>{{languages|Russian|ru}}
+
+[[Category:User templates ru|ru-1]]
+
+[[bo:Template:User ru-1]]
+[[cs:Šablona:User ru-1]]
+[[de:Vorlage:User ru-1]]
+[[nv:Bee álnééhí:User ru-1]]
+[[dz:Template:User ru-1]]
+[[es:Plantilla:·Usuarios por idioma (ru-1)]]
+[[eu:Txantiloi:·Hizkuntza (ru-1)]]
+[[gv:Clowan:Ymmydeyr ru-1]]
+[[id:Templat:User ru-1]]
+[[lb:Schabloun:Benotzer ru-1]]
+[[lt:Šablonas:User ru-1]]
+[[nl:Sjabloon:Gebruiker ru-1]]
+[[nds-nl:Mal:Gebruker ru-1]]
+[[no:Mal:Bruker ru-1]]
+[[uz:Andoza:User ru-1]]
+[[pap:Template:User ru-1]]
+[[pt:Predefinição:User ru-1]]
+[[ru:Шаблон:User ru-1]]
+[[sah:Халыып:User ru-1]]
+[[uk:Шаблон:User ru-1]]
+</noinclude>
