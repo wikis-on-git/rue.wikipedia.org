@@ -1,0 +1,35 @@
+<span lang="{{{1}}}" xml:lang="{{{1}}}">{{{2}}}</span>{{#if:{{NAMESPACE}}
+| <!--Not article space, do nothing-->
+| <!--Article space-->
+  [[Category:Статї обсягуючі {{#switch:{{{1|}}}
+  |ar       = Arabic
+  |es       = Spanish
+  |de       = German
+  |fr       = French
+  |ja       = Japanese
+  |zh       = Chinese
+  |bg       = Bulgarian
+  |cs       = Czech
+  |da       = Danish
+  |nl       = Dutch
+  |et       = Estonian
+  |fi       = Finnish
+  |el       = Greek
+  |hu       = Hungarian
+  |ga       = Irish
+  |grc      = Ancient Greek
+  |la|lat   = Latin
+  |cy       = Welsh
+  |sl       = Slovene
+  |slv       = Slovene
+  |en|eng   = прямо цітованый анґліцькый 
+  |#default = {{#ifexist:Category:Articles containing {{ISO 639 name {{{1|}}}}} language text
+    |{{ISO 639 name {{{1|}}}}}
+    |non-English
+    }}
+  }} языковый текст]]
+}}<noinclude>
+
+{{Documentation}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>
