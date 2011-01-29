@@ -1,0 +1,14 @@
+{{{{{|safesubst:}}}#ifeq: x{{{{{|safesubst:}}}#if:x|{{{1|}}}}} | x{{{{{|safesubst:}}}padleft:{{{1|}}}| 500 }}   <noinclude><!-- str >= 500 --></noinclude>
+| 500
+| {{{{{|safesubst:}}}str len/core   <noinclude><!-- xx0-xx9 --></noinclude>
+  |{{{{{|safesubst:}}}#if:x|{{{1|}}}}}
+  | {{{{{|safesubst:}}}str len/core   <noinclude><!-- x0x-x9x --></noinclude>
+    |{{{{{|safesubst:}}}#if:x|{{{1|}}}}}
+    | {{{{{|safesubst:}}}str len/core   <noinclude><!-- 0xx-4xx --></noinclude>
+      |{{{{{|safesubst:}}}#if:x|{{{1|}}}}}
+      | | hundreds
+      }}| tens
+    }}| ones
+  }}
+}}<!--
+--><noinclude>{{Documentation}}</noinclude>
