@@ -2,7 +2,7 @@
 | style="padding-right: 4px; padding-left: 4px;" | [[Image:Translation to english arrow.svg|50px]]
 | '''Тота статя (або ёго часть) потребує [[Вікіпедія:Вікіпроєкт Переклад|перекласти]] до русинчіны.''' <br/> Кідь ку перекладу не дійде до тыждня, буде статя (або часть з іншоязычным текстом) [[Вікіпедія:Одложене змазаня|змазана]]. Можете Вікіпедії помочі тым, же го <span class="plainlinks">[{{fullurl:{{FULLPAGENAME}}|action=edit}} вылїпшыте]</span>.<br /><small>Час означіня є {{#time:j. n. Y H.i|{{{1|}}} +{{CURRENTUTCOFFSET}} hours}} SE(L)Č, т.є. змазаный буде {{#time:j. n. Y H.i|{{{1|}}} +7 days +{{CURRENTUTCOFFSET}} hours}} SE(L)Č.</small>
 |}<includeonly>
-{{Category|Статї про переклад||{{#if:{{#ifexpr:{{{1}}}}}|!}} {{{1}}}{{PAGENAME}}}}
+{{Катеґорія|Статї про переклад||{{#if:{{#ifexpr:{{{1}}}}}|!}} {{{1}}}{{PAGENAME}}}}
 </includeonly><noinclude>
 ----
 Тота шаблона вкладать статї до [[:Category:Статї про переклад]].
