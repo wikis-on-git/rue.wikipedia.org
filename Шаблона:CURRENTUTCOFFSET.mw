@@ -1,0 +1,1 @@
+{{#expr: 1 + {{#expr: {{#time:Y}}03{{#expr: 31 - (5*{{#time:Y}} div 4 + 4) mod 7}}010000 < {{#time:YmdHis}} and {{#time:YmdHis}} <= {{#time:Y}}10{{#expr:31 - (5*{{#time:Y}} div 4 + 1) mod 7}}010000}}}}
