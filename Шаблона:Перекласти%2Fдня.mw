@@ -5,7 +5,7 @@
 {{Category|Статї про переклад||{{#if:{{#ifexpr:{{{1}}}}}|!}} {{{1}}}{{PAGENAME}}}}
 </includeonly><noinclude>
 ----
-Тота шаблона вкладать статї до [[:Category:Статї про переклад]].
+
 [[Category:Шаблоны про управу статей|{{PAGENAME}}]]
 
 [[en:Template:Not English]]
