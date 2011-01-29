@@ -1,0 +1,21 @@
+<includeonly>{| class="toccolours" style="float:right; margin-left:1em; margin-bottom:0.5em; clear:right; text-align:center; {{{стиль|}}}"
+|- style="background:{{#if: {{{бет|}}} | {{{бет}}} | &#35;ccf}}"
+|colspan="7"|[[{{ #time: F | {{{date|}}} - 1 month}}|&larr;]] '''[[{{ucfirst: {{ #time: F | {{{date|}}}}}}}]]''' [[{{ #time: F | {{{date|}}} + 1 month}}|&rarr;]]
+|- style="background:{{#if: {{{цвет2|}}} | {{{цвет2}}} | &#35;ccf}};"
+| style="width:14%;" | [[Понедїлёк|Пн]]
+| style="width:14%;" | [[Віторок|Вт]]
+| style="width:14%;" | [[Середа|Ср]]
+| style="width:14%;" | [[Четверь|Чт]]
+| style="width:14%;" | [[Пятніця|Пт]]
+| style="width:14%;" | [[Субота|Сб]]
+| style="width:14%;" | [[Недїля|Нд]]
+{{Календар на місяць/Тыждень|day={{#expr: 2-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{Календар на місяць/Тыждень|day={{#expr: 9-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{Календар на місяць/Тыждень|day={{#expr:16-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{Календар на місяць/Тыждень|day={{#expr:23-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{Календар на місяць/Тыждень|day={{#expr:30-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{Календар на місяць/Тыждень|day={{#expr:37-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+|- style="background:{{#if: {{{бет2|}}} | {{{бет2}}} | &#35;ccf}};"
+| colspan="7" | {{{подвал|<small>[[{{#time:Y|{{{date|}}}}}]]</small>}}}
+|}</includeonly><noinclude><!--
+--><noinclude>{{Documentation}}</noinclude>
