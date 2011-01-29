@@ -1,0 +1,15 @@
+{{#ifexpr: {{#time:Ymd|{{{1|}}}}} <= {{#time:Ymd|}} 
+OR {{#ifexist:Вікіпедія:Статті-кандидати на вилучення/{{#time:j xg Y|{{{1|}}}}}|1|0}} |
+<tr><td>'''[[Вікіпедія:Статті-кандидати на вилучення/{{#time:j xg Y|{{{1|}}}}}|{{#time:j"&nbsp;"xg |{{{1|}}}}}]]''' 
+{{#ifexpr: {{#time:Ymd|{{{1|}}}}} > {{#time:Ymd|-8days}}| 
+ <small>до&nbsp;{{#time:j"&nbsp;"M|{{{1|}}}+7days}}</small>
+}}
+</td><td>{{{2}}}</td>
+</tr>
+|}}
+{{#ifexpr: {{#time:Ymd|{{{1|}}}}} = {{#time:Ymd|-7days}} | 
+<tr><td colspan=2 style="text-align:center;color:white;background:gray">'''Обговорення, що закінчилися нещодавно і потребують підведення підсумків'''</td></tr>
+|}}<noinclude>
+[[ru:Шаблон:Удаление статей]]
+[[uk:Шаблон:Вилучення статей]]
+</noinclude>
