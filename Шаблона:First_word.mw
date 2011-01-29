@@ -1,0 +1,2 @@
+{{#ifeq: {{str find|{{{1|}}}|}} | -1 | {{{1|}}} | {{trunc|{{{1|}}}|{{str find|{{{1|}}}| }}}}}}<!--
+--><noinclude>{{Documentation}}</noinclude>
