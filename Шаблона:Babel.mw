@@ -1,6 +1,6 @@
 {| name="userboxes" id="userboxes" style="float: {{{align|right}}}; margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: #99B3FF solid 1px; clear: right"
 |-
-! style="background-color: {{{color|}}}; text-align: center" colspan="10" | {{{header|[[Wikipedie:Бабілон|Языковы знаня]]}}}
+! style="background-color: {{{color|}}}; text-align: center" colspan="10" | {{{header|[[Вікіпедія:Бабілон|Языковы знаня]]}}}
 |-
 | {{#if:{{{1|}}}|{{User {{{1}}}}}
 }}{{#if:{{{2|}}}|{{User {{{2}}}}}
