@@ -1,6 +1,6 @@
 <includeonly>{| class="toccolours" style="float:right; margin-left:1em; margin-bottom:0.5em; clear:right; text-align:center; {{{стиль|}}}"
 |- style="background:{{#if: {{{бет|}}} | {{{бет}}} | &#35;ccf}}"
-|colspan="7"|[[{{ #time: F | {{{date|}}} - 1 month}}|&larr;]] '''[[{{ucfirst: {{ #time: F | {{{date|}}}}}}}]]''' [[{{ #time: F | {{{date|}}} + 1 month}}|&rarr;]]
+|colspan="7"|[[{{#time: F|{{{date|}}} - 1 month}}|&larr;]] '''[[{{ucfirst: {{ЮнійЮлій|{{#time: F|{{{date|}}}}}}}}}]]''' [[{{#time: F|{{{date|}}} + 1 month}}|&rarr;]]
 |- style="background:{{#if: {{{цвет2|}}} | {{{цвет2}}} | &#35;ccf}};"
 | style="width:14%;" | [[Понедїлёк|Пн]]
 | style="width:14%;" | [[Віторок|Вт]]
@@ -17,5 +17,6 @@
 {{Календар на місяць/Тыждень|day={{#expr:37-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
 |- style="background:{{#if: {{{бет2|}}} | {{{бет2}}} | &#35;ccf}};"
 | colspan="7" | {{{подвал|<small>[[{{#time:Y|{{{date|}}}}}]]</small>}}}
-|}</includeonly><noinclude><!--
+|}<!--
+-->{{Календар на місяць/Катеґорії|{{#time: F|{{{date}}}}}}}</includeonly><noinclude><!--
 --><noinclude>{{Documentation}}</noinclude>
