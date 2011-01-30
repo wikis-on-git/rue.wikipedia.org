@@ -87,10 +87,10 @@ __NOTOC__
 {{Introduction}}
 </div>
 </div>
-<center><small>[http://translatewiki.net/wiki/Translating:Group_statistics Штатістіка ґруп на Betawiki] - [[mw:Localisation_statistics|Штатістіка локалізацій на Mediawiki]]</small></center>
+<center><small>[[translatewiki:Translating:Group statistics|Штатістіка ґруп на Betawiki]] - [[mw:Localisation statistics|Штатістіка локалізацій на Mediawiki]]</small></center>
 <center>'''Найчастїше хоснованы повідомлїня 100% [[Image:Yes check.svg|20px]] ''' -  '''MediaWiki повідомлїя 100% [[Image:Yes check.svg|15px]] '''</center>
 
-<center><small>[http://translatewiki.net/wiki/Special:Translate?task=untranslated&group=ext-0-wikimedia&limit=2000&language=rue Ту треба далшый русиньскый переклад] </small></center>
+<center><small>[[translatewiki:Special:Translate?task=untranslated&group=ext-0-wikimedia&limit=2000&language=rue|Ту треба далшый русиньскый переклад]]</small></center>
 <!------- Спіднї одказы -------> 
 <div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
 <small class="plainlinks">
