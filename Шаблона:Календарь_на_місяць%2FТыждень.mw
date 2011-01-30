@@ -1,12 +1,12 @@
 <includeonly>{{ #ifexpr: {{{day}}} + 6 > 0 and {{{day}}} <= {{{monthdays}}} |
 {{!-}}
-{{!}} {{ #ifexpr: {{{day}}} > 0 and {{{day}}} <= {{{monthdays}}} | [[{{{day}}} {{#time: xg| {{{date}}} }}|{{{day}}}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 1 > 0 and {{{day}}} + 1 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 1 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 1 }}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 2 > 0 and {{{day}}} + 2 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 2 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 2 }}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 3 > 0 and {{{day}}} + 3 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 3 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 3 }}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 4 > 0 and {{{day}}} + 4 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 4 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 4 }}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 5 > 0 and {{{day}}} + 5 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 5 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 5 }}]] | &nbsp; }}
-{{!}} {{ #ifexpr: {{{day}}} + 6 > 0 and {{{day}}} + 6 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 6 }}. {{#time: F| {{{date}}} }}|{{ #expr: {{{day}}} + 6 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} > 0 and {{{day}}} <= {{{monthdays}}} | [[{{{day}}}. {{{місяць}}}|{{{day}}}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 1 > 0 and {{{day}}} + 1 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 1 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 1 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 2 > 0 and {{{day}}} + 2 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 2 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 2 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 3 > 0 and {{{day}}} + 3 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 3 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 3 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 4 > 0 and {{{day}}} + 4 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 4 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 4 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 5 > 0 and {{{day}}} + 5 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 5 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 5 }}]] | &nbsp; }}
+{{!}} {{ #ifexpr: {{{day}}} + 6 > 0 and {{{day}}} + 6 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 6 }}. {{{місяць}}}|{{ #expr: {{{day}}} + 6 }}]] | &nbsp; }}
 {{!-}}
 }}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
