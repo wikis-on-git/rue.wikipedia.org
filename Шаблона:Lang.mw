@@ -1,7 +1,7 @@
 <span lang="{{{1}}}" xml:lang="{{{1}}}">{{{2}}}</span>{{#if:{{NAMESPACE}}
 | <!--Not article space, do nothing-->
 | <!--Article space-->
-  [[Category:Статї, обсягуючі {{#switch:{{{1|}}}
+  [[Category:Статї обсягуючі {{#switch:{{{1|}}}
   |ar       = Arabic
   |es       = Spanish
   |de       = German
@@ -21,8 +21,10 @@
   |la|lat   = Latin
   |lv       = латыськый
   |cy       = Welsh
+  |ru       = російскый
   |sl       = Slovene
   |slv       = Slovene
+  |uk       = україньскый
   |en|eng   = прямо цітованый анґліцькый 
   |#default = {{#ifexist:Category:Articles containing {{ISO 639 name {{{1|}}}}} language text
     |{{ISO 639 name {{{1|}}}}}
