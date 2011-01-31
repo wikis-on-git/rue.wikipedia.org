@@ -1,0 +1,12 @@
+<!--{{Citation needed}} begin-->{{fix
+|link=Wikipedia:Citation needed
+|text=істочник?
+|class=Template-Fact
+|title=This claim needs references to reliable sources
+|date={{{date|}}}
+|cat=[[Category:All articles with unsourced statements]]
+|cat-date=Category:Articles with unsourced statements}}{{#if:{{{1|}}}
+ |[[Category:Articles using citation needed template with unnamed parameter]]
+}}{{#ifeq:{{NAMESPACE}}|{{<includeonly>subst:</includeonly>NAMESPACE}}|<includeonly>[[Category:Pages with incorrectly substituted templates]]</includeonly>|}}<!--{{Citation needed}} end--><noinclude>
+{{documentation}}
+</noinclude>
