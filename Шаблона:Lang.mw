@@ -1,7 +1,7 @@
 <span lang="{{{1}}}" xml:lang="{{{1}}}">{{{2}}}</span>{{#if:{{NAMESPACE}}
 | <!--Not article space, do nothing-->
 | <!--Article space-->
-  [[Category:Статї обсягуючі {{#switch:{{{1|}}}
+  [[Category:Статї, обсягуючі {{#switch:{{{1|}}}
   |ar       = Arabic
   |es       = Spanish
   |de       = German
