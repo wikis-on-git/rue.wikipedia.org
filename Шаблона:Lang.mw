@@ -1,38 +1,45 @@
-<span lang="{{{1}}}" xml:lang="{{{1}}}">{{{2}}}</span>{{#if:{{NAMESPACE}}
+<span lang="{{{1}}}" xml:lang="{{{1}}}" class="description {{{1}}}">{{{2}}}</span>{{#if: {{NAMESPACE}}
 | <!--Not article space, do nothing-->
 | <!--Article space-->
-  [[Category:Статї обсягуючі {{#switch:{{{1|}}}
-  |ar       = Arabic
-  |es       = Spanish
-  |de       = German
-  |fr       = French
-  |ja       = Japanese
-  |zh       = Chinese
+  [[Category:Статї обсягуючі {{#switch: {{Str rep|{{{1|}}}|-Latn}}
+  |ar|ara       = арабскый
   |bg       = Bulgarian
+  |bn|ben      = бенґальскый
   |cs       = Czech
-  |da       = Danish
-  |nl       = Dutch
-  |et       = Estonian
-  |fi       = Finnish
-  |el       = Greek
-  |hu       = Hungarian
-  |ga       = Irish
-  |grc      = Ancient Greek
-  |la|lat   = Latin
-  |lv       = латыськый
+  |cu|chu      = старословєньскый
   |cy       = Welsh
-  |ru       = російскый
-  |sl       = Slovene
-  |slv       = Slovene
-  |uk       = україньскый
-  |en|eng   = прямо цітованый анґліцькый 
-  |#default = {{#ifexist:Category:Articles containing {{ISO 639 name {{{1|}}}}} language text
+  |da       = Danish
+  |de|deu       = нїмецькый
+  |el|ell       = ґрецькый
+  |en|eng   = анґліцькый 
+  |eo|epo      = Есперанто
+  |es|spa       = шпанєльскый
+  |et       = Estonian
+  |fa|fas      = перьскый
+  |fi       = Finnish
+  |fr|fra       = французькый
+  |ga       = Irish
+  |grc      = староґрецькый
+  |he|heb      = гебрейскый
+  |hi|hin      = гінді
+  |hu       = Hungarian
+  |ja|jpn      = японьскый
+  |la|lat   = Latin
+  |lv|lav       = латыськый
+  |nl       = Dutch
+  |peo     = староперьскый
+  |ru|rus       = російскый
+  |sa|san      = санскріт
+  |sl|slv       = Slovene
+  |ta|tab      = тамільскый
+  |tr|tur      = турецькый
+  |uk|ukr       = україньскый
+  |zh|zho       = кітайскый
+  |rue      = прямо цітованый русиньскый 
+  |#default = {{#ifexist: Category:Articles containing {{ISO 639 name {{{1|}}}}} language text
     |{{ISO 639 name {{{1|}}}}}
-    |non-English
+    |non-Rusyn
     }}
   }} языковый текст]]
-}}<noinclude>
-
-{{Documentation}}
-<!-- Add cats and interwikis to the /doc subpage, not here! -->
-</noinclude>
+}}<!--
+--><noinclude>{{Documentation}}</noinclude>
