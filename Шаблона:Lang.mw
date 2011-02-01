@@ -39,7 +39,7 @@
   |rue      = прямо цітованый русиньскый 
   |#default = {{#ifexist: Category:Articles containing {{ISO 639 name {{{1|}}}}} language text
     |{{ISO 639 name {{{1|}}}}}
-    |non-Rusyn
+    |нерусиньскый
     }}
   }} языковый текст]]
 }}<!--
