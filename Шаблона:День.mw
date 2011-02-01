@@ -1,0 +1,2 @@
+<includeonly>{{nowrap|{{{1}}} {{#if: {{{2}}} | [[День|{{#ifexpr: {{{1}}} < 2 | день | {{#switch: {{{1}}} | 2 | 3 | 4 = днї | #default = днїв}}}}]] | {{#ifexpr: {{{1}}} < 2 | день | {{#switch: {{{1}}} | 2 | 3 | 4 = днї | #default = днїв}}}}}}}}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>
