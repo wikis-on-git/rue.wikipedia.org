@@ -1,0 +1,2 @@
+<includeonly>{{#ifexpr: {{str find|{{{1}}}|{{{2}}}}} < 0 | {{{1}}} | {{str left|{{{1}}}|{{#expr: {{str find|{{{1}}}|{{{2}}}}} - 1}}}}{{{3|}}}{{str right|{{{1}}}|{{#expr: {{str find|{{{1}}}|{{{2}}}}} + {{str len|{{{2}}}}} - {{#if: {{{3|}}} | 1 | 0}}}}}}}}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>
