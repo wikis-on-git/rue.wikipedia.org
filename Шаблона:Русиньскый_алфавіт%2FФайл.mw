@@ -1,4 +1,39 @@
 <includeonly>{{#switch: {{PAGENAME}}
+| А = Cyrillic letter A - uppercase and lowercase.svg
+| Б = Cyrillic letter Be - uppercase and lowercase.svg
+| В = Cyrillic letter Ve - uppercase and lowercase.svg
+| Г = Cyrillic letter Ge - uppercase and lowercase.svg
+| Ґ = Cyrillic letter Ghe with upturn.png
+| Д = Cyrillic letter De - uppercase and lowercase.svg
+| Е = Cyrillic letter Ye - uppercase and lowercase.svg
+| Є = Ukrainian Ye - uppercase and lowercase.svg
+| Ё = Cyrillic letter Yo - uppercase and lowercase.svg
+| Ж = Cyrillic letter Zhe - uppercase and lowercase.svg
+| З = Cyrillic letter Ze - uppercase and lowercase.svg
+| И = Cyrillic letter I - uppercase and lowercase.svg
+| І = Cyrillic letter dotted I - uppercase and lowercase.svg
+| Ы = Cyrillic letter Yery - uppercase and lowercase.svg
 | Ї = Cyrillic letter dotted Yi - uppercase and lowercase.svg
-}}</includeonly><!--
+| Й = Cyrillic letter short I - uppercase and lowercase.svg
+| К = Cyrillic letter Ka - uppercase and lowercase.svg
+| Л = Cyrillic letter El - uppercase and lowercase.svg
+| М = Cyrillic letter Em - uppercase and lowercase.svg
+| Н = Cyrillic letter En - uppercase and lowercase.svg
+| О = Cyrillic letter O - uppercase and lowercase.svg
+| П = Cyrillic letter Pe - uppercase and lowercase.svg
+| Р = Cyrillic letter Er - uppercase and lowercase.svg
+| С = Cyrillic letter Es - uppercase and lowercase.svg
+| Т = Cyrillic letter Te - uppercase and lowercase.svg
+| У = Cyrillic letter U - uppercase and lowercase.svg
+| Ф = Cyrillic letter Ef - uppercase and lowercase.svg
+| Х = Cyrillic letter Kha - uppercase and lowercase.svg
+| Ц = Cyrillic letter Tse - uppercase and lowercase.svg
+| Ч = Cyrillic letter Che - uppercase and lowercase.svg
+| Ш = Cyrillic letter Sha - uppercase and lowercase.svg
+| Щ = Cyrillic letter Shcha - uppercase and lowercase.svg
+| Ѣ =  Cyrillic letter Yat.png
+| Ю = Cyrillic letter Yu - uppercase and lowercase.svg
+| Я = Cyrillic letter Ya - uppercase and lowercase.svg
+| Ь = Cyrillic letter Yeri - uppercase and lowercase.svg
+| Ъ = Italic Cyrillic letter Yer - uppercase and lowercase.svg}}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
