@@ -3,23 +3,23 @@
 <div style="font-size:x-small;">{{purge|Purge page cache}}</div>
 
 <!-- the above is useful when new cats are being set up --> 
-{{#if:{{{message|}}}|{{{message}}}|
+{{#if: {{{message|}}} | {{{message}}} |
 
-This category contains articles with {{#if:{{{1|}}}|[[{{{1|}}} язык]]|the above mentioned non-Rusyn language}} {{#if:{{{script|}}}|(in {{{script}}})}} text.
+This category contains articles with {{#if: {{{1|}}} | [[{{{1|}}} язык]] | the above mentioned нерусиньскый язык}} {{#if: {{{script|}}} | (in {{{script}}})}} text.
 
 The purpose of these categories is to facilitate manual or automated checking of text in other languages.}}
 
 This category should only be added with the <code>{{tl|lang}}</code> family of templates, never explicitly.
 
-For example <code><nowiki>{{Lang|</nowiki>{{{4|{{{3|{{{2|ISO code}}}}}}}}}|{{{example|text in {{{1|non-Rusyn}}} language here}}}<nowiki>}}</nowiki></code>
+For example <code><nowiki>{{Lang|</nowiki>{{{4|{{{3|{{{2|ISO code}}}}}}}}}|{{{example|text in {{{1|нерусиньскый}}} язык here}}}<nowiki>}}</nowiki></code>
 
 == Note ==
 This category is indirectly triggered by the templates: <!--
- -->{{#if:{{{2|}}}|* [[Template:ISO 639 name {{{2}}}]]|}}<!--
- -->{{#if:{{{3|}}}|* [[Template:ISO 639 name {{{3}}}]]|}}<!--
- -->{{#if:{{{4|}}}|* [[Template:ISO 639 name {{{4}}}]]|}}<!--
- -->{{#if:{{{5|}}}|* [[Template:ISO 639 name {{{5}}}]]|}}<!--
- -->{{#if:{{{6|}}}|* [[Template:ISO 639 name {{{6}}}]]|}}.
+ -->{{#if: {{{2|}}} | * [[Template:ISO 639 name {{{2}}}]] | ''None''}}<!--
+ -->{{#if: {{{3|}}} | * [[Template:ISO 639 name {{{3}}}]] | }}<!--
+ -->{{#if: {{{4|}}} | * [[Template:ISO 639 name {{{4}}}]] | }}<!--
+ -->{{#if: {{{5|}}} | * [[Template:ISO 639 name {{{5}}}]] | }}<!--
+ -->{{#if: {{{6|}}} | * [[Template:ISO 639 name {{{6}}}]] | }}.
 
-<includeonly>[[Category:Articles containing non-Rusyn language text| {{{1|}}}]]</includeonly><!--
+<includeonly>[[Category:Статї обсягуючі нерусиньскый языковый текст| {{{1|}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
