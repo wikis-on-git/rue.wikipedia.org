@@ -1,9 +1,9 @@
 {{Інфобокс языка проґрамованя
 | name                   = Scheme
-| logo                   = [[Image:Lambda lc.svg|100px]]
+| logo                   = [[Файл:Lambda lc.svg|100px]]
 | paradigm               = [[Функціоналне проґрамованя|функціонална]]
 | year                   = 1975
-| designer               = [[Guy L. Steele|Guy L. Steele]] and [[Gerald Jay Sussman|Gerald Jay Sussman]]
+| designer               = [[Guy L. Steele]] and [[Gerald Jay Sussman]]
 | latest release version = R6RS (ratified standard)
 | latest release date    = 2007
 | latest test version    = 
@@ -11,26 +11,26 @@
 | typing                 = [[strong typing|strong]], [[dynamic typing|dynamic]]
 | dialects               = [[T (язык проґрамованя)|T]]
 | implementations        = Много. Видь [[:Category:Scheme implementations]]
-| influenced by          = [[Lisp programming language|Lisp]], [[ALGOL|ALGOL]]
-| influenced             = [[Common Lisp|Common Lisp]], [[JavaScript|JavaScript]], [[R (programming language)|R]], [[Ruby (programming language)|Ruby]], [[Dylan (programming language)|Dylan]], [[Lua (programming language)|Lua]], [[Hop (software)|Hop]], [[Racket (programming language)|Racket]]
+| influenced by          = [[Lisp programming language|Lisp]], [[ALGOL]]
+| influenced             = [[Common Lisp]], [[JavaScript]], [[R (programming language)|R]], [[Ruby (programming language)|Ruby]], [[Dylan (programming language)|Dylan]], [[Lua (programming language)|Lua]], [[Hop (software)|Hop]], [[Racket (programming language)|Racket]]
 | operating system       = 
 | license                =
 | website                = 
 | file_ext               = .scm, .ss
 }}
 
-'''Scheme''' є мултіпарадіґматічный проґрамовачій язык. Фунціонална парадіґма належыть міджі такзваны декларатівны парадіґмата. Scheme є єден з двох головный діалектів функціоналного проґрамовачого языка [[Lisp|Lisp]]. Язык предложыли Гай Луіс Стіл (Guy Lewis Steele) і Жералд Джей Сусман (Gerald Jay Sussman) і ёго першый попис быв списаный в роцї 1975. Scheme быв представленый академічному світу через серію статей, нынї знамых як Сусмановы і Стіловы Ламбда Папіря. Язык Scheme дефінують два штандарты: офіціалный IEEE штандарт і штандарт званый Revisedn Report on the Algorithmic Language Scheme, скорочено RnRS, де n є чісло ревізії. Сучасный штандарт є '''R5RS''', і '''R6RS''' ся вывивать.
+'''Scheme''' є мултіпарадіґматічный проґрамовачій язык. Фунціонална парадіґма належыть міджі такзваны декларатівны парадіґмата. Scheme є єден з двох головный діалектів функціоналного проґрамовачого языка [[Lisp]]. Язык предложыли Гай Луіс Стіл (Guy Lewis Steele) і Жералд Джей Сусман (Gerald Jay Sussman) і ёго першый попис быв списаный в роцї 1975. Scheme быв представленый академічному світу через серію статей, нынї знамых як Сусмановы і Стіловы Ламбда Папіря. Язык Scheme дефінують два штандарты: офіціалный IEEE штандарт і штандарт званый Revisedn Report on the Algorithmic Language Scheme, скорочено RnRS, де n є чісло ревізії. Сучасный штандарт є '''R5RS''', і '''R6RS''' ся вывивать.
 
 Опроти  Lisp-у ся Scheme снажыть о мінімалізм - додати што найменше чісло основных функцій, на котрых суть пак в книжніцях поставлены зложытїшы конштрукції. Вдяка тому має дотеперь послїдня референція языка лем 50 сторінок.
 
 
 Scheme быв першым діалектом Lisp-у, котрый понукав вольбу міджі лексікалным або дінамічным россягом платности переменной. Тыж быв першым языком, котрый підпоровав „first-class continuation“.
 
-Тот язык є в праксі хоснованый рідше, хоснує ся передовшыктым в школах про учіня проґрамованя алґорітмів. Найзнамішов імплементаціов є ґрафічный едітор [[GIMP|GIMP]], котрого додатковы засувный модулы і скріпты суть писаны в діалектї языка Scheme.
+Тот язык є в праксі хоснованый рідше, хоснує ся передовшыктым в школах про учіня проґрамованя алґорітмів. Найзнамішов імплементаціов є ґрафічный едітор [[GIMP]], котрого додатковы засувный модулы і скріпты суть писаны в діалектї языка Scheme.
 
 == Указаня коду ==
 
-Традічный проґрам [[Hello world|hello world]] вызерать в языку Scheme наприклад так:
+Традічный проґрам [[hello world]] вызерать в языку Scheme наприклад так:
 <source lang="scheme">
 (define (hello)
   (display "Агой світе!")
@@ -45,7 +45,7 @@ Scheme быв першым діалектом Lisp-у, котрый понука
 (define пі 3.14)
 </source>
 
-Наслїдній приклад указує дефініцію функції, котра вырахує [[Факторіал|факторіал]] зазначеного чісла:
+Наслїдній приклад указує дефініцію функції, котра вырахує [[факторіал]] зазначеного чісла:
 <source lang="scheme">
 (define fact
   (lambda (n)
