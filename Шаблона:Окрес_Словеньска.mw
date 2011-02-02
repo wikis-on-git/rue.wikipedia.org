@@ -1,5 +1,5 @@
 {{Navbox
- | name = Окрес Словеньска
+ | name = {{{назва|Окрес Словеньска}}}
  | title = Обцы [[Окрес {{{окрес}}}|окресу {{{окрес}}}]]
  | image = {{flagicon|Slovakia|size=50px}}
  | group1 = Міста 
@@ -8,9 +8,9 @@
  | list2 = <div><!--(reduces gap between wrapped lines)-->
 {{{обцы}}}
 </div>
- | group3 = Села
- | list3 = <div><!--(reduces gap between wrapped lines)-->
+ | group3 = {{#if: {{{села|<noinclude>—</noinclude>}}} | Села}}
+ | list3 = {{#if: {{{села|<noinclude>—</noinclude>}}} | <div><!--(reduces gap between wrapped lines)-->
 {{{села}}}
-</div>
+</div>}}
 }}<includeonly>[[Category:Обцы окресу {{{окрес}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
