@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|словеньскы}}}&#32;
+    | + = [[Словеньскы язык|{{{4|словеньскы}}}]]&#32;
+    | * =
+  }}<!--
+-->{{lang|sk|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon slk}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
