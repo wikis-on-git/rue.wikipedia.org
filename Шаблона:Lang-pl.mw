@@ -1,5 +1,11 @@
-[[Польскый язык|польскы]]: ''{{lang|pl|{{{1}}}}}''<noinclude>
-
-[[Category:Шаблоны языків]]
-
-{{documentation}}</noinclude>
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|польскы}}}&#32;
+    | + = [[Польскый язык|{{{4|польскы}}}]]&#32;
+    | * =
+  }}<!--
+-->{{lang|pl|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon pol}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
