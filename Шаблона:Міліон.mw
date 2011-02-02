@@ -1,0 +1,2 @@
+<includeonly>{{nowrap|{{formatnum: {{{1}}}}} {{#if: {{{2}}} | {{#ifexpr: {{{1}}} < 2 | міліон | {{#switch: {{{1}}} | 2 | 3 | 4 = міліоны | #default = міліонів}}}} | [[Міліон|{{#ifexpr: {{{1}}} < 2 | міліон | {{#switch: {{{1}}} | 2 | 3 | 4 = міліоны | #default = міліонів}}}}]]}}}}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>
