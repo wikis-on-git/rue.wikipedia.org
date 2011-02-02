@@ -1,6 +1,6 @@
 {{Navbox
  | name = Окрес Словеньска
- | title = Населённые пункты [[Окрес {{{окрес}}}|окресу {{{окрес}}}]]
+ | title = Обцы [[Окрес {{{окрес}}}|окресу {{{окрес}}}]]
  | image = {{flagicon|Slovakia|size=50px}}
  | group1 = Міста 
  | list1 = {{{міста}}}
@@ -12,5 +12,5 @@
  | list3 = <div><!--(reduces gap between wrapped lines)-->
 {{{села}}}
 </div>
-}}<includeonly>[[Category:Населённые пункты окресу {{{окрес}}}]]</includeonly><!--
+}}<includeonly>[[Category:Обцы окресу {{{окрес}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
