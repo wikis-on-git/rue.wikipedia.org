@@ -1,8 +1,8 @@
 <includeonly><div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
 <div style="float: left;">{{#ifexist:Media:Wikipedia-logo-v2-{{{1}}}.svg|[[Файл:Wikipedia-logo-v2-{{{1}}}.svg|60px|none|Вікіпедія]]|[[Файл:Wikipedia-logo-v2-en.svg|60px|none|Вікіпедія]]}}</div>
 <div style="margin-left: 10px; text-align: center">
-[[Вікіпедія]] має '''розділ'''<br/>
-'''''[[:{{{1}}}:|{{#if:{{{3|}}}|{{{3}}}}} мовою {{#if:{{{4|}}}|{{{4}}}}}]]'''''{{#if:{{{2}}}|<br/>
+[[Вікіпедія]] має '''верзію'''<br/>
+'''''[[:{{{1}}}:|{{#if:{{{3|}}}|{{{3}}}}} языком {{#if:{{{4|}}}|{{{4}}}}}]]'''''{{#if:{{{2}}}|<br/>
 '''[[:{{{1}}}:{{{2}}}|{{{2}}}]]'''}}
 </div>
 </div>
