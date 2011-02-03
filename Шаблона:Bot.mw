@@ -1,7 +1,7 @@
 {| class="messagebox"
 |align="center"|[[Image:Crystal Clear action run.png|50px]]
 |align="left" width="100%"|'''Сесь хоснователь є [[Вікіпедія:Боты|ботом]], оператором якого є [[:{{{site|rue}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|rue}}}:User talk:{{{1}}}|діскузія]]).'''
-Тото є автомат, ці, радше, напівавтомат про выконаня повторываных едітовань, якы звычайно нерозумно робити ручно.
+Тото є автомат, ці, радше, напівавтомат про выконаня повторёваных едітовань, якы звычайно нерозумно робити ручно.
 <br>
 <small>''Адміністраторы: кідь тот бот функціонує неправилно ці робить штось шкодливе, просиме [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} заблокуйте ёго].'</small>
 |}
