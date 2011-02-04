@@ -1,3 +1,11 @@
-[[Російскый язык|російскы]]: ''{{lang|ru|{{{1}}}}}''<noinclude>
-
-[[Category:Шаблоны языків|ru]]</noinclude>
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|російскы}}}:&#32;
+    | + = [[Російскый язык|{{{4|російскы}}}]]:&#32;
+    | * =
+  }}<!--
+-->{{lang|ru|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon rus}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
