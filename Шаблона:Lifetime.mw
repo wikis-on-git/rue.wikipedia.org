@@ -4,7 +4,7 @@
  || UNKNOWN | MISSING = Year of birth missing {{ {{{|safesubst:}}}#switch:{{ {{{|safesubst:}}}uc:{{{2|}}}}}||LIVING=(living people)}}
  | #default = Народились {{#iferror: {{#ifexpr: {{{1}}}}} | {{{1}}} | {{#ifexpr: {{{1}}} < 0 | {{#expr: trunc-{{{1}}}}} до н. е. | {{#expr: trunc{{{1}}}}}}}}}
 }}]]
-[[Kategorija:{{{{{subst|}}}#switch:{{{{{subst|}}}uc:{{{2|}}}}}
+[[Category:{{{{{subst|}}}#switch:{{{{{subst|}}}uc:{{{2|}}}}}
  || LIVING  = Living people
  | UNKNOWN | MISSING  = Year of death missing
  | #default = Померли {{#iferror: {{#ifexpr: {{{2}}}}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | {{#expr: trunc-{{{2}}}}} до н. е. | {{#expr: trunc{{{2}}}}}}}}}
