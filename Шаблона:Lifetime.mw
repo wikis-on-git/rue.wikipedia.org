@@ -7,7 +7,7 @@
 [[Category:{{{{{subst|}}}#switch:{{{{{subst|}}}uc:{{{2|}}}}}
  || LIVING  = Living people
  | UNKNOWN | MISSING  = Year of death missing
- | #default = Померли в роцї {{#iferror: {{#ifexpr: {{{2}}}}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | {{#expr: trunc-{{{2}}}}} п.н.е. | {{#expr: trunc{{{2}}}}}}}}}
+ | #default = Вмерли в роцї {{#iferror: {{#ifexpr: {{{2}}}}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | {{#expr: trunc-{{{2}}}}} п.н.е. | {{#expr: trunc{{{2}}}}}}}}}
 }}]]<!--
 --></includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
