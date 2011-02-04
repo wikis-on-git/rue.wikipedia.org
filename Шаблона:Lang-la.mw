@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|латиньскы}}}&#32;
+    | + = [[латиньскый язык|{{{4|латиньскы}}}]]&#32;
+    | * =
+  }}<!--
+-->{{lang|la|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon lat}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
