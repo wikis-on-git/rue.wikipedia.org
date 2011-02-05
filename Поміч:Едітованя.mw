@@ -2,7 +2,7 @@
 {|align="center" style="width:100%; border:2px #a3b1bf solid; background:#f5faff; text-align:left;"
 |colspan="3" align="center" style="background:#cee0f2; text-align:center;" |
 <h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;">Швыдкый перегляд</h2>
-==== Детайлы найдете на сторінцї [[Help:Як едітовати сторінку]] ====
+==== Детайлы найдете на сторінцї [[Поміч:Як едітовати сторінку]] ====
 |-
 | width="25%" style="background:#cee0f2; padding:0.3em; text-align:center;"|'''Popis'''
 | style="background:#cee0f2; padding:0.3em; text-align:center;"|'''Napíšete'''
@@ -178,7 +178,7 @@ http://www.example.org
 __NOTOC__ __NOEDITSECTION__
 
 
-[[Category:Help|{{PAGENAME}}]]
+[[Category:Поміч|{{PAGENAME}}]]
 
 [[ar:مساعدة:أساسيات التحرير]]
 [[bg:Уикипедия:Наръчник/Уикипищов]]
