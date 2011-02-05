@@ -2,15 +2,16 @@
  | name = {{{назва|Окрес Словеньска}}}
  | title = Обцы [[Окрес {{{окрес}}}|окресу {{{окрес}}}]]
  | image = {{flagicon|Slovakia|size=50px}}
- | group1 = Міста 
+ | group1 = Міста{{#if: {{{села|<noinclude>—</noinclude>}}} | <small><sup>1</sup></small>}}
  | list1 = {{{міста}}}
- | group2 = Обцы 
+ | group2 = Общіны{{#if: {{{села|<noinclude>—</noinclude>}}} | <small><sup>1</sup>&nbsp;</small>}}
  | list2 = <div><!--(reduces gap between wrapped lines)-->
-{{{обцы}}}
+{{{обцы|{{{общіны}}}}}}
 </div>
- | group3 = {{#if: {{{села|<noinclude>—</noinclude>}}} | Села}}
+ | group3 = {{#if: {{{села|<noinclude>—</noinclude>}}} | Села<small><sup>2</sup></small>}}
  | list3 = {{#if: {{{села|<noinclude>—</noinclude>}}} | <div><!--(reduces gap between wrapped lines)-->
 {{{села}}}
 </div>}}
-}}<includeonly>[[Category:Обцы окресу {{{окрес}}}]]</includeonly><!--
+}}
+{{#if: {{{села|<noinclude>—</noinclude>}}} | -----<small>1 : Адміністратівна і ґеоґрафічна єдиніця. 2 : Ґеоґрафічна єдиніця.</small>}}<includeonly>[[Category:Обцы окресу {{{окрес}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
