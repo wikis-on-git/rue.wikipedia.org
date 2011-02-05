@@ -1,0 +1,5 @@
+<i class="noprint plainlinks">[{{fullurl:{{FULLPAGENAME}}|action=purge}} <small {{#if: {{{color|}}} |style="color:{{{color}}}"}}>Purge server cache</small>]</i><noinclude>
+
+Takes parameter "color" in CSS format.
+
+</noinclude>
