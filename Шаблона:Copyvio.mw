@@ -1,0 +1,74 @@
+{| align="center" border="1" cellspacing="1" cellpadding="3" style="border: 1px solid #000; background: #fff; border-collapse: collapse; margin: .5em 2.5%" 
+| align="center" style="color: #fff; background: #000" |
+<big>'''МОЖНЕ НАРУШІНЯ АВТОРЬСКЫХ ПРАВ'''</big>
+|-
+|<div style="padding: .5em;"><span style="float: right; margin-left: 10px; margin-bottom: 3px; margin-top: 5px">[[Soubor:Copyright.svg|48px|©]]</span>
+Обсяг той сторінкы (або ёго часть) быв одстраненый про '''подозрїня''' з [[Вікіпедія:Авторьске  право|нарушіня авторьскых прав]]. Текст, котрый быв ту вложеный ся выразно подобать тексту з:
+
+:{{{жрідло|{{{1|{{хыба|Хыбить жрідло!}} Вложте тоту шаблону як: <code style="font-style: normal; color:green">&#x7b;&#x7b;copyvio&#x7c;жрідло=URL&#x7d;&#x7d;</code>}}}}}}
+
+Тота сторінка є прото нынї записана на [[Вікіпедія:Нарушіня прав]]. Самотна подоба тексту іщі не значіть, же ку нарушіню прав справды дішло, але абы текст міг на Вікіпедії зістати, треба перевірити ёго походжіня. Як ся не подарить походжіня того тексту овірити, буде статя ці ёго часть по тыжднї змазана.</div>
+|-
+|<div style="padding: .5em;">
+'''Кідь сьте автор матеріалу і сьте згодный з нашыма подмінками нашой ліценції [[GNU Free Documentation License|GFDL]] і ліценції [[CC-BY-SA|CC-BY-SA 3.0]]''', пошлите соглас на [[Вікіпедія:OTRS]] і зазначте тот факт на [[Діскузія:{{PAGENAME}}|діскузна сторінка ку тій статї]]. Або на інтернетовій сторінцї, з котрой текст походить, зазначте ёго ліценцованя подля GFDL і CC-BY-SA 3.0.
+
+Детайлнїшы інформації, як поступовати і в іншых припадах найдете на [[Вікіпедія:Нарушіня прав#Інформації про хоснователя, котрого вложеный текст быв означеный як підозривый з наручіня авторьскый прав|Вікіпедія:Нарушіня прав]].
+
+'''Не обновлюйте без пояснїня одстраненый текст.''' Такый текст вы быв знову одстраненый.
+</div>
+|-
+|<div style="padding: .5em;">
+Вкладаным авторьскых дїл до Вікіпедії '''без прямого согласу''' автора або держітеля прав про шырїня під ліценціями [[GNU Free Documentation License|GFDL]] і [[CC-BY-SA|CC-BY-SA 3.0]] ''нарушуєте закон і правила Вікіпедії''. Хоснователям, котры повторно нарушують тоты правила, може быти заказано едітовати статї. Привітаєме але '''оріґінал вашы''' приспевкы.</div>
+|-
+|
+<center><small> '''Про вкладателя шаблоны''':<br /> [{{fullurl:{{FULLPAGENAME}}|action=history}} Найдьте автора] і вложте му на діскузну сторінку: <code style="font-style: normal; color:green">&#123;{subst:copyvio autor|{{FULLPAGENAME}}}} --&#126;&#126;&#126;&#126;</code><br />припадно хоснуйте про новых хоснователїв <code style="font-style: normal; color:green">&#123;{subst:copyvio новачок|{{FULLPAGENAME}}}} --&#126;&#126;&#126;&#126;</code><br />a&#160;vložte [{{fullurl:Вікіпедія:Нарушіня прав/Статї явно нарушуючі авторьскы права|action=edit&section=2}} sem]: <code style="font-style: normal; color:green">* <nowiki>[[</nowiki>{{FULLPAGENAME}}]] з <nowiki>[</nowiki>{{{жрідло|{{{1|{{хыба|Хыбить жрідло!}}}}}}}}] --&#126;&#126;&#126;&#126;</code><br />
+'''Про адміністраторів''':<br /> Кідь ся тота статя укаже як нарушіня авторьскых прав або до сїм днїв не дійде ку підтверджіню ёго ліценції, [{{fullurl:{{FULLPAGENAMEE}}|action=delete&wpReason=нарушіня+авторьскых+прав+(&#91;&#91;WP:AP&#124;info&#93;&#93;)}} змажте го]</small></center>
+|}
+
+<includeonly>
+{{#switch: {{FULLPAGENAME}}
+  | Вікіпедія:Шаблоны/Нарушіня авторьскых прав = 
+  | [[Категорія:Можне нарушіня авторьскых прав|{{FULLPAGENAME}}]]
+}}
+__NOINDEX__
+</includeonly>
+<noinclude>
+
+Шаблона ся  '''не вкладать''' за помочі subst, лем ся кличе:
+
+ <nowiki>{{copyvio|жрідло= }}</nowiki>
+
+Самособов є треба выповнити параметер <code>жрідло</code> і по вложіню поступовати подля наводу внутрї шаблоны.
+
+[[Категорія:Вікіпедія:Ліценчны шаблоны|Copyvio]]
+
+[[ar:قالب:خرق]]
+[[be-x-old:Шаблён:Аўтарскія правы]]
+[[bg:Шаблон:Авторски права]]
+[[ca:Plantilla:Copyright]]
+[[de:Vorlage:URV]]
+[[en:Template:Copyvio]]
+[[eo:Ŝablono:Neglekto de aŭtororajto]]
+[[es:Plantilla:Posible copyvio]]
+[[fi:Malline:Tekijänoikeus]]
+[[gl:Modelo:Copyvio]]
+[[he:תבנית:הפרת זכויות יוצרים]]
+[[ia:Patrono:Copyvio]]
+[[is:Snið:Höfundaréttarbrot]]
+[[it:Template:ViolazioneCopyright]]
+[[ja:Template:Copyrights]]
+[[ka:თარგი:კოპივო]]
+[[lt:Šablonas:Copyvio]]
+[[lv:Veidne:Autortiesību problēmas]]
+[[pl:Szablon:NPA]]
+[[pt:Predefinição:VDA]]
+[[ro:Format:Copyvio]]
+[[ru:Шаблон:Нарушение авторских прав]]
+[[sk:Šablóna:Porušenie autorských práv/Dokumentácia]]
+[[sv:Mall:Plagiat]]
+[[th:แม่แบบ:ละเมิดลิขสิทธิ์]]
+[[tr:Şablon:Telif]]
+[[vi:Bản mẫu:Vi phạm bản quyền]]
+[[zh:Template:Copyvio]]
+[[zh-yue:Template:Copyvio]]
+</noinclude>
