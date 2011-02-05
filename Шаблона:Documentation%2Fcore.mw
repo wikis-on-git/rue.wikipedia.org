@@ -86,7 +86,7 @@
         #ifexist: {{{testcases| {{FULLPAGENAME}}/testcases }}}
         | [[{{{testcases| {{FULLPAGENAME}}/testcases }}}|testcases]] <small style="font-style: normal">([{{fullurl: {{{testcases| {{FULLPAGENAME}}/testcases }}} | action=edit }} edit])</small>
         | testcases <small style="font-style: normal">([{{fullurl: {{{testcases| {{FULLPAGENAME}}/testcases }}} | action=edit&preload=Template:Documentation/preload-testcases }} створити])</small>
-        }} сторінках. <br>
+        }}. <br>
       }}<!--
         Show the cats and interwiki text, but not 
         if "content" fed or "docname fed" since then it is 
