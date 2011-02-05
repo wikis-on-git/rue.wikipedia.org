@@ -1,0 +1,4 @@
+<span title="Хыба у хоснованю шаблоны!" class="error" style="font-weight: bold;{{#ifexpr: {{#if:{{{схованый|}}}|1|0}} or {{#ifeq:{{{схованый}}}||1|0}}|&#32;display: none;}}">{{#if:{{{1|<noinclude>default</noinclude>}}}|{{{1<noinclude>|Хыба! ...указаня фунцкії шаблоны.</noinclude>}}}|Хыба!}}</span>{{Катеґорія|{{{kategorie|Хыбне кликаня шаблон}}}}}{{Катеґорія|Шаблоны з хыбным кликаным шаблон|{{ns:Template}}}}{{Катеґорія|Катеґорії з хыбным кликанём шаблон|{{ns:Category}}}}<noinclude>
+{{Documentation}}
+<!-- КАТЕҐОРІЇ і ІНТЕРВІКІ, ПРОСИМЕ, ДАВАЙТЕ ДО /doc ПІДСТОРІНКЫ. ДЯКУЄМЕ -->
+</noinclude>
