@@ -1,2 +1,2 @@
-{{#ifeq: {{str find|{{{1|}}}|}} | -1 | {{{1|}}} | {{trunc|{{{1|}}}|{{str find|{{{1|}}}| }}}}}}<!--
+{{#ifeq: {{str find|{{{1|{{PAGENAME}}}}}|}} | -1 | {{{1|{{PAGENAME}}}}} | {{trunc|{{{1|{{PAGENAME}}}}}|{{str find|{{{1|{{PAGENAME}}}}}| }}}}}}<!--
 --><noinclude>{{Documentation}}</noinclude>
