@@ -1,0 +1,2 @@
+<span class="flagicon">[[Файл:{{{flag alias-{{{variant}}}|{{{flag alias}}}}}}|{{#if: {{{size|}}} | {{{size}}} | 22x20px}}|{{{border-{{{variant}}}|{{{border|border}}}}}} |alt={{{alias}}}|link={{{alias}}}]]</span><!--
+--><noinclude>{{Documentation}}</noinclude>
