@@ -1,0 +1,23 @@
+{{Схована катеґорія}}
+
+<div style="font-size:x-small;">{{purge|Purge page cache}}</div>
+
+<!-- the above is useful when new cats rare being set up --> 
+This category contains articles with explicity cited Rusyn language text.
+
+The primary purpose of these categories is to facilitate manual or automated checking of text in other languages.
+
+This category should only be added with the <code>{{tl|lang}}</code> family of templates, never explicitly.
+
+For example <code><nowiki>{{lang|</nowiki>rue|text in Rusyn language here<nowiki>}}</nowiki></code>
+
+==Important==
+Removing this category will result in all articles in it being moved to the category „[[:Category:Статї обсягуючі нерусиньскый языковый текст]]“.
+
+==Note==
+This category is indirectly triggered by the template:
+* [[Template:ISO 639 name rue]].
+
+[[Category:Статї обсягуючі нерусиньскый языковый текст| Русиньскый]]
+
+[[en:Category:Articles containing Rusyn language text]]
