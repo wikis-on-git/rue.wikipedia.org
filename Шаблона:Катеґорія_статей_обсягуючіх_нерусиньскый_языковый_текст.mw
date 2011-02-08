@@ -21,5 +21,5 @@ This category is indirectly triggered by the templates: <!--
  -->{{#if: {{{5|}}} | * [[Template:ISO 639 name {{{5}}}]] | }}<!--
  -->{{#if: {{{6|}}} | * [[Template:ISO 639 name {{{6}}}]] | }}.
 
-<includeonly>[[Category:Статї обсягуючі нерусиньскый языковый текст| {{{1|}}}]]</includeonly><!--
+<includeonly>[[Category:Статї обсягуючі нерусиньскый языковый текст| {{lc: {{{1|}}}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
