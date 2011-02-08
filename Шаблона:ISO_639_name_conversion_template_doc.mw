@@ -1,0 +1,18 @@
+<noinclude>
+{{documentation}}
+</noinclude>{{documentation|1=Template:ISO 639 name conversion template doc|content=
+
+=== Usage ===
+This template is part of a series that resolves the [[ISO 639-1|ISO&nbsp;639-1]], [[ISO 639-2|ISO&nbsp;639-2]] and [[ISO 639-3|ISO&nbsp;639-3]] codes to language names. {{#ifexist: Category:Статї обсягуючі {{{1|(''language name'')}}} языковый текст
+ |In particular it is used to include  articles in the category [[:Category:Статї обсягуючі {{{1|(''language name'')}}} языковый текст]] by using the code «{{{2|(''ISO code'')}}}».
+ |It could include articles in the category [[:Category:Статї обсягуючі {{{1|(''language name'')}}} языковый текст]], if it was created, by using the code «{{{2|(''ISO code'')}}}».[[Category:ISO 639 name from code templates without a category]]
+}}  {{#ifexist: Template:{{{2|}}} icon
+ |It is used by the template {{Tl|{{ucfirst: {{{2|}}}}} icon}}-{{{{{2|}}} icon}} {{#ifexist: Template:{{{2|}}}
+  | and possibly by {{Tl|{{ucfirst: {{{2|}}}}}}}
+ }}.
+}}
+
+=== Посмотьте тыж ===
+* {{Tl|Lang}}
+
+}}<includeonly>[[Category:ISO 639 name from code templates|{{{2|}}}]]</includeonly>
