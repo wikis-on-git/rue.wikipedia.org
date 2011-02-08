@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|нїмецькы}}}{{LangF|de|{{{3}}}}}
+    | + = [[нїмецькый язык|{{{4|нїмецькы}}}]]{{LangF|de|{{{3}}}}}
+    | * =
+  }}<!--
+-->{{lang|de|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon deu}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
