@@ -1,0 +1,30 @@
+<div style="border:1px solid #ccc; background: #fff; border-right:3px solid #ccc; border-bottom:3px solid #ccc; text-align: center; padding:3px; float:left; font-size: smaller; line-height: 1.3; margin-right: 4px; width: 65px;">
+<div style="background: #aaa; color: #f9f9f9;">'''Днесь є'''</div>
+[[{{CURRENTDAYNAME}}]]
+[[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|<span style="font-size: x-large; width: 100%; display: block; padding:6px 0px">{{CURRENTDAY}}</span>]]
+<span style="display: block;"> [[{{CURRENTMONTHNAME}}]]</span>
+<span style="background: #aaa; color: #000; display: block;">'''[[{{CURRENTYEAR}}]]'''</span>
+</div><noinclude>
+[[Категорія:Шаблоны|Календар]]
+
+[[ar:قالب:يومية]]
+[[ca:Plantilla:Calendarifaristol]]
+[[de:Vorlage:Heute]]
+[[dsb:Pśedłoga:Źinsa]]
+[[en:Template:Today cell]]
+[[eo:Ŝablono:Hodiaŭ]]
+[[es:Plantilla:Calendario]]
+[[eu:Txantiloi:Egutegia]]
+[[fa:الگو:امروز]]
+[[fr:Modèle:Calendrier aujourd'hui]]
+[[hsb:Předłoha:Dźensa]]
+[[id:Templat:Kalender Pengguna]]
+[[ka:თარგი:დღის კალენდარი]]
+[[lv:Veidne:Šodiena]]
+[[pl:Szablon:Dzisiaj]]
+[[pt:Predefinição:Calendario]]
+[[sk:Šablóna:Minikalendár]]
+[[ta:வார்ப்புரு:நாள்காட்டி]]
+[[uk:Шаблон:Календар]]
+[[zh:Template:日曆]]
+</noinclude>
