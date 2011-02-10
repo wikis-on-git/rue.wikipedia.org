@@ -1,8 +1,16 @@
 <div style="float:left;border:solid #C0C8FF 1px;margin:1px">
 {| cellspacing="0" style="width:238px;background:#F0F8FF"
 | style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt" | '''[[Кітайскый язык|zh]]-1'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" | 該用戶能以'''[[:Category:User zh-1|初级]][[:Category:User zh|中文]]'''進行交流。<br />该用户能以'''[[:Category:User zh-1|初級]][[:Category:User zh|中文]]'''进行交流。
-|} [[Category:User zh|{{PAGENAME}}]] [[Category:User zh-1|{{PAGENAME}}]] <noinclude>[[zh-min-nan:Template:User zh-1]]
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | 該用戶能以'''[[:Category:User zh-1|初级]][[:Category:User zh|中文]]'''進行交流。<br />该用户能以'''[[:Category:User zh-1|初級]][[:Category:User zh|中文]]'''进行交流。[[Category:User zh|{{PAGENAME}}]] [[Category:User zh-1|{{PAGENAME}}]]
+|}</div>
+
+<noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Кітайскый|zh}}
+
+[[zh-min-nan:Template:User zh-1]]
 [[cs:Šablona:User zh-1]]
 [[de:Vorlage:User zh-1]]
 [[en:Template:User zh-1]]
@@ -21,4 +29,3 @@
 [[zh-yue:Template:User zh-1]]
 [[zh:Template:User zh-1]]
 </noinclude>
-</div>
