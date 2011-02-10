@@ -1,9 +1,14 @@
 <div style="float:left;border:solid #77e0e8 1px;margin:1px;">
 {| cellspacing="0" style="width:238px;background:#d0f8ff;"
 ! style="width:45px;height:45px;background:#77e0e8;font-size:14pt" | '''[[Кітайскый язык|zh]]-2'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" | 該用戶能以'''[[:Category:User zh-2|中級]][[:Category:User zh|中文]]'''進行交流。<br />该用户能以'''[[:Category:User zh-2|中级]][[:Category:User zh|中文]]'''进行交流。
-|} [[Category:User zh|{{PAGENAME}}]] [[Category:User zh-2|{{PAGENAME}}]] <noinclude>
-</div>
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | 該用戶能以'''[[:Category:User zh-2|中級]][[:Category:User zh|中文]]'''進行交流。<br />该用户能以'''[[:Category:User zh-2|中级]][[:Category:User zh|中文]]'''进行交流。[[Category:User zh|{{PAGENAME}}]] [[Category:User zh-2|{{PAGENAME}}]]
+|}</div>
+
+<noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Кітайскый|zh}}
 
 [[ar:قالب:مستخدم zh-2]]
 [[zh-min-nan:Template:User zh-2]]
@@ -20,3 +25,4 @@
 [[ru:Шаблон:User zh-2]]
 [[zh-yue:Template:User zh-2]]
 [[zh:Template:User zh-2]]
+</noinclude>
