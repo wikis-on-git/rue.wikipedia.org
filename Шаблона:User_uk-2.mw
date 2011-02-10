@@ -2,11 +2,13 @@
 <table cellspacing="0" style="width:238px;background:#F9DD16"><tr>
 <td style="width:45px;height:45px;background:#3A75C4;text-align:center;font-size:14pt">'''[[Україньскый язык|<span style='color: #F9DD16'>uk-2</span>]]'''</td>
 <td style="font-size:8pt;padding:4pt;line-height:1.25em">Користувач може робити внесок '''[[:Category:User uk|українською мовою]]''' на '''[[:Category:User uk-2|середньому рівні]]'''.[[Category:User uk|{{PAGENAME}}]][[Category:User uk-2|{{PAGENAME}}]]</td>
-</tr></table></div><noinclude>
-
-
+</tr></table></div>
 
 <noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Україньскый|uk}}
 
 [[an:Plantilla:User uk-2]]
 [[bo:Template:User uk-2]]
