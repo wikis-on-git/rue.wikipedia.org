@@ -3,8 +3,14 @@
 |-----
 | style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt" | '''[[Російскый язык|ru]]-1'''
 | style="font-size:8pt;padding:4pt;line-height:1.25em" | Этот участник владеет '''[[:Категорія:User ru|русским языком]]''' на '''[[:Категорія:User ru-1|начальном уровне]]'''.[[Категорія:User ru|{{PAGENAME}}]][[Категорія:User ru-1|{{PAGENAME}}]]
-|}</div><!--
---><noinclude>
+|}</div>
+
+<noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Російскый|ru}}
+
 [[Категорія:User templates ru|ru-1]]
 
 [[bo:Template:User ru-1]]
