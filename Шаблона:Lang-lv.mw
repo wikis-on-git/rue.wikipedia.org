@@ -1,2 +1,11 @@
-[[Латыськый язык|латыськы]]: ''{{lang|lv|{{{1}}}}}''<noinclude>
-{{documentation}}</noinclude>
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|лотішскы}}}{{LangF|lv|{{{3}}}}}
+    | + = [[Лотішскый язык|{{{4|лотішскы}}}]]{{LangF|lv|{{{3}}}}}
+    | * =
+  }}<!--
+-->{{lang|lv|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon lvs}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
