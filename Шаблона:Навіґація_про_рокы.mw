@@ -11,5 +11,5 @@
  |-
  | <small>{{Стороча|{{#expr: (({{{1}}} + 49.5) / 100 round 0) - 1}}}} — '''{{Стороча|{{#expr: ({{{1}}} + 49.5) / 100 round 0}}}}''' — {{Стороча|{{#expr: (({{{1}}} + 49.5) / 100 round 0) + 1}}}}</small>
  |}
-{{#if: {{NAMESPACE}} | | {{#ifexpr: {{{1}}} >0 | [[Category:{{{1}}}. рік| ]] | [[Category:{{#expr: 1 - {{{1}}}}}. рік до н. е.| ]]}} [[Category:Рокы]]}}</includeonly><!--
+{{#if: {{NAMESPACE}} | | {{#ifexpr: {{{1}}} >0 | [[Category:{{{1}}}. рік| ]] [[Category:Рокы|{{padleft: {{{1}}}|4}}]] | [[Category:{{#expr: 1 - {{{1}}}}}. рік до н. е.| ]] [[Category:Рокы|-{{#expr: 9999 + {{{1}}}}}]]}}}}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
