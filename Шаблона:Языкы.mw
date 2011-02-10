@@ -1,0 +1,10 @@
+{{Navbox
+|name = Языкы
+|title = [[{{{1}}}{{{langvoid| язык}}}]]
+|list1 = <div>
+[[Вікіпедія:Бабілон|Володіння языком]]: [[Template:User {{{2}}}-0|0]] &#124; [[Template:User {{{2}}}-1|1]] &#124; [[Template:User {{{2}}}-2|2]] &#124; [[Template:User {{{2}}}-3|3]] &#124; [[Template:User {{{2}}}-4|4]] &#124; [[Template:User {{{2}}}-5|5]] &#124; [[Template:User {{{2}}}|N]] &#124; [[Template:User {{{2}}}-no|no]]
+</div>
+}}<noinclude>
+<!-- Додавайте категорії та інтервікі в підшаблон «Языкы/Документація», а не тут! -->
+{{Documentation}}
+</noinclude>
