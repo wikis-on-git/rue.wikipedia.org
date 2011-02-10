@@ -1,7 +1,14 @@
 <div style="float:left; border:1px solid #99B3FF; margin:1px;" class="wikipediauserbox ">
 {| cellspacing="0" style="width:238px; background:#E0E8FF;"
 ! style="width:45px; height:45px; background:#99B3FF; text-align:center; font-size:14pt; color:black; padding:0 1px 0 0; line-height:1.25em; vertical-align: middle; " | <span style="white-space:nowrap;">[[Російскый язык|ru]]-3</span>
-| style="text-align:left; font-size:8pt; padding:0 4px 0 4px; height:45px; line-height:1.25; color:black; vertical-align: middle; "  | Этот участник '''[[:Category:User ru-3|свободно]]''' владеет '''[[:Category:User ru|русским языком]]'''.
-|}[[Category:User ru-3|{{PAGENAME}}]]
+| style="text-align:left; font-size:8pt; padding:0 4px 0 4px; height:45px; line-height:1.25; color:black; vertical-align: middle; "  | Этот участник '''[[:Category:User ru-3|свободно]]''' владеет '''[[:Category:User ru|русским языком]]'''. [[Category:User ru-3|{{PAGENAME}}]][[Category:User ru|{{PAGENAME}}]]
+|}</div>
+
 <noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Російскый|ru}}
+
 [[bg:Шаблон:Потребител ru-3]]
+</noinclude>
