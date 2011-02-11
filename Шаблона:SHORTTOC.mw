@@ -6,5 +6,5 @@ Přidá na stránku automaticky generovaný obsah ve zkrácené formě.
 Vhodné použití s jednou nebo dvěma úrovněmi nadpisů, např. pro abecední seznamy.
 
 Při vkládání této šablony se NEVKLÁDÁ zároveň kód <code><nowiki>__NOTOC__</nowiki></code>!!!
-[[Category:Шаблоны]]
+[[Category:Шаблоны|{{PAGENAME}}]]
 </noinclude>
