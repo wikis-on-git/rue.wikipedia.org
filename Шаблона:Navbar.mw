@@ -1,22 +1,25 @@
-<includeonly>{{#if:{{{nodiv|}}}|<!--then:
--->&nbsp;<span class="noprint plainlinksneverexpand" style="white-space:nowrap; font-weight:normal; font-size:xx-small; {{{fontstyle|}}}; {{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}} {{{style|}}}">|<!--else:
---><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; {{{fontstyle|}}}; {{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}} {{{style|}}}"><!--
+<includeonly>{{#if:{{{nodiv|}}}|&nbsp;<span|<div}} class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;{{{fontstyle|}}}; font-size:xx-small; {{{style|}}}"><!--
+
+-->{{#if:{{{mini|}}}{{{plain|}}}|<!--nothing-->|<!--else:
+-->This box:&#32;}}<!--
+
+-->{{#if:{{{brackets|}}}|&#91;}}<!--
+
+-->[[{{transclude|{{{1}}}}}|<span title="View this template" style="{{{fontstyle|}}}"><!--
+-->{{#if:{{{mini|}}}|v|view}}</span>]]<!--
+
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[{{TALKPAGENAME:{{transclude|{{{1}}}}}}}|<span title="Discuss this template" style="{{{fontstyle|}}}">{{#if:{{{mini|}}}|d|talk}}</span>]]<!--
+
+-->{{#if:{{{noedit|}}}|<!--nothing-->|<!--else:
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{transclude|{{{1}}}}}|action=edit}}<span title="Edit this template" style="{{{fontstyle|}}};">{{#if:{{{mini|}}}|e|edit}}</span>]<!--
 -->}}<!--
 
--->{{#ifeq:{{{mini|}}}{{{miniv|}}}{{{plain|}}}{{{viewplain|}}}|<!--equals:-->1|<!--then:
--->|<!--else:
--->Цей шаблон:&nbsp;<!--
--->}}<!--
-
--->{{#ifeq:{{{miniv|}}}{{{viewplain|}}}|<!--equals:-->1|<!--then:
--->[[Template:{{{1}}}|<span title="Переглянути цей шаблон" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{viewplain|}}}|view|п}}</span>]]|<!--else:
--->[[Template:{{{1}}}|<span title="Переглянути цей шаблон" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{mini|}}}|п|переглянути}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[Template talk:{{{1}}}|<span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Обговорення цього шаблону">{{#if:{{{mini|}}}|о|обговорити}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{ns:10}}:{{{1}}}|action=edit}} <span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Редагування цього шаблону. Натисніть «попередній перегляд» перед збереженням шаблону.">{{#if:{{{mini|}}}|р|редагувати}}</span>]<!--
--->}}<!--
+-->{{#if:{{{brackets|}}}|]}}<!--
 
 -->{{#if:{{{nodiv|}}}|<!--then:
 --></span>&nbsp;|<!--else:
---></div><!--
--->}}</includeonly><noinclude>
+--></div>}}</includeonly><noinclude>
 
-<hr/><center>'''{{purge|Очистити кеш}}''' для цього шаблону.<hr/></center><br/>
+{{pp-template|small=yes}}
+{{documentation}}
 </noinclude>
