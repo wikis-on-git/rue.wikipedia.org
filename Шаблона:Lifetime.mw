@@ -2,12 +2,12 @@
 -->{{{{{subst|}}}#if:{{{3|}}}|{{DEFAULTSORT:{{{3}}}}}}}
 [[Category:{{{{{subst|}}}#switch:{{{{{subst|}}}uc:{{{1|}}}}}
  || UNKNOWN | MISSING = Year of birth missing {{ {{{|safesubst:}}}#switch:{{ {{{|safesubst:}}}uc:{{{2|}}}}}||LIVING=(living people)}}
- | #default = Народили ся {{#iferror: {{#ifexpr: {{{1}}}}} | {{{1}}} | {{#ifexpr: {{{1}}} < 0 | {{#expr: trunc-{{{1}}}}} п.н.е. | {{#expr: trunc{{{1}}}}}}}}}
+ | #default = Народили ся {{#iferror: {{#ifexpr: {{{1}}}}} | {{{1}}} | {{#ifexpr: {{{1}}} < 0 | {{#expr: trunc-{{{1}}}}} до н. е. | {{#expr: trunc{{{1}}}}}}}}}
 }}]]
 [[Category:{{{{{subst|}}}#switch:{{{{{subst|}}}uc:{{{2|}}}}}
  || LIVING  = Жыючі люде
  | UNKNOWN | MISSING  = Year of death missing
- | #default = Вмерли {{#iferror: {{#ifexpr: {{{2}}}}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | {{#expr: trunc-{{{2}}}}} п.н.е. | {{#expr: trunc{{{2}}}}}}}}}
+ | #default = Вмерли {{#iferror: {{#ifexpr: {{{2}}}}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | {{#expr: trunc-{{{2}}}}} до н. е. | {{#expr: trunc{{{2}}}}}}}}}
 }}]]<!--
 --></includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
