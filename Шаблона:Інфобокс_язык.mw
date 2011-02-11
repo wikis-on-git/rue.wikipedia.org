@@ -1,0 +1,213 @@
+{| class="infobox" style="float:right;width: 22em; text-align: left; font-size: 88%; line-height: 1.5em"
+! colspan=3 style="text-align: center; font-size: 125%; font-weight: bold; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Інфобокс язык/family-color|{{{familycolor|Default}}} }} }} }}" | {{{name|Language name}}}
+|-
+{{#if:{{{nativename|}}}|
+! colspan=3 style="text-align: center; font-weight: bold; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Інфобокс язык/family-color|{{{familycolor|Default}}} }} }} }}" {{!}} {{{nativename|}}}
+{{!}}-
+}}
+{{#if:{{{image|}}}|
+! style="vertical-align: middle" {{!}} {{{caption|}}}
+{{!}} colspan=2 {{!}} {{{image|}}}
+{{!}}-
+}}
+{{#if:{{{pronunciation|}}}|
+! Высловность
+{{!}} colspan=2 {{!}} {{{pronunciation|''will be added''}}}
+{{!}}-
+}}
+{{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}|! Created by |! {{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|silver|1}}|Signed|Говорить ся ним}} в}}
+| {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}|
+{{!}} {{{creator|—}}}
+{{!}}-|
+{{!}} {{{states|{{{region|—}}}
+{{!}}-}}}
+}}
+{{#if:{{{date|}}}|
+! Датум заложіня
+{{!}} colspan=2 {{!}} {{{date}}}
+{{!}}-
+}}
+|-
+{{#ifexpr:{{#if:{{{states|}}}|1|0}}+{{#if:{{{region|}}}|1|0}}!=1|
+! {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black}}|Setting and usage|Реґіон}}
+{{!}} colspan=2 {{!}} {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black}}|{{{setting|—}}}|{{{region|—}}}
+}}
+{{!}}-
+}}
+{{#if:{{{latd|}}}|
+! [[Geographic coordinate system|Коордінаты]]
+{{!}} colspan=2 {{!}} <small style="white-space: nowrap">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|display=inline}}</small>
+{{!}}-
+}}
+! {{#if:{{{extinct|}}}|[[Extinct language|Language extinction]]|Цалково {{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|silver|1}}|signers|говорцїв}} }}
+| colspan=2 | {{#if:{{{extinct|}}}|{{{extinct}}}|{{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}} }}|silver|1}}|{{{signers|—}}}|{{{speakers|—}}}{{#if:{{{Atlas UNESCO country|}}}|{{Atlas UNESCO|{{{Atlas UNESCO country}}}|{{{Atlas UNESCO language|{{PAGENAME}} }}} }} }} }} }}
+|-
+{{#if:{{{rank|}}}|
+! [[List of languages by number of native speakers|Класіфікація]]
+{{!}} colspan=2 {{!}} {{{rank}}}
+{{!}}-
+}}
+! {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}|Category (purpose)|[[Языкова родина]]}}
+| colspan=2 style="text-align:left; line-height:100%;" | {{{family|{{{fam1|{{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|silver|1}}|''Unknown''|{{#if:{{{creator|}}}{{{setting|}}}|[[constructed language]]|{{Інфобокс язык/genetic2|{{{familycolor|Default}}}}}}}}}}}}
+<ul style="line-height:100%; margin-left:15px;padding-left:0"><li>
+{{#if:{{{fam2|}}}
+| {{{fam2}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam3|}}}
+| {{{fam3}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam4|}}}
+| {{{fam4}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam5|}}}
+| {{{fam5}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam6|}}}
+| {{{fam6}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam7|}}}
+| {{{fam7}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam8|}}}
+| {{{fam8}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam9|}}}
+| {{{fam9}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam10|}}}
+| {{{fam10}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam11|}}}
+| {{{fam11}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam12|}}}
+| {{{fam12}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam13|}}}
+| {{{fam13}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam14|}}}
+| {{{fam14}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam15|}}}
+| {{{fam15}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{{name}}}</li></ul>
+| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>| {{{name}}}
+}}</li></ul>
+}}}
+|-
+{{#if:{{{standards|}}}|
+! Standard forms
+{{!}} colspan=2 {{!}} {{{standards}}}
+}}
+|-
+{{#if:{{{stand1|}}}|
+! Standard forms
+{{!}} colspan=2 {{!}} <div>{{{stand1|}}}</div>
+<div>{{{stand2|}}}</div>
+<div>{{{stand3|}}}</div>
+<div>{{{stand4|}}}</div>
+<div>{{{stand5|}}}</div>
+<div>{{{stand6|}}}</div>
+}}
+|-
+{{#if:{{{dialects|}}}|
+! Dialects
+{{!}} colspan=2 {{!}} {{{dialects}}}
+}}
+|-
+{{#if:{{{dia1|}}}|
+! Діалекты
+{{!}} colspan=2 {{!}} <div>{{{dia1|}}}</div>
+<div>{{{dia2|}}}</div>
+<div>{{{dia3|}}}</div>
+<div>{{{dia4|}}}</div>
+<div>{{{dia5|}}}</div>
+<div>{{{dia6|}}}</div>
+<div>{{{dia7|}}}</div>
+<div>{{{dia8|}}}</div>
+<div>{{{dia9|}}}</div>
+<div>{{{dia10|}}}</div>
+<div>{{{dia11|}}}</div>
+<div>{{{dia12|}}}</div>
+<div>{{{dia13|}}}</div>
+<div>{{{dia14|}}}</div>
+<div>{{{dia15|}}}</div>
+<div>{{{dia16|}}}</div>
+<div>{{{dia17|}}}</div>
+<div>{{{dia18|}}}</div>
+<div>{{{dia19|}}}</div>
+<div>{{{dia20|}}}</div>
+}}
+|-
+{{#if:{{{script|}}}|
+! [[Сістема писаня]]
+{{!}} colspan=2 {{!}} {{{script}}}
+{{!}}-
+}}{{#if:{{{posteriori|}}}|
+! Category (sources)
+{{!}} colspan=2 {{!}} {{{posteriori}}}
+{{!}}-
+}}{{#ifexpr:{{#if:{{{agency|}}}|1|0}} and {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|Default}}}}}|black|1}}|1|0}}|<nowiki/>
+{{!}}-
+! [[List of language regulators|Реґулованый]]
+{{!}} colspan=2 {{!}} {{{agency|''none''}}}|{{#if:{{{nation|}}}{{{agency|}}}|<nowiki/>
+{{!}}-
+! colspan=3 style="text-align: center; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}|white|{{{fontcolor|black}}}}}; background-color: {{#if:{{{signers|}}}|silver|{{#if:{{{creator|}}}{{{setting|}}}|black|{{Інфобокс язык/family-color|{{{familycolor|Default}}}}}}}}}" {{!}} Офіціалный статус
+{{!}}-
+! Офіціалный язык в
+{{!}} colspan=2 {{!}} {{{nation|''None''}}}
+{{!}}-
+{{#if:{{{minority|}}}|! Узнаный меншыновый язык в
+{{!}} colspan=2 {{!}} {{{minority|''None''}}}
+{{!}}-}}
+! [[List of language regulators|Реґулованый]]
+{{!}} colspan=2 {{!}} {{{agency|''Не є офіціална реґулація''}}} }} }}
+|-
+! colspan=3 style="text-align: center; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Інфобокс язык/family-color|{{{familycolor|Default}}} }} }} }}" | Языковы коды
+|-
+! [[ISO 639-1]]
+| colspan=2 | {{#if:{{{iso1|}}}|<tt>{{{iso1}}}</tt>|''None''}}
+|-
+! [[ISO 639-2]]
+| colspan="{{#if:{{{iso2b|}}}{{{iso2t|}}}|1|2}}" | <tt>{{#if:{{{iso2b|}}}{{{iso2t|}}}
+  |{{{iso2b|{{{iso2|—}}}}}} (B)
+  |{{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|silver|1}}
+   |{{{iso2|sgn}}}
+   |{{
+    #if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}
+    |{{{iso2|art}}}
+    |{{{iso2|–}}}}}}}}}</tt>{{
+     #if:{{{iso2b|}}}{{{iso2t|}}}
+     |{{Інфобокс язык/terminological|{{{iso2t|{{{iso2|}}}}}}}}}}{{#if:{{{SIL|}}}
+  |{{Інфобокс язык/SIL14|{{{SIL|}}}}}}}{{#if:{{{sil|}}}
+  |{{Інфобокс язык/SIL14|{{{sil|}}} }} }}
+|-
+! [[ISO 639-3]]
+| colspan=2 | {{#ifexpr:{{#if:{{{lc1|}}}|1|0}} and {{#if:{{{lc2|}}}|1|0}}|{{#if:{{{lc3|}}}|variously|either}}:{{Інфобокс язык/codelist
+|{{{lc1|}}}|{{{ld1|}}}|{{{ll1|}}}}}{{Інфобокс язык/codelist
+|{{{lc2|}}}|{{{ld2|}}}|{{{ll2|}}}}}{{Інфобокс язык/codelist
+|{{{lc3|}}}|{{{ld3|}}}|{{{ll3|}}}}}{{Інфобокс язык/codelist
+|{{{lc4|}}}|{{{ld4|}}}|{{{ll4|}}}}}{{Інфобокс язык/codelist
+|{{{lc5|}}}|{{{ld5|}}}|{{{ll5|}}}}}{{Інфобокс язык/codelist
+|{{{lc6|}}}|{{{ld6|}}}|{{{ll6|}}}}}{{Інфобокс язык/codelist
+|{{{lc7|}}}|{{{ld7|}}}|{{{ll7|}}}}}{{Інфобокс язык/codelist
+|{{{lc8|}}}|{{{ld8|}}}|{{{ll8|}}}}}{{Інфобокс язык/codelist
+|{{{lc9|}}}|{{{ld9|}}}|{{{ll9|}}}}}{{Інфобокс язык/codelist
+|{{{lc10|}}}|{{{ld10|}}}|{{{ll10|}}}}}{{Інфобокс язык/codelist
+|{{{lc11|}}}|{{{ld11|}}}|{{{ll11|}}}}}{{Інфобокс язык/codelist
+|{{{lc12|}}}|{{{ld12|}}}|{{{ll12|}}}}}{{Інфобокс язык/codelist
+|{{{lc13|}}}|{{{ld13|}}}|{{{ll13|}}}}}{{Інфобокс язык/codelist
+|{{{lc14|}}}|{{{ld14|}}}|{{{ll14|}}}}}{{Інфобокс язык/codelist
+|{{{lc15|}}}|{{{ld15|}}}|{{{ll15|}}}}}{{Інфобокс язык/codelist
+|{{{lc16|}}}|{{{ld16|}}}|{{{ll16|}}}}}{{Інфобокс язык/codelist
+|{{{lc17|}}}|{{{ld17|}}}|{{{ll17|}}}}}{{Інфобокс язык/codelist
+|{{{lc18|}}}|{{{ld18|}}}|{{{ll18|}}}}}{{Інфобокс язык/codelist
+|{{{lc19|}}}|{{{ld19|}}}|{{{ll19|}}}}}{{Інфобокс язык/codelist
+|{{{lc20|}}}|{{{ld20|}}}|{{{ll20|}}}}}{{Інфобокс язык/codelist
+|{{{lc21|}}}|{{{ld21|}}}|{{{ll21|}}}}}{{Інфобокс язык/codelist
+|{{{lc22|}}}|{{{ld22|}}}|{{{ll22|}}}}}{{Інфобокс язык/codelist
+|{{{lc23|}}}|{{{ld23|}}}|{{{ll23|}}}}}{{Інфобокс язык/codelist
+|{{{lc24|}}}|{{{ld24|}}}|{{{ll24|}}}}}{{Інфобокс язык/codelist
+|{{{lc25|}}}|{{{ld25|}}}|{{{ll25|}}}}}{{Інфобокс язык/codelist
+|{{{lc26|}}}|{{{ld26|}}}|{{{ll26|}}}}}{{Інфобокс язык/codelist
+|{{{lc27|}}}|{{{ld27|}}}|{{{ll27|}}}}}{{Інфобокс язык/codelist
+|{{{lc28|}}}|{{{ld28|}}}|{{{ll28|}}}}}{{Інфобокс язык/codelist
+|{{{lc29|}}}|{{{ld29|}}}|{{{ll29|}}}}}{{Інфобокс язык/codelist
+|{{{lc30|}}}|{{{ld30|}}}|{{{ll30|}}} }}
+ |{{#if:{{{lc1|}}}|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{lc1}}} {{{lc1}}}]</tt> &ndash; {{#if:{{{ll1|}}}|{{#ifeq:{{{ll1|}}}|none|{{{ld1|}}}|[[{{{ll1}}}|{{{ld1|}}}]]}}|[[{{{ld1|}}}]]}}|{{#if:{{{iso3|}}}
+   |{{#ifeq:{{{iso3|}}}|none|''None''|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{iso3}}} {{{iso3}}}]</tt> {{{iso3comment|}}} }}
+   |–}} }} }}
+|-
+{{#if:{{{map|}}}|
+{{!}} colspan=3 style="vertical-align: middle; padding-top: 5px" {{!}} {{{map|}}}
+{{!}}-
+}}
+{{Інфобокс язык/{{#if:{{{signers|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|silver|1}}|signnotice|{{{notice|IPA notice}}}}}|{{#if:{{{IPAChartEng|}}}|IPAChartEng=1}} }}
+|}<noinclude>{{Documentation}}{{Pp-шаблона|small=yes}}[[Category:Шаблоны|{{PAGENAME}}]]</noinclude>
