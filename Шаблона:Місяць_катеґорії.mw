@@ -6,7 +6,7 @@
 ! [[:Category:1. {{{next}}}|→]]
 |}
 {|class="standard" align=center
-| [[:Category:{{{Q}}}. януар|Януар]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>29|29|{{{Q}}}}}. фебруар|Фебруар]] [[:Category:{{{Q}}}. марец|Марец]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}. апріль|Апріль]] [[:Category:{{{Q}}}. май|Май]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}. юн|Юн]] [[:Category:{{{Q}}}. юл|Юл]] [[:Category:{{{Q}}}. авґуст|Авґуст]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}. септембер|Септембер]] [[:Category:{{{Q}}}. октобер|Октобер]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}. новембер|Новембер]] [[:Category:{{{Q}}}. децембер|Децембер]]
+| [[:Category:{{{Q}}}{{{ordinal}}}януар|Януар]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>29|29|{{{Q}}}}}{{{ordinal}}}фебруар|Фебруар]] [[:Category:{{{Q}}}{{{ordinal}}}марец|Марец]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}{{{ordinal}}}апріль|Апріль]] [[:Category:{{{Q}}}{{{ordinal}}}май|Май]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}{{{ordinal}}}юн|Юн]] [[:Category:{{{Q}}}{{{ordinal}}}юл|Юл]] [[:Category:{{{Q}}}{{{ordinal}}}авґуст|Авґуст]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}{{{ordinal}}}септембер|Септембер]] [[:Category:{{{Q}}}{{{ordinal}}}октобер|Октобер]] [[:Category:{{#ifexpr:{{#if:{{{Q|}}}|{{{Q}}}|0}}>30|30|{{{Q}}}}}{{{ordinal}}}новембер|Новембер]] [[:Category:{{{Q}}}{{{ordinal}}}децембер|Децембер]]
 |}
 </includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
