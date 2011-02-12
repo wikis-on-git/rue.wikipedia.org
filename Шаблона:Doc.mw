@@ -1,9 +1,1 @@
-<includeonly>{{doc/begin|{{SUBJECTSPACE}}:{{PAGENAME:{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|notoc={{{notoc|}}}}}
-{{#ifexist:{{{1|{{SUBJECTPAGENAME}}/doc}}}|{{{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|{{#ifexist:{{SUBJECTSPACE}}:{{{1}}}|{{{{{1}}}}}|{{Документируйте|{{{1|{{SUBJECTPAGENAME}}/doc}}}}}}}}}
-{{doc/end}}</includeonly><noinclude>
-<!--{{doc}}
-
-[Rus]: Добавляйте категории и интервики на подстраницу /doc, не сюда!
-[Eng]: Please add categories and interwiki links to the /doc subpage, not here!
--->
-</noinclude>
+#REDIRECT [[Шаблон:Documentation]]
