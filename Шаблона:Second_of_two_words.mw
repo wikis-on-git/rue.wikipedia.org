@@ -1,2 +1,2 @@
-<includeonly>{{str right|{{{1|{{PAGENAME}}}}}|{{#expr: {{str len|{{first word|{{{1|{{PAGENAME}}}}}}}}} + 1}}}}</includeonly><!--
+<includeonly>{{str right|{{{words|{{{1|{{PAGENAME}}}}}}}}|{{#expr: {{str len|{{first word|{{{words|{{{1|{{PAGENAME}}}}}}}}}}}} + 1}}}}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
