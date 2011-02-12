@@ -1,2 +1,2 @@
-<includeonly>{{#ifeq: {{First word}} | {{PAGENAME}} | {{КтґрДньМсць!|currentD=|currentM={{lc: {{PAGENAME}}}}}} | {{КтґрДньМсць!|currentD={{#expr: {{First word}}}}|currentM={{Str rep|{{PAGENAME}}|{{First word}}}}}}}}</includeonly><!--
+<includeonly>{{#ifeq: {{First word}} | {{PAGENAME}} | {{КтґрДньМсць!|currentM={{lc: {{PAGENAME}}}}}} | {{КтґрДньМсць!|currentD={{#expr: {{First word}}}}|currentM={{Str rep|{{PAGENAME}}|{{First word}}}}}}}}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
