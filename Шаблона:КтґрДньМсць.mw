@@ -1,2 +1,2 @@
-<includeonly>{{КтґрДньМсць!|{{#expr: {{First word}}}}|{{Second of two words}}}}</includeonly><!--
+<includeonly>{{КтґрДньМсць!|currentD={{#expr:{{First word}}}}|currentM={{Str rep|{{PAGENAME}}|{{First word}}}}}}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
