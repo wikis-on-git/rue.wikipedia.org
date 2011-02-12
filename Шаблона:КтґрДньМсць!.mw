@@ -35,18 +35,19 @@
 }}<!--
 -->{{#if: {{{currentD|}}} 
         | [[Category:{{{currentM}}}|*{{padleft: {{{currentD}}}|2}}]] 
-        | [[Category:Місяцї{{!}}*<!--
--->{{#switch: {{{currentM}}} 
-       | нуар = 01]][[Category:Зима|*2]] 
-       | ебруар = 02]][[Category:Зима|*3]] 
-       | арец = 03]][[Category:Зима|*4]][[Category:Весна|*1]] 
-       | пріль = 04]][[Category:Весна|*2]] 
-       | ай = 05]][[Category:Весна|*3]] 
-       | ній | н = 06]][[Category:Весна|*4]][[Category:Літо|*1]] 
-       | лій | л = 07]][[Category:Літо|*2]] 
-       | вґуст = 08]][[Category:Літо|*3]] 
-       | ептембер = 09]][[Category:Літо|*4]][[Category:Осінь|*1]] 
-       | ктобер = 10]][[Category:Осінь|*2]] 
-       | овембер = 11]][[Category:Осінь|*3]] 
-       | ецембер = 12]][[Category:Осінь|*4]][[Category:Зима|*1]]}}}}</includeonly><!--
+        | {{#switch: {{{currentM}}} 
+            | нуар = [[Category:Місяцї|*01]][[Category:Зима|*2]] 
+            | ебруар = [[Category:Місяцї|*02]][[Category:Зима|*3]] 
+            | арец = [[Category:Місяцї|*03]][[Category:Зима|*4]][[Category:Весна|*1]] 
+            | пріль = [[Category:Місяцї|*04]][[Category:Весна|*2]] 
+            | ай = [[Category:Місяцї|*05]][[Category:Весна|*3]] 
+            | ній | н = [[Category:Місяцї|*06]][[Category:Весна|*4]][[Category:Літо|*1]] 
+            | лій | л = [[Category:Місяцї|*07]][[Category:Літо|*2]] 
+            | вґуст = [[Category:Місяцї|*08]][[Category:Літо|*3]] 
+            | ептембер = [[Category:Місяцї|*09]][[Category:Літо|*4]][[Category:Осінь|*1]] 
+            | ктобер = [[Category:Місяцї|*10]][[Category:Осінь|*2]] 
+            | овембер = [[Category:Місяцї|*11]][[Category:Осінь|*3]] 
+            | ецембер = [[Category:Місяцї|*12]][[Category:Осінь|*4]][[Category:Зима|*1]]
+          }}
+      }}</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
