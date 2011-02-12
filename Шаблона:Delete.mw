@@ -6,5 +6,5 @@
 }}{{#if: {{{nocat|}}}||<includeonly>{{#switch: "{{FULLPAGENAME}}"
 |"Вікіпедія:Шаблоны:Незавершены статї"|"Вікіпедія:Хосновны шаблоны"=
 |[[Категорія:Статї-кандідаты на вылучіня]]}}</includeonly>}}<noinclude>
-{{Документація}}
+{{Documentation}}
 </noinclude>
