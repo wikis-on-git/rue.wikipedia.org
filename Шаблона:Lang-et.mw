@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|естоньскы}}}{{LangF|et|{{{3}}}}}
+    | + = [[Естоньскый язык|{{{4|естоньскы}}}]]{{LangF|et|{{{3}}}}}
+    | * =
+  }}<!--
+-->{{lang|et|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon est}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
