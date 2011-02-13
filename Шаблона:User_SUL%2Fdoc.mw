@@ -1,0 +1,58 @@
+<!-- ЕДІТУЙТЕ ДОКУМЕНТАЦІЮ ШАБЛОНЫ НИЖЕ ТОГО РЯДКА -->
+== Опис шаблону ==
+
+== Хоснованя шаблоны ==
+
+Для позначення своєї Вікіпедії нічого додавати не треба.: <nowiki>{{User SUL}}</nowiki>
+
+тоді отримаємо<br/>{{User SUL}}<br/><br/><br/><br/>
+
+
+Але якщо Ваша домашня Вікіпедія інша, наприклад Українська, то в шаблоні треба додати після риски «'''uk'''»: <nowiki>{{User SUL</nowiki>'''|uk'''<nowiki>}}</nowiki>
+
+тоді отримаємо<br/>{{User SUL|uk}}<br/><br/>
+<includeonly>
+<!-- ДОДАВАЙТЕ КАТЕҐОРІЇ І ІНТЕРВІКІ НИЖЕ ТОГО РЯДКА -->
+
+[[Category:Шаблоны:Користувачі|{{PAGENAME}}]]
+
+[[af:Sjabloon:Gebruiker globale rekening]]
+[[als:Vorlage:Benutzer SUL]]
+[[an:Plantilla:Usuario SUL]]
+[[ar:قالب:SUL Box]]
+[[ca:Plantilla:Usuari SUL]]
+[[cs:Šablona:Uživatel SUL]]
+[[de:Vorlage:Benutzer SUL]]
+[[dsb:Pśedłoga:Wužywaŕ SUL]]
+[[el:Πρότυπο:Χρήστης SUL]]
+[[en:Template:User SUL Box]]
+[[eo:Ŝablono:Uzanto SUL]]
+[[es:Usuario:Userbox/SUL]]
+[[fr:Modèle:Utilisateur Identifiant unique]]
+[[ga:Teimpléad:Úsáideoir SUL]]
+[[gd:Template:User SUL]]
+[[hsb:Předłoha:User SUL]]
+[[ht:Modèl:Itilizatè SUL]]
+[[id:Templat:User SUL]]
+[[it:Template:Utente SUL]]
+[[ja:Template:User SUL]]
+[[ko:틀:사용자 통합 계정]]
+[[la:Formula:Usor globalis]]
+[[lb:Schabloun:Benotzer SUL]]
+[[lt:Šablonas:User SUL]]
+[[mt:Mudell:Utent SUL]]
+[[oc:Modèl:Utilizaire Identificant unic]]
+[[pl:Szablon:User SUL]]
+[[pms:Stamp:User SUL]]
+[[pt:Predefinição:SUL Box]]
+[[ru:Шаблон:Пользователь SUL]]
+[[sc:Template:Usuariu SUL]]
+[[scn:Template:Utenti SUL]]
+[[sk:Šablóna:Redaktor SUL]]
+[[sl:Predloga:Uporabnik SUL]]
+[[sv:Mall:SUL Box]]
+[[tr:Şablon:Kullanıcı SUL]]
+[[uk:Шаблон:User SUL]]
+[[vi:Bản mẫu:SUL Box]]
+[[zh:Template:SUL Box]]
+</includeonly>
