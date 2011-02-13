@@ -18,11 +18,11 @@
 
 |header2  = 
 |label2     =     
-|data2      = {{#if:{{{URL znaku|}}}|[[Файл:{{{URL znaku}}}|80px|Erb]]}} {{#if:{{{URL vlajky|}}}|[[Súbor:{{{URL vlajky}}}|100px|Vlajka]]}}
+|data2      = {{#if:{{{URL znaku|}}}|[[Файл:{{{URL znaku}}}|80px|Erb]]}} {{#if:{{{URL vlajky|}}}|[[Файл:{{{URL vlajky}}}|100px|Застава]]}}
 |header4  = {{#if:{{{URL polohy|}}}|Poloha}}
 |header5  = 
 |label5     = 
-|data5      = {{#if:{{{URL polohy|}}}|[[Súbor:{{{URL polohy}}}|200px|Poloha]]|}}
+|data5      = {{#if:{{{URL polohy|}}}|[[Файл:{{{URL polohy}}}|200px|Полога]]|}}
 
 |header14  = Основны інформації
 |label14     = 
@@ -47,7 +47,7 @@
 |data20     = {{#if:{{{Розлога|}}}|{{{Розлога|}}} км²}}
 |header21 = 
 |label21    = Жытелїв
-|data21     = {{{Чісло жытелїв|}}}{{#if:{{{Статус ку|}}}|&nbsp;(k&nbsp;{{{Stav k}}})|}}
+|data21     = {{{Чісло жытелїв|}}}{{#if:{{{Статус ку|}}}|&nbsp;(k&nbsp;{{{Статус ку}}})|}}
 |header22 = 
 |label22    = Густота жытельства
 |data22     = {{#if:{{{Густота жытелїв|}}}|{{{Густота жытелїв|}}} жытелїв/км²}}
@@ -61,8 +61,8 @@
 |label25    = [[Штатістічна теріторіална єдиніця|ШТЄ (ŠÚJ)]]
 |data25     = {{{Код|}}}
 |header26 = 
-|label26    = [[Евіденчне чісло возидла|EČV]]
-|data26     = {{{EČV|}}}
+|label26    = [[Евіденчне чісло возидла|ЕЧВ]]
+|data26     = {{{ЕЧВ|}}}
 |header27 = 
 |label27    = ПСЧ
 |data27     = {{{ПСЧ|}}}
@@ -100,6 +100,6 @@
 
 |data41      = {{#if:{{{Код|}}}|{{MOŠ/MIS|{{{Код|}}}}}|[http://www.statistics.sk/mosmis/sk/run.html Містьска і обецна штатістіка (SŠÚ)]}}<br>[http://obce.info Інформачный портал о містах і селах Словеньска]
 
-|stylZapatia =
-|zapatie     =
+|belowstyle =
+|below     =
 }}<noinclude>{{Documentation}}</noinclude>
