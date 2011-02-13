@@ -1,19 +1,19 @@
 {{Інфобокс
-|stylTela      = 
-|nadpis        = 
-|stylNadpisu   = 
-|zahlavie      = {{{Назва|{{PAGENAME}}}}}
-|stylZahlavia  = 
-|obrazok       = {{#if:{{{Образок|}}}|[[Файл:{{{Образок}}}|300px|{{{Попис образка|}}}]]<br>{{{Попис образка|}}}|Не маме слободный образок з обцы.<br />
+|bodystyle      = 
+|title        = 
+|titlestyle   = 
+|above      = {{{Назва|{{PAGENAME}}}}}
+|abovestyle  = 
+|image       = {{#if:{{{Образок|}}}|[[Файл:{{{Образок}}}|300px|{{{Попис образка|}}}]]<br>{{{Попис образка|}}}|Не маме слободный образок з обцы.<br />
  Поможте Вікіпедії і [http://commons.wikimedia.org/wiki/Special:Upload?uselang=sk награйте го].}}
-|stylObrazka   = 
-|komentar      = 
-|stylKomentara = 
-|stylHlavicky  = background:lavender
-|stylPopisu    = color:dimgray
-|stylDat       = 
-|hlavicka1  = {{#if:{{{URL znaku|}}}{{{URL vlajky|}}}|Сімболы обцы}}
-|popis1     = 
+|imagestyle   = 
+|caption      = 
+|captionstyle = 
+|headerstyle  = background:lavender
+|labelstyle    = color:dimgray
+|datastyle       = 
+|header1  = {{#if:{{{URL znaku|}}}{{{URL vlajky|}}}|Сімболы обцы}}
+|label1     = 
 |data1      = 
 
 |hlavicka2  = 
