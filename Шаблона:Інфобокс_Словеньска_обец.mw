@@ -12,17 +12,17 @@
 |headerstyle  = background:lavender
 |labelstyle    = color:dimgray
 |datastyle       = 
-|header1  = {{#if:{{{URL znaku|}}}{{{URL vlajky|}}}|Сімболы обцы}}
+|header1  = {{#if:{{{URL заставы|}}}{{{URL заставы|}}}|Сімболы обцы}}
 |label1     = 
 |data1      = 
 
 |header2  = 
 |label2     =     
-|data2      = {{#if:{{{URL znaku|}}}|[[Файл:{{{URL znaku}}}|80px|Erb]]}} {{#if:{{{URL vlajky|}}}|[[Файл:{{{URL vlajky}}}|100px|Застава]]}}
-|header4  = {{#if:{{{URL polohy|}}}|Poloha}}
+|data2      = {{#if:{{{URL знаку|}}}|[[Файл:{{{URL знаку}}}|80px|Ерб]]}} {{#if:{{{URL заставы|}}}|[[Файл:{{{URL заставы}}}|100px|Застава]]}}
+|header4  = {{#if:{{{URL пологы|}}}|Полога}}
 |header5  = 
 |label5     = 
-|data5      = {{#if:{{{URL polohy|}}}|[[Файл:{{{URL polohy}}}|200px|Полога]]|}}
+|data5      = {{#if:{{{URL пологы|}}}|[[Файл:{{{URL пологы}}}|200px|Полога]]|}}
 
 |header14  = Основны інформації
 |label14     = 
