@@ -15,7 +15,7 @@ Please do not edit without discussion first as this is a VERY complex template.
 ---Title and Navbar---
 -->{{#if:{{{title|}}}|<tr>{{#if:{{{titlegroup|}}}|<!--
  --><td class="navbox-group" style="{{{basestyle|}}};{{{groupstyle|}}};{{{titlegroupstyle|}}}">{{{titlegroup|}}}</td><!--
- --><th style="border-left:2px solid #ccf;width:100%;|<th style="}}{{{basestyle|}}};{{{titlestyle|}}}" <!--
+ --><th style="border-left:2px solid #fdfdfd;width:100%;|<th style="}}{{{basestyle|}}};{{{titlestyle|}}}" <!--
  -->colspan={{#expr:2{{#if:{{{imageleft|}}}|+1}}{{#if:{{{image|}}}|+1}}{{#if:{{{titlegroup|}}}|-1}}}} <!--
  -->class="navbox-title"><!--
 
