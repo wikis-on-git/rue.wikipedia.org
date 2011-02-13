@@ -1,0 +1,27 @@
+{{Userbox
+  |id       = [[Image:Wikimedia Community Logo.svg|40px]]
+  |id-c     = {{{3|#fff}}}
+  |info-c   = {{{4|#f6f6f6}}}
+  |border-c = {{{5|#bbb}}}
+  |border-s = {{{6|1}}}
+ |info     = Цей користувач '''[[sulutil:{{PAGENAMEE}}|має]]''' [[:m:Help:Unified login|глобальний обліковий запис]]. Домашня вікі: <!--
+ -->{{#switch:{{{2|w}}}<!--
+    -->|commons=[[commons:User:{{PAGENAME}}|Вікісховище ]]<!--
+    -->|meta=[[meta:User:{{PAGENAME}}|Мета-Вікі ]]<!--
+    -->|mw=[[mw:User:{{PAGENAME}}|Media-Wiki]]<!--
+    -->|species=[[species:User:{{PAGENAME}}|ВікіВиди]]<!--
+    -->|w=[[:w:{{{1|rue}}}:User:{{PAGENAME}}|Вікіпедія ({{{1|rue}}})]]<!--
+    -->|wikt=[[:wikt:{{{1|rue}}}:user:{{PAGENAME}}|Вікісловник ({{{1|rue}}})]]<!--
+    -->|v=[[:v:{{{1|en}}}:User:{{PAGENAME}}|Wikiversity ({{{1|en}}})]]<!--
+    -->|b=[[:b:{{{1|rue}}}:User:{{PAGENAME}}|Вікіпідручник ({{{1|rue}}})]]<!--
+    -->|s=[[:s:{{{1|rue}}}:User:{{PAGENAME}}|Вікіджерела ({{{1|rue}}})]]<!--
+    -->|q=[[:q:{{{1|rue}}}:User:{{PAGENAME}}|ВікіЦитати ({{{1|rue}}})]]<!--
+    -->|n=[[:n:{{{1|rue}}}:User:{{PAGENAME}}|ВікіНовини ({{{1|rue}}})]]<!--
+  -->}}
+}}
+<includeonly>
+[[Category:Користувачі SUL|{{PAGENAME}}]]
+</includeonly>
+<noinclude>
+{{Documentation}}
+</noinclude>
