@@ -1,0 +1,105 @@
+{{Інфобокс
+|stylTela      = 
+|nadpis        = 
+|stylNadpisu   = 
+|zahlavie      = {{{Назва|{{PAGENAME}}}}}
+|stylZahlavia  = 
+|obrazok       = {{#if:{{{Образок|}}}|[[Файл:{{{Образок}}}|300px|{{{Попис образка|}}}]]<br>{{{Попис образка|}}}|Не маме слободный образок з обцы.<br />
+ Поможте Вікіпедії і [http://commons.wikimedia.org/wiki/Special:Upload?uselang=sk награйте го].}}
+|stylObrazka   = 
+|komentar      = 
+|stylKomentara = 
+|stylHlavicky  = background:lavender
+|stylPopisu    = color:dimgray
+|stylDat       = 
+|hlavicka1  = {{#if:{{{URL znaku|}}}{{{URL vlajky|}}}|Сімболы обцы}}
+|popis1     = 
+|data1      = 
+
+|hlavicka2  = 
+|popis2     =     
+|data2      = {{#if:{{{URL znaku|}}}|[[Файл:{{{URL znaku}}}|80px|Erb]]}} {{#if:{{{URL vlajky|}}}|[[Súbor:{{{URL vlajky}}}|100px|Vlajka]]}}
+|hlavicka4  = {{#if:{{{URL polohy|}}}|Poloha}}
+|hlavicka5  = 
+|popis5     = 
+|data5      = {{#if:{{{URL polohy|}}}|[[Súbor:{{{URL polohy}}}|200px|Poloha]]|}}
+
+|hlavicka14  = Основны інформації
+|popis14     = 
+|data14      = 
+|hlavicka15  = 
+|popis15     = [[Край]]
+|data15      = {{{Край|}}}
+|hlavicka16  = 
+|popis16     = [[Окрес]]
+|data16      = {{{Окрес|}}}
+|hlavicka17  = 
+|popis17     = [[Реґіон]]
+|data17      = {{{Реґіон|}}}
+|hlavicka18  = 
+|popis18     = Полога
+|data18      = {{#if:{{{Северна шырка|}}}|{{{Северна шырка|}}} {{#if:{{{Выходна довжка|}}}|<br />{{{Выходна довжка|}}}}} }}
+|hlavicka19  = 
+|popis19     = Надморьска вышка  
+|data19      = {{#if:{{{Надморьска вышка|}}}|{{{Надморьска вышка|}}} [[метрів над морём|м н. м.]]}}
+|hlavicka20 = 
+|popis20    = Розлога 
+|data20     = {{#if:{{{Розлога|}}}|{{{Розлога|}}} км²}}
+|hlavicka21 = 
+|popis21    = Жытелїв
+|data21     = {{{Чісло жытелїв|}}}{{#if:{{{Статус ку|}}}|&nbsp;(k&nbsp;{{{Stav k}}})|}}
+|hlavicka22 = 
+|popis22    = Густота жытельства
+|data22     = {{#if:{{{Густота жытелїв|}}}|{{{Густота жытелїв|}}} жытелїв/км²}}
+|hlavicka23 = 
+|popis23    = Перша писемна змінка
+|data23     = {{{Перша писемна змінка|}}}
+|hlavicka24 = Націоналії
+|popis24    = 
+|data24     =  
+|hlavicka25 = 
+|popis25    = [[Штатістічна теріторіална єдиніця|ШТЄ (ŠÚJ)]]
+|data25     = {{{Код|}}}
+|hlavicka26 = 
+|popis26    = [[Евіденчне чісло возидла|EČV]]
+|data26     = {{{EČV|}}}
+|hlavicka27 = 
+|popis27    = ПСЧ
+|data27     = {{{ПСЧ|}}}
+|hlavicka28 = 
+|popis28    = Тел.&nbsp;передвольба 
+|data28     = {{{Передвольба|}}}
+
+|hlavicka31  = Офіціалны адресы
+
+|hlavicka32  = 
+|popis32     = Вебова сторінка    
+|data32      = {{#if:{{{Website|}}}|[http://{{{Website|}}} {{{Website|}}}]}}
+|hlavicka33  = 
+|popis33     = Адреса    
+|data33      = {{{Адреса|}}}
+|hlavicka34  = 
+|popis34     = Імейл 
+|data34      = {{{Імейл|}}}
+|hlavicka35  =
+|popis35     = Телефон              
+|data35      = {{{Телефон|}}}
+|hlavicka36  = 
+|popis36     = Факс
+|data36      = {{{Факс|}}}
+|hlavicka37  = {{#if:{{{Староста|}}}|Староста}}
+|popis37     = 
+|data37      = 
+|hlavicka38  = 
+|popi38      = 
+|data38      = {{{Староста|}}} {{#if:{{{Політічна партія|}}}|<br />({{{Політічна партія|}}})|}}
+
+|hlavicka40  = Жрідла інформацій
+|popis40     = 
+|data40      = 
+
+|data41      = {{#if:{{{Код|}}}|{{MOŠ/MIS|{{{Код|}}}}}|[http://www.statistics.sk/mosmis/sk/run.html Містьска і обецна штатістіка (SŠÚ)]}}<br>[http://obce.info Інформачный портал о містах і селах Словеньска]
+
+|stylZapatia =
+|zapatie     =
+}}<noinclude>{{Documentation}}</noinclude>
