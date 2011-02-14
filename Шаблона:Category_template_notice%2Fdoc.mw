@@ -1,8 +1,11 @@
 <!-- РЕДАГУЙТЕ ДОКУМЕНТАЦІЮ ШАБЛОНУ НИЖЧЕ ЦЬОГО РЯДКА -->
 == Хоснованя ==
-Параметр обов'язковий/ Cnfdbnmcz ім'я шаблону без префікса «'''Шаблон:'''»: <u><s>Шаблон:</s>User SUL</u>.
+Параметр обов'язковий. Ставте ім'я шаблону без префікса «'''Шаблон:'''»:
 
-<nowiki>{{Category template notice</nowiki>'''|User SUL'''<nowiki>}}</nowiki>
+<u><s>Шаблон:</s>User SUL</u>.
+
+
+вигляд буде такий: <nowiki>{{Category template notice</nowiki>'''|User SUL'''<nowiki>}}</nowiki>
 <includeonly>
 <!-- ДОДАВАЙТЕ КАТЕГОРІЇ ТА ІНТЕРВІКІ НИЖЧЕ ЦІЄЇ ЛІНІЇ -->
 {{DEFAULTSORT:{{PAGENAME}}}}
