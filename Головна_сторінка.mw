@@ -58,7 +58,7 @@ __NOTOC__
 <div style="background-color: rgb(253, 254, 255); width: 100%; border: 1px #9EE072 solid; margin-bottom: 5px;margin-left:-1px">
 <div style="height: 16pt; background-color: rgb(253, 254, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Viteze.gif|32px]]</div>
-<div style="padding-left: 35px;">[[Шаблон:Інтересне|Знаєте, же…]]</div></div>
+<div style="padding-left: 35px;">[[Шаблона:Інтересне|Знаєте, же…]]</div></div>
 <div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
 <div id="mp-dyk">{{Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
