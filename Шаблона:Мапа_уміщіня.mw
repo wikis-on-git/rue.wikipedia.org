@@ -1,0 +1,107 @@
+{{#if:{{{1|}}}|{{#if:{{Мапа уміщіня {{{1}}}|type}}|{{Карта розташування/
+|1={{{1|}}}
+|border={{{border|}}}
+|caption={{{caption|}}}
+|рельєф={{{рельєф|}}}
+|AlternativeMap={{{AlternativeMap|{{{alt|}}} }}}
+|float={{#if:{{{float|}}}|{{{float|}}}|right}}
+|width={{#if:{{{width|}}}|{{{width|}}}|240}}
+|alt={{{alt|}}}
+|label={{{label|}}}
+ |label_size={{{label_size|}}}
+ |position={{{position|}}}
+ |background={{{background|}}}
+|lat={{{lat|}}}|lat_dir={{#if:{{{lat_dir|}}}|{{{lat_dir|}}}|N}}|lat_deg={{{lat_deg|}}}|lat_min={{#if:{{{lat_min|}}}|{{{lat_min|}}}|0}}|lat_sec={{#if:{{{lat_sec|}}}|{{{lat_sec|}}}|0}}
+ |long={{{lon|{{{long|}}} }}}|lon_dir={{#if:{{{lon_dir}}}|{{{lon_dir|}}}|E}}|lon_deg={{{lon_deg|}}}|lon_min={{#if:{{{lon_min|}}}|{{{lon_min|}}}|0}}|lon_sec={{#if:{{{lon_sec|}}}|{{{lon_sec|}}}|0}}
+ |mark={{#if:{{{mark|}}}|{{{mark|}}}|Red pog.svg}}
+ |marksize={{#if:{{{marksize|}}}|{{{marksize|}}}|6}}
+}}|<div style="width: {{#expr: {{#if:{{{width|}}}|{{{width|}}}|240}} + 2 }}px; {{#if: {{{caption|}}} 
+  | padding: 3px; border: 1px solid {{#if: {{{border|}}} 
+    | {{{border|none}}} 
+    | #CCCCCC 
+  }}; margin: 3px;
+}} float:{{#switch:{{{float|}}}|"center"=none|center=none|"left"=left|"right"=right|left=left|right=right|"none"=none|none=none|right}}; clear:{{#switch:{{{float|}}}|"center"=both|center=both|"left"=left|"right"=right|left=left|right=right|"none"=none|none=none|right}}; {{#if: {{{caption|}}} | ;background:#F9F9F9"|" }}><div style="position: relative;{{#ifeq: {{{border|}}} | none | 
+  |border: 1px solid {{#if: {{{border|}}} 
+    | {{{border}}} 
+    | {{#if:{{{caption|}}}|#CCCCCC|none}}
+  }};
+}} padding: 0px; width: {{#if:{{{width|}}}|{{{width|}}}|240}}px">[[Файл:{{#if: {{{AlternativeMap|{{{alt|}}} }}} | {{{AlternativeMap|{{{alt|}}} }}} | {{#if:{{{рельєф|}}}|{{#if:{{Мапа уміщіня {{{1}}}|image1}}|{{Мапа уміщіня {{{1}}}|image1}}|{{Мапа уміщіня {{{1}}}|image}} }}|{{Мапа уміщіня {{{1}}}|image}} }} }}|{{#if:{{{width|}}}|{{{width|}}}|240}}px|{{#if: {{{label|}}} 
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}} ({{Мапа уміщіня {{{1}}}|name}})]]<br /><div style="position: absolute; z-index: 2; top: {{#expr: {{#if:{{Мапа уміщіня {{{1}}}|y}}|{{Мапа уміщіня {{{1}}}|y|{{Широта
+|lat = {{{lat|}}}
+|lat_deg = {{{lat_deg|}}}
+|lat_min = {{{lat_min|}}}
+|lat_sec = {{{lat_sec|}}}
+|lat_dir = {{{lat_dir|}}}}}|{{Довгота
+|long = {{{lon|{{{long|}}}}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}}}}}|100 * ({{Мапа уміщіня {{{1}}}|top}} - {{Широта
+|lat = {{{lat|}}}
+|lat_deg = {{{lat_deg|}}}
+|lat_min = {{{lat_min|}}}
+|lat_sec = {{{lat_sec|}}}
+|lat_dir = {{{lat_dir|}}}}}) / ({{Мапа уміщіня {{{1}}}|top}} - {{Мапа уміщіня {{{1}}}|bottom}}) round 1}}}}%; left: {{#expr: {{#if:{{Мапа уміщіня {{{1}}}|x}}|{{Мапа уміщіня {{{1}}}|x|{{Широта
+|lat = {{{lat|}}}
+|lat_deg = {{{lat_deg|}}}
+|lat_min = {{{lat_min|}}}
+|lat_sec = {{{lat_sec|}}}
+|lat_dir = {{{lat_dir|}}}}}|{{Довгота
+|long = {{{lon|{{{long|}}}}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}}}}}|{{#expr:{{#if:{{Мапа уміщіня {{{1}}}|crosses180}}|{{#ifeq: {{{lon_dir|}}}|W|-36000/({{Мапа уміщіня {{{1}}}|left}}-{{Мапа уміщіня {{{1}}}|right}})|}}|}}}} + 100 * ({{Довгота
+|long = {{{lon|{{{long|}}}}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}}} - {{Мапа уміщіня {{{1}}}|left}}) / ({{Мапа уміщіня {{{1}}}|right}} - {{Мапа уміщіня {{{1}}}|left}}) round 1}}}}%; margin: 0; padding: 0;"><div style="position: relative; float:left; {{#if: {{{marksize|}}} 
+  | left: -{{#expr: {{{marksize}}} / 2 round 0 }}px; top: -{{#expr: {{{marksize}}} / 2 round 0 }}px; width: {{{marksize}}}px; font-size: {{{marksize}}}px; 
+  | left: -{{#expr: {{#if: {{Мапа уміщіня {{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}} / 2 round 0 }}px; top: -{{#expr: {{#if: {{Мапа уміщіня{{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}} / 2 round 0 }}px; width: {{#if: {{Мапа уміщіня {{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}}px; font-size: {{#if: {{Мапа уміщіня {{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}}px; 
+}}">[[Файл:{{#if: {{{mark|}}} 
+  | {{{mark}}} 
+  | {{#if: {{Мапа уміщіня {{{1}}}|mark}}|{{Мапа уміщіня {{{1}}}|mark}}|Red pog.svg}}
+}}|{{#if: {{{marksize|}}} 
+  | {{{marksize}}}x{{{marksize}}} 
+  | {{#if: {{Мапа уміщіня {{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}}x{{#if: {{Мапа уміщіня {{{1}}}|marksize}}|{{Мапа уміщіня {{{1}}}|marksize}}|8}}
+}}px|{{#if: {{{label|}}} 
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}}]]</div>{{#ifeq: {{{position|}}} | none 
+  |
+  |<div style="font-size: {{#if:{{{label_size|}}}|{{{label_size|}}}|90}}%;  line-height:100%; position: relative; top: -0.45em; width: 150px; {{#switch: {{{position|}}}
+    |right = left: 0; text-align: left;
+    |left = left: {{#expr:-{{#if:{{{marksize|}}}|{{{marksize|}}}|9}}-152}}px; text-align: right;
+    |top = top:-1.8em; left:-78px; text-align: center;
+    |bottom = top:{{#expr:{{{marksize|9}}}*0.5+3}}px; left: -78px; text-align: center;
+    |none = display:none;
+    |#default={{#ifexpr:{{#if:{{Мапа уміщіня {{{1}}}|x}}|{{Мапа уміщіня {{{1}}}|x|{{Широта
+|lat = {{{lat|}}}
+|lat_deg = {{{lat_deg|}}}
+|lat_min = {{{lat_min|}}}
+|lat_sec = {{{lat_sec|}}}
+|lat_dir = {{{lat_dir|}}}}}|{{Довгота
+|long = {{{lon|{{{long|}}}}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}}}}}|{{#expr:{{#if:{{Мапа уміщіня {{{1}}}|crosses180}}|{{#ifeq: {{{lon_dir|}}}|W|-36000/({{Мапа уміщіня {{{1}}}|left}}-{{Мапа уміщіня {{{1}}}|right}})|}}|}}}} + 100 * ({{Довгота
+|long = {{{lon|{{{long|}}}}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}}} - {{Мапа уміщіня {{{1}}}|left}}) / ({{Мапа уміщіня {{{1}}}|right}} - {{Мапа уміщіня {{{1}}}|left}}) round 1
+}} > 65|left: {{#expr:-{{#if:{{{marksize|}}}|{{{marksize|}}}|9}}-152}}px; text-align: right;|left: 0; text-align: left;}}
+  }}"><span style="padding: 1px; {{#if:{{Мапа уміщіня {{{1}}}|background}}|background-color: {{Мапа уміщіня {{{1}}}|background}};|{{#if: {{{background|}}} 
+    | background-color: {{{background}}}; 
+  }}}}">{{{label|}}}</span></div>
+}}</div></div><div style="font-size: 90%">{{{caption|{{#if: {{{label|}}} 
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}} ({{Мапа уміщіня {{{1}}}|name}})}}}</div></div>}}}}<noinclude>
+{{документація}}
+<!-- Додавайте категорії та інтервікі на підсторінку /Документація, а не сюди. Дякуємо! -->
+</noinclude>
