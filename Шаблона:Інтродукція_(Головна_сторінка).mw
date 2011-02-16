@@ -1,7 +1,7 @@
 {| id="головнасторінкаінтро" style="border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%; background-color:transparent; width:100%; font-size:95%; margin-top:12px;"
 | height="80px" style="padding-left:3em" |<span style="font-size:185%">Вітайте на [[Вікіпедія|Вікіпедії]],</span>
 <div>'''слободній енціклопедії''', котру може управляти каждый.</div>
-| style="padding:1em" | <div align=right>Днесь є {{LOCALDAY2}}.&nbsp;{{LOCALMONTH}}.&nbsp;{{LOCALYEAR}}.<br/>У [[Русиньскый язык|русиньскій]] верзії є теперь [[Спеціальна:Statistics|{{NUMBEROFARTICLES}}]] статей.</div>
+| style="padding:1em" | <div align=right>Днесь є {{LOCALDAY2}}.&nbsp;{{LOCALMONTH}}.&nbsp;{{LOCALYEAR}}.<br/>У [[Русиньскый язык|русиньскій]] верзії є теперь [[Шпеціална:Statistics|{{NUMBEROFARTICLES}}]] статей.</div>
 |}
 <noinclude>
 [[Category:Шаблоны про Головну сторінку]]
