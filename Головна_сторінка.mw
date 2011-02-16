@@ -5,13 +5,13 @@ __NOTOC__
 
 <br />
 <center>''Тоты што говорять по русиньскы суть вітаны створити тілько квалітных статей кілько будуть мочі''. </center>
-<center>[[Спеціальна:PrefixIndex|Вшыткы сторінкы]]<br />
+<center>[[Шпеціална:PrefixIndex|Вшыткы сторінкы]]<br />
 
-[[Спеціальна:PrefixIndex/Category:|Вшыткы катеґорії]]</center><br />
+[[Шпеціална:PrefixIndex/Category:|Вшыткы катеґорії]]</center><br />
 
 | width="55%" valign="top" style="padding: 0; margin:0;" |
 {| cellspacing="0" cellpadding="4"
-| align="center" style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: center; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Файл:wbar_green2.jpg]]</div><div style="float:left;">[[Файл:Clanektydne.gif|20px]]   '''[[Шаблон:Статя_тыждня|Статя тыждня]]''' 
+| align="center" style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: center; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Файл:wbar_green2.jpg]]</div><div style="float:left;">[[Файл:Clanektydne.gif|20px]]   '''[[Шаблона:Статя_тыждня|Статя тыждня]]''' 
 |-
 | style="border-top:1px solid #BED2E0; font: 85% Verdana;" align="left" bgcolor="#EAF5FB"|
 
@@ -19,7 +19,7 @@ __NOTOC__
 <div style="margin: 0.4em; margin-top: 1em; text-align: justify;">
 <div id="mp-tfa">{{Статя тыждня/{{#time:o/W|{{#ifexist:Статя тыждня/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
-<div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%; clear: both;">[[Шаблон:Статя тыждня/Архів|Архів]]</div>
+<div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%; clear: both;">[[Шаблона:Статя тыждня/Архів|Архів]]</div>
 </div>
 
 
@@ -39,7 +39,7 @@ __NOTOC__
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |'''Статї русиньской Вікіпедії'''
 |-
 | style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-* [[Спеціальна:PrefixIndex|All pages of Carpatho-Rusyn Wikipedia]]
+* [[Шпеціална:PrefixIndex|All pages of Carpatho-Rusyn Wikipedia]]
 <br />
 <br />
 [[Файл:Teritorio_de_rutenoj.jpg|left|thumb|220px|[http://www.carpathorusynsociety.org/geography.html Geography and Economy] ]]
@@ -62,7 +62,7 @@ __NOTOC__
 <div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
 <div id="mp-dyk">{{Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
-<div style="width: 100%; background-color: #DCF4CC; border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Спеціальна:Newpages|Найновшы статї]]</div>
+<div style="width: 100%; background-color: #DCF4CC; border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Шпеціална:Newpages|Найновшы статї]]</div>
 </div>
 |}
 <br />
@@ -95,10 +95,10 @@ __NOTOC__
 <div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
 <small class="plainlinks">
 <small>
-[[Спеціальна:Allpages|'''Вшыткы статї''']] |
-[[Спеціальна:Newpages|'''Новы статї''']] |
-[[Спеціальна:Lonelypages|'''Сторінкы сироты''']] |
-[[Спеціальна:Categories|'''Катеґорії''']] |
+[[Шпеціална:Allpages|'''Вшыткы статї''']] |
+[[Шпеціална:Newpages|'''Новы статї''']] |
+[[Шпеціална:Lonelypages|'''Сторінкы сироты''']] |
+[[Шпеціална:Categories|'''Катеґорії''']] |
 [http://rue.wikipedia.org/w/index.php?title=Головна_сторінка '''Обновити кеш''']
 </small>
 </div>
