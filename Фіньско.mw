@@ -1,5 +1,87 @@
-[[Файл:EU-Finland.svg|right|225px|thumb|Фіньско в Европі]]
+{{Інфобокс країна
+|native_name         = {{lang|fi|Suomen tasavalta}}{{spaces|2}}<small>{{fi icon}}</small><br/>{{lang|sv|''Republiken Finland''}}{{spaces|2}}<small>{{sv icon}}</small>
+|conventional_long_name   = Republic of Finland
+|common_name         = Finland
+|image_flag         = Flag_of_Finland.svg
+|image_coat         = Coat of arms of Finland.svg
+|image_map = EU-Finland.svg
+|map_caption = {{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Finland.svg}}
+|national_anthem = {{lang|fi|''[[Maamme]]''}}{{spaces|2}}<small>([[Finnish language|Finnish]])</small><br/>{{lang|sv|''[[Maamme#Vårt land|Vårt land]]''}}{{spaces|2}}<small>([[Swedish language|Swedish]])''<br/>"Our Land"</small>
+|official_languages     = [[Finnish language|Finnish]], [[Swedish language|Swedish]]
+|regional_languages     = [[Saami languages|Saami]]
+|demonym           = [[Finns|Finns, Finnish]]
+|capital           = [[Helsinki]]
+|latd=60 |latm=10 |latNS=N |longd=024 |longm=56 |longEW=E
+|largest_city        = capital
+|religion          = [[Lutheranism|Lutheran]]
+|government_type       = [[Parliamentary republic]]<ref>Formerly a semi-presidential republic, it's now a parliamentary republic  according to David Arter, First Chair of Politics at Aberdeen University, who in his "Scandinavian Politics Today" (Manchester University Press, revised 2008), quotes Jaakko Nousiainen in "From semi-presidentialism to parliamentary government" in Scandinavian Political Studies 24 (2) p95-109 as follows: "There are hardly any grounds for the epithet 'semi-presidential'." Arter's own conclusions are only slightly more nuanced: "The adoption of a new constitution on 1 March 2000 meant that Finland was no longer a case of semi-presidential government other than in the minimalist sense of a situation where a popularly elected fixed-term president exists alongside a prime minister and cabinet who are responsible to parliament (Elgie 2004: 317)". According to the Finnish Constitution, the President has no possibility to rule the government without the ministerial approval, and substantially has not the power to disband the parliament under its own desire. Finland is actually represented by its Prime Minister, and not by its President, in the Council of the Heads of State and Government of the European Union.</ref>
+|leader_title1        = [[President of Finland|President]]
+|leader_title2        = [[Prime Minister of Finland|Prime Minister]]
+|leader_title3        =
+|leader_name1        = [[Tarja Halonen]]
+|leader_name2        = [[Mari Kiviniemi]]
+|leader_name3        =
+|accessionEUdate       = January 1, 1995
+|area_rank          = 64th
+|area_magnitude       = 1 E11
+|area_km2          = 338,424
+|area_sq_mi         = 130,596 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water        = 10
+|population_estimate     = 5,374,781<ref name="Population clock"/>
+|population_estimate_rank  = 112th
+|population_estimate_year  = 2010
+|population_census        = 5,180,000
+|population_census_year   = 2000
+|population_density_km2   = 16
+|population_density_sq_mi  = 40 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank   = 201st
+|GDP_PPP           = $183.095 billion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=172&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=28&pr.y=11 |title=Finland|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank        =
+|GDP_PPP_year        = 2010
+|GDP_PPP_per_capita     = $34,044<ref name=imf2/>
+|GDP_PPP_per_capita_rank   =
+|GDP_nominal         = $240.139 billion<ref name=imf2/>
+|GDP_nominal_rank      =
+|GDP_nominal_year      = 2010
+|GDP_nominal_per_capita   = $44,650.<ref name=imf2/>
+|GDP_nominal_per_capita_rank =
+|sovereignty_type      = [[History of Finland|Independence]]
+|sovereignty_note      =
+|established_event1     = ''[[Grand Duchy of Finland|Autonomy]]''<br><small>''from [[History of Sweden (1772–1809)#The loss of Finland|Sweden]]''</small>
+|established_event2     = [[Finland's Declaration of Independence|Declared]]<br><small>from [[Russian Soviet Federative Socialist Republic|Bolshevik Russia]]</small>
+|established_event3     = Recognised
+|established_date1      = ''March 29, 1809''
+|established_date2      = December 6, 1917
+|established_date3      = January 4, 1918
+|HDI             = {{increase}}&nbsp;0.871<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}} and {{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table2.pdf|title=Human Development Index trends, 1980–2010|year=2010|publisher=United Nations|accessdate=7 November 2010}}</ref>
+|HDI_rank          = 16th
+|HDI_year          = 2010
+|HDI_category        = <span style="color:#090;">very&nbsp;high</span>
+|FSI             = 18.5
+|FSI_year          = 2007
+|FSI_rank          = 176th
+|FSI_category        = <span style="color:#090;">Sustainable</span>
+|Gini            = 26.9
+|Gini_year          = 2000
+|Gini_category        = <span style="color:#090;">low</span>
+|currency          = [[Euro]] ([[Euro sign|€]])¹
+|currency_code        = EUR
+|country_code        =
+|time_zone          = [[Eastern European Time|EET]]
+|utc_offset         = +2
+|time_zone_DST        = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST       = +3
+|date_format             = d.m.yyyy
+|drives_on          = right
+|cctld            = [[.fi]], [[.ax]] ²
+|calling_code        = [[Telephone numbers in Finland|358]]
+|footnote1          = Before 2002: [[Finnish markka]]
+|footnote2          = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+}}
+
 '''Фіньско''' (Suomi) — країна в [[Европа|Европі]], член [[Европска Унія|Европской Унії]].
+
+<references/>
 
 [[Катеґорія:Країны|Фіньско]]
 
