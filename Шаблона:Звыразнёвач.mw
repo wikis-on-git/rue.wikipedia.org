@@ -1,0 +1,12 @@
+<noinclude>
+{{Шаблона demo|шаблона=
+</noinclude><span style="background-color: {{#switch: {{{фарба|жовта}}}
+  | жовта=#ff3
+  | зелена=#9f0
+  | модра=#3cf
+  | червена=#f99
+  | {{{фарба}}}
+  }};">{{{1}}}</span><noinclude>
+}}<noinclude>
+{{Documentation}}
+</noinclude>
