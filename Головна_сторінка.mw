@@ -1,74 +1,92 @@
-__NOTOC__
-__NOTOC__
-{{Інтродукція (Головна сторінка)}}
-{| wikitable border="2" width="100%"
-
-<br />
-<center>''Тоты што говорять по русиньскы суть вітаны створити тілько квалітных статей кілько будуть мочі''. </center>
-<center>[[Шпеціална:PrefixIndex|Вшыткы сторінкы]]<br />
-
-[[Шпеціална:PrefixIndex/Category:|Вшыткы катеґорії]]</center><br />
-
-| width="55%" valign="top" style="padding: 0; margin:0;" |
-{| cellspacing="0" cellpadding="4"
-| align="center" style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: center; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Файл:wbar_green2.jpg]]</div><div style="float:left;">[[Файл:Clanektydne.gif|20px]]   '''[[Шаблона:Статя_тыждня|Статя тыждня]]''' 
+__NOTOC__ __NOEDITSECTION__
+<!------- ВСТУПНЕ ОКНО ------->
+{|style="width:99.6%;margin-top:.7em;margin-left:.1em;background-color:#fcfcfc;border:1px solid #ccc"
+|style="width:56%;color:#000"|
+{|style="width:280px;border:solid 0px;background:none"
 |-
-| style="border-top:1px solid #BED2E0; font: 85% Verdana;" align="left" bgcolor="#EAF5FB"|
-
-<!------- СТАТЯ ТЫЖДНЯ -------> 
+|style="padding-left:20px;text-align:left;white-space:nowrap;color:#000" |
+<div style="font-size:150%;border:none;margin: 0;padding:.1em;color:#000">[[Вікіпедія:Вітайте на Вікіпедії|Вітайте на&nbsp;Вікіпедії]]''',</div>
+<div style="top:+0.2em;font-size: 95%">інтернетовій [[енціклопедія|енціклопедії]], котру може [[Поміч:Як едітовати сторінку|управляти]] каждый.</div>
+|}<!----- ІКОНЫ З ПОРТАЛАМИ ------->
+|style="width:11%;font-size:95%;color:#000"|
+<span style="white-space:nowrap">[[Файл:Nuvola apps kcoloredit.png|15px|link=Катеґорія:Култура|Култура]] [[:Катеґорія:Култура|Култура]]</span><br />
+<span style="white-space:nowrap">[[Файл:Nuvola filesystems www.png|15px|link=Катеґорія:Ґеоґрафія|Ґеоґрафія]] [[:Катеґорія:Ґеоґрафія|Ґеоґрафія]]</span><br />
+<span style="white-space:nowrap">[[Файл:Nuvola apps clock.png|15px|link=Катеґорія:Історія|Історія]] [[:Катеґорія:Історія|Історія]]</span><br />
+|style="width:11%;font-size:95%"|
+<span style="white-space:nowrap">[[Файл:Nuvola apps edu mathematics.png|15px|link=Катеґорія:Математіка|Математіка]] [[:Катеґорія:Математіка|Математіка]]</span><br />
+<span style="white-space:nowrap">[[Файл:Nuvola apps kdmconfig.png|15px|link=Катеґорія:Люде|Люде]] [[:Катеґорія:Люде|Люде]]</span><br />
+<span style="white-space:nowrap">[[Файл:P philosophy.png|15px|linkКатеґорія:Філозофія|Філозофія]] [[:Катеґорія:Філозофія|Філозофія]]</span><br />
+|style="width:11%;font-size:95%"|
+<span style="white-space:nowrap">[[Файл:Nuvola apps kalzium.png|15px|link=Катеґорія:Наука|Наука]] [[:Катеґорія:Наука|Наука]]</span><br />
+<span style="white-space:nowrap">[[Файл:Nuvola filesystems folder home.png|15px|link=Катеґорія:Сполочность|Сполочность]] [[:Катеґорія:Сполочность|Сполочность]]</span><br />
+<span style="white-space:nowrap">[[Файл:Nuvola apps display.png|15px|link=Катеґорія:Технолоґії|Технолоґії]] [[:Катеґорія:Технолоґія|Технолоґії]]</span>
+|}
+<!------- УВОДНИК ------->
+{| border="0" width="100%" style="margin-bottom:-10px"
+| <div style="margin: 0px 0% 0px 0%; text-align: center;font-size:95%;">[[Русиньска Вікіпедія|Русиньска верзія]] [[Вікіпедія|Вікіпедії]] зачала своє дїйствованя в роцї [[2011]], теперь у ній уж <span style="font-size:110%;">'''[[Шпеціална:Statistics|{{NUMBEROFARTICLES}}]]'''</span> [[Вікіпедія:Як створити статю|статей]].<br />Попозерайте собі [[Поміч:Як едітовати сторінку|як ся едітує]], або діскутуйте на сторінцї [[Вікіпедія:Портал комуніты|Портал комуніты]].</div>
+<div style="margin:0.7% 0px 0px 0.3%;text-align:left; font-size:90%;">
+''[[Вікіпедія:Вікіпедісты|Вікіпедісты]] • [[Вікіпедія:Спроваджаня|Спроваджаня]] • [[Поміч:Обсяг|Поміч]] • [[Вікіпедія:Часты звідованя|Звідуєте&nbsp;ся]]&nbsp;(FAQ) • [[Вікіпедія:Алфавітный указовач|А–Я]] • [[Вікіпедія:Портал Вікіпедії|Портал Вікіпедії]] (швыдка оръєнтація) • [[Вікіпедія:Портал комуніты|Портал комуніты]] • [[Вікіпедія:Контакт|Контакт]]''</div>
+| style="width: 120px" | <div style="padding-bottom:.8em; margin-top:15px; text-align:center; padding-right: 8px; float:right;">[[Файл:Other languages icon.svg|80px]]
+<div style="margin-top:2%"><span style="font-size:90%;white-space:nowrap">[[#іншы языкы|Іншы языкы]] | [[Вікіпедія:Амбасада|Embassy]]</span></div></div>
+|}
+<!------- ТАБЛИЦЯ УТРИМУЮЧА ДІЗАЙН ------->
+{| style="width: 100%; padding: 0px;margin-top:4px;"
+| style="width: 55%; vertical-align: top;"|
+<!------- СТАТЯ ТЫЖДНЯ ------->
+<div style="background-color: rgb(253, 254, 255); width: 100%; border: 1px rgb(170, 213, 255) solid; margin-bottom: 5px;margin-left:-1px">
+<div style="height: 16pt; background-color: rgb(170, 213, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[Файл:Clanektydne.gif|20px]]</div>
+<div style="padding-left: 35px;">[[Шаблона:Статя_тыждня|Статя тыждня]]</div></div>
 <div style="margin: 0.4em; margin-top: 1em; text-align: justify;">
 <div id="mp-tfa">{{Статя тыждня/{{#time:o/W|{{#ifexist:Статя тыждня/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
 <div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%; clear: both;">[[Шаблона:Статя тыждня/Архів|Архів]]</div>
 </div>
-
-
-|-
-|}
-<center>Написати нову статю:
-<inputbox>
- type=create
- width=40
- bgcolor=#f0f0ff
- preload=Template:Standard content for new page
- editintro=Template:Instructions
- default=
-</inputbox></center>
-
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |'''Статї русиньской Вікіпедії'''
-|-
-| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-* [[Шпеціална:PrefixIndex|All pages of Carpatho-Rusyn Wikipedia]]
-<br />
-<br />
-[[Файл:Teritorio_de_rutenoj.jpg|left|thumb|220px|[http://www.carpathorusynsociety.org/geography.html Geography and Economy] ]]
-[[Файл:CarpathianRutheniaCoA.svg|thumb|140px||[[Русины]]]]
-|}
-
-| width="60%" valign="top" style="border-bottom:1px solid #DBD2B0; border-top:1px solid #DBD2B0;"|
-{| cellspacing="0" cellpadding="5" 
-| style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #ECE5CA; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Файл:wbar_green2.jpg]]</div><div style="float:left;">[[Файл:Wikipedia-logo.png|20px]]  '''Обсяг'''
-|- 
-| style="border-top:1px solid #DBD2B0; font: 100% Verdana;" |
-{{Содержаня}}</td>
-
-|}
-<!------- ЗНАЄТЕ ЖЕ -------> 
-<div style="background-color: rgb(253, 254, 255); width: 100%; border: 1px #9EE072 solid; margin-bottom: 5px;margin-left:-1px">
-<div style="height: 16pt; background-color: rgb(253, 254, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<!------- ЗНАЄТЕ ЖЕ ------->
+<div style="background-color: rgb(255, 254, 255); width: 100%; border: 1px rgb(170, 213, 255) solid; margin-bottom: 5px;margin-left:-1px">
+<div style="height: 16pt; background-color: rgb(170, 213, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Viteze.gif|32px]]</div>
-<div style="padding-left: 35px;">[[Шаблона:Інтересне|Знаєте, же…]]</div></div>
+<div style="padding-left: 35px;">[[Шаблона:Інтересне|А ці вы знали, же…]]</div></div>
 <div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
 <div id="mp-dyk">{{Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
-<div style="width: 100%; background-color: #DCF4CC; border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Шпеціална:Newpages|Найновшы статї]]</div>
+<div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Шпеціална:Newpages|Найновшы статї]]</div>
 </div>
-|}
-<br />
-<br />
-
-<!------- Сестерьскы проєкты -------> 
+<!------- РЕДАКЦІЯ -------> 
+<div style="background-color: rgb(255, 254, 251); border: 1px rgb(170, 213, 255) solid; margin-bottom: 5px">
+<div style="height: 16pt; background-color: rgb(170, 213, 255); border: 0px; border-bottom: 1px rgb(130, 173, 215); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[Файл:Redakce.gif|32px]]</div>
+<div style="padding-left: 35px;">[[Вікіпедія:Портал Вікіпедії|Редакція]]</div></div>
+<div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
+{{Вікіпедія:Редакція}}
+</div>
+<div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Поміч:Обсяг|Далшы інформації…]]</div>
+</div>
+| <!------- ДРУГЫЙ СТОВПЕЦЬ ------->
+| style="vertical-align: top;"|
+<!------- ОБРАЗЧІК ТЫЖДНЯ ------->
+<div style="background-color: rgb(255, 254, 251); border: 1px rgb(245, 223, 154) solid; margin-bottom: 5px;">
+<div style="height: 16pt; background-color: rgb(245, 223, 154); border: 0px; border-bottom: 1px rgb(205, 183, 114); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[Файл:Crystal 128 xpaint.gif|32px]]</div>
+<div style="padding-left: 35px;">[[:Вікіпедія:Образчік тыждня|Образчік тыждня]]</div></div>
+<div style="clear: both; padding-top: 0.5em; margin: 0.5em; text-align: justify;">
+<div id="mp-tfp">{{Вікіпедія:Образчік тыждня/{{#time:o/W|{{#ifexist:Вікіпедія:Образчік тыждня/{{#time:o/W}}||-1 week}}}}}}</div>
+</div>
+<div style="width: 100%; background-color: rgb(255, 240, 205); border-top: rgb(245, 223, 154) 1px solid; text-align: right; font-size: 90%;">[[Вікіпедія:Образчік тыждня/Архів|Архів]] • [[Поміч:Образчікы|Далшы інформації…]]</div>
+</div>
+<!------- КАТЕҐОРІЇ ------->
+<div style="background-color: rgb(255, 254, 251); width: 100%; border: 1px rgb(245, 223, 154) solid; margin-bottom: 5px;margin-left:-1px">
+<div style="height: 16pt; background-color: rgb(245, 223, 154); border: 0px; border-bottom: 1px rgb(205, 183, 114); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[Файл:Kategorie.gif|32px]]</div>
+<div style="padding-left: 35px;">[[:Катеґорія:Головна|Листованя катеґоріями]]</div></div>
+<div style="clear: both; font-size: 95%; margin: 0.5em">
+{{Содержаня}}
+</div>
+<div style="background-color: rgb(255, 240, 205); border-top: rgb(245, 223, 154) 1px solid; text-align: right; font-size: 90%;">[[Поміч:Катеґорії|Далшы інформації…]]</div>
+</div>
+|-
+| colspan="3" |
+<!------- Сестерьскы проєкты ------->
 <div style="margin-left:-1px; width: 99.9%; background-color: rgb(255, 254, 255); border: 1px rgb(210, 210, 240) solid; margin-bottom: 5px">
 <div style="height: 16pt; background-color: rgb(210, 210, 240); border: 0px; border-bottom: 1px rgb(170, 170, 200); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Nuvola_apps_kdf.gif|32px]]</div>
@@ -77,21 +95,16 @@ __NOTOC__
 {{Wikipediasister}}
 </div>
 </div>
-<!------- Іншы языкы -------> 
+<!------- Іншы языкы ------->
 <div id="іншыязыкы" style="margin-left:-1px; width: 99.9%; background-color: rgb(255, 254, 255); border: 1px rgb(210, 210, 240) solid; margin-bottom: 5px">
 <div style="height: 16pt; background-color: rgb(210, 210, 240); border: 0px; border-bottom: 1px rgb(170, 170, 200); border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Crystal 128 locale.gif|32px]]</div>
 <div style="padding-left: 35px;">[[meta:List of Wikipedias|Іншы языкы]]</div></div>
 <div style="clear: both; font-size: 95%; margin: 0.5em">
 {{Іншы_языкы}}
-{{Introduction}}
 </div>
 </div>
-<center><small>[[translatewiki:Translating:Group statistics|Штатістіка ґруп на Betawiki]] - [[mw:Localisation statistics|Штатістіка локалізацій на Mediawiki]]</small></center>
-<center>'''Найчастїше хоснованы повідомлїня 100% [[Файл:Yes check.svg|20px]] ''' - '''MediaWiki повідомлїя 100% [[Файл:Yes check.svg|15px]] '''</center>
-
-<center><small>[[translatewiki:Special:Translate?task=untranslated&group=ext-0-wikimedia&limit=2000&language=rue|Ту треба далшый русиньскый переклад]]</small></center>
-<!------- Спіднї одказы -------> 
+<!------- Спіднї одказы ------->
 <div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
 <small class="plainlinks">
 <small>
@@ -105,3 +118,4 @@ __NOTOC__
 <div style="text-align: center;"><small>
 ===== [[#top|Горї]] =====
 </small></div>
+|}
