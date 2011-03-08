@@ -1,0 +1,37 @@
+{| style="background:transparent" border="0" cellspacing="0" cellpadding="0" height="30" width="100%" align="center"
+| {{#ifeq:{{{1}}}|Користувач:Gerbeda
+| width="16%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF>Портал «Користувач»<font>
+| width="16%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Хоснователь:Gerbeda|<span style="color:#FFFFFF"><small>ГОЛОВНА</small></span>]]
+}}
+| style="border-bottom:solid 1px #FFFFFF;" | &nbsp;
+| {{#ifeq:{{{1}}}|Лучшие статьи
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF>Лучшие статьи<font>
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Користувач:Gerbeda/Діскузія|<span style="color:#FFFFFF"><small>ДІСКУЗІЯ</small></span>]]
+}}
+| style="border-bottom:solid 1px #FFFFFF;" | &nbsp;
+| {{#ifeq:{{{1}}}|Википедия:Проект:Русский язык
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF>Проект:Русский язык<font>
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Користувач:Gerbeda/Мої приспевкы|<span style="color:#FFFFFF"><small>МОЇ ПРИСПЕВКЫ</small></span>]]
+}}
+| style="border-bottom:solid 1px #FFFFFF;" | &nbsp;
+| {{#ifeq:{{{1}}}|Обсуждение Википедии:Проект:Русский язык
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF>Обсуждение проекта<font>
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Користувач:Gerbeda/Замiтки|<span style="color:#FFFFFF"><small>ЗАМIТКИ</small></span>]]
+}}
+| style="border-bottom:solid 1px #FFFFFF;" | &nbsp;
+| {{#ifeq:{{{1}}}|Оценки
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF>Шкала оценок<font>
+| width="17%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Користувач:Gerbeda/МIй Iнкубатор|<span style="color:#FFFFFF"><small>МIЙ IНКУБАТОР</small></span>]]
+}}
+| style="border-bottom:solid 1px #FFFFFF;" | &nbsp;
+| {{#ifeq:{{{1}}}|Дежурный по порталу
+| width="16%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; text-align:center" {{!}}
+;<font color=#FFFFFF> Дежурный по порталу <font>
+| width="16%" style="background-color:#0095b6; border-top:solid 1px #bf0a30; border-left:solid 1px #bf0a30; border-right:solid 1px #bf0a30; border-bottom:solid 1px #0095b6; text-align:center" {{!}} [[Користувач:Gerbeda/Друзi|<span style="color:#FFFFFF"><small>ДРУЗI</small></span>]]
+}}
+|}
