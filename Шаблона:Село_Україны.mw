@@ -165,7 +165,7 @@
 {{!}} {{{сільський голова|{{{голова|}}}}}}
 }}
 |-
-! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
+! colspan="1" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
 |-
 {{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
 {{!}}-
