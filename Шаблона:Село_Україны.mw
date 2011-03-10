@@ -1,0 +1,235 @@
+{|  class="infobox " style="font-size: 90%; background-color: #F9F9F9; width:300px; text-align:left;"
+|-
+! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|село {{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
+|-
+{{#if:{{{ерб|}}}{{{прапор|}}}|
+{{!}} colspan="2" {{!}}
+{{{!}} style="margin: 0 auto; background-color: #F9F9F9; text-align:center;" width=100%
+{{!}}- 
+{{#if:{{{ерб|}}}|
+{{!}} style="vertical-align:middle;"{{!}} [[Image:{{{ерб}}}{{!}}120x120px]] }}
+{{#if:{{{прапор|}}}|
+{{!}} style="vertical-align:middle;"{{!}} [[Image:{{{прапор}}}{{!}}140x120px]] }}
+{{!}}-
+{{#if:{{{ерб|}}}|
+{{!}} {{#if:{{{ерб|}}}|[[{{{ерб}}}]]|Ерб}} }}
+{{#if:{{{прапор|}}}|
+{{!}} {{#if:{{{опис прапора|}}}|[[{{{опис прапора}}}]]|Прапор }} }}
+{{!}}} }}
+|-
+{{#if:{{{image_skyline|{{{зображення|}}} }}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} [[Зображення:{{{image_skyline|{{{зображення|}}} }}}|{{#if:{{{imagesize|{{{зображення_розмір|}}} }}}|{{{imagesize|{{{зображення_розмір}}} }}}|300px}}|none|{{{image_caption|{{{зображення_підпис|}}} }}}]]{{#if:{{{image_caption|{{{зображення_підпис|}}} }}}|<small>{{{image_caption|{{{зображення_підпис|}}} }}}</small>}} }}
+|-
+| Країна
+| {{UKR}}
+|-
+|{{#ifeq:{{{область}}}|[[Автономну републіку Крим]]|Реґіон|Область}}
+| {{#switch:{{{область}}}|
+|Віницька
+|Волиньска
+|Дніпропетровска
+|Донецька
+|Житомирьска
+|Закарпатьска
+|Запорізька
+|Івано-Франківска
+|Київска
+|Кіровоградьска
+|Луганьска
+|Львівска
+|Миколаївска
+|Одеска
+|Полтавска
+|Рівненьска
+|Сумска
+|Тернопільска
+|Харківска
+|Херсоньска
+|Хмельницька
+|Черкаска
+|Чернівецька
+|Чернігівска=[[{{{область}}} область|{{{область}}}]]
+|{{{область}}}
+}}
+|- 
+|[[Район]]/міськрада
+|{{{район|—}}}
+|- 
+|Рада
+|{{{рада|—}}}
+|-
+{{#if:{{{код КОАТУУ|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Код КОАТУУ
+{{!}} {{{код КОАТУУ}}}
+}}
+|-
+| align="center" colspan="2" | {{#if:{{{розташування|}}}|{{#if:{{{mapx|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx|}}}px;top:{{{mapy|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{розташування}}}|300px|Розташування села {{{назва}}}]]|}}
+|-
+{{!}}- 
+{{#if:{{{опис розташування|}}}|
+{{!}} colspan="2" style="text-align:center" {{!}} {{{опис розташування}}} 
+}}
+|-
+| align="center" colspan="2" | {{#if:{{{розташування2|}}}|{{#if:{{{mapx2|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx2|}}}px;top:{{{mapy2|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{розташування2}}}|300px|Розташування села {{{назва}}}]]|}}
+|-
+{{!}}- 
+{{#if:{{{полога2|}}}|
+{{!}} colspan="2" style="text-align:center" {{!}} {{{полога2}}} 
+}}
+|-
+! colspan="2" bgcolor="#ccccff" style="text-align:center" | Основны інформації
+|-
+{{#if:{{{year|{{{засновано|}}}<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Засноване
+{{!}} {{{year|{{{засновано|}}}}}}
+}}
+|-
+{{#if:{{{перша писемна змінка|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Перша писемна змінка
+{{!}} {{{перша писемна змінка}}}
+}}
+|-
+| Жытелїв
+| {{{жытелїв|—}}}
+|-
+{{#if:{{{розлога|<noinclude>-</noinclude>}}}|
+{{!}}- 
+{{!}} Розлога
+{{!}} {{{розлога}}}&nbsp;км²{{{ref-розлога|}}}
+}}
+|-
+{{#if:{{{густота жытельства|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Густота жытельства
+{{!}} {{{густота жытельства}}}&nbsp;осіб/км²
+}}
+|-
+{{#if:{{{поштовий індекс|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} [[Поштова індексація України|Поштовий індекс]]
+{{!}} {{{поштовий індекс}}}
+}}
+|-
+{{#if:{{{телефон|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Телефон
+{{!}} +380 {{{телефон}}}
+}}
+|- valign=top
+! colspan="2" bgcolor="#ccccff" style="text-align:center" | Полога
+|-
+{{#if:{{{полога|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Полога
+{{!}} {{{полога}}}
+}}
+|-
+{{#if:{{{висота|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Середня висота<br/> над рівнем моря
+{{!}} {{{висота}}}&nbsp;[[метр|м]]{{{ref-висота|}}}
+}}
+|-
+{{#if:{{{водойма|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} [[Водойми]]
+{{!}} {{{водойма}}}
+}}
+|-
+| align="center" colspan="2" | {{#if:{{{схема|}}}|[[Зображення:{{{схема}}}{{!}}300px{{!}}Схема села]]}}
+|-
+| align="center" colspan="2" | {{#if:{{{карта|{{{Карта|}}} }}}|{{{карта|{{{Карта|}}} }}} }}
+|-
+! colspan="2" bgcolor="#ccccff" style="text-align:center" | Місцева влада
+|-
+{{#if:{{{адреса|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}} Адреса ради
+{{!}} {{{адреса}}}
+}}
+|-
+{{#if:{{{вебова сторінка|}}}|
+{{!}}-
+{{!}} Вебова сторінка
+{{!}} {{{вебова сторінка}}}
+}}
+|-
+{{#if:{{{сільський голова|{{{голова|<noinclude>-</noinclude>}}}}}}|
+{{!}}-
+{{!}} [[Сільський голова]]
+{{!}} {{{сільський голова|{{{голова|}}}}}}
+}}
+|-
+! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
+|-
+{{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
+{{!}} <center>{{{облікова картка}}}</center>
+}}
+|-
+<!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
+{{!}}-
+{{!}} align="center" colspan="2" {{!}}{{Карта розташування|Україна
+ |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
+ |position={{#ifexpr:{{{lon_deg|0}}}>33|left|right}}
+ |width={{#if:{{{розмір карти країни|}}}|{{{розмір карти країни|}}}|290}}
+ |lat = {{{lat|}}} 
+|long = {{{long|{{{lon|}}} }}}
+|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
+|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
+|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
+|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
+|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
+|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
+|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
+|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
+ |float=center
+ |marksize=6
+ |caption=
+ |alt = {{#if:{{{карта країни|}}}|{{{карта країни|}}} }} }} }} }}
+|-
+| align="center" colspan="2" |{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#if:{{{область|}}}|{{#ifeq:{{{розмір карти регіону|}}}|0||{{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}|<center>{{Карта розташування|Україна_{{Список регіонів України|{{{область|}}} }}
+ |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
+ |width={{#if:{{{розмір карти регіону|}}}|{{{розмір карти регіону|}}}|142}}
+ |lat = {{{lat|}}} 
+|long = {{{long|{{{lon|}}} }}}
+|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
+|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
+|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
+|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
+|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
+|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
+|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
+|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
+ |float={{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}_{{#if:{{{район|}}}|{{Список районів України|{{{район}}} }}|Ä§1Ъ}}|left|center}}
+ |marksize=6
+ |caption=
+ |alt = {{#if:{{{карта регіону|}}}|{{{карта регіону|}}} }} }}</center>}} }} }} }}
+{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#if:{{{область|}}}|{{#if:{{{район|}}}|{{#ifeq:{{{розмір карти району|}}}|0||{{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}_{{#if:{{{район|}}}|{{Список районів України|{{{район}}} }}|Ä§1Ъ}}|<center>{{Карта розташування
+ |Україна_{{Список регіонів України|{{{область|}}} }}_{{Список районів України|{{{район}}} }}
+ |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
+ |width={{#if:{{{розмір карти району|}}}|{{{розмір карти району|}}}|142}}
+ |lat = {{{lat|}}} 
+|long = {{{long|{{{lon|}}} }}}
+|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
+|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
+|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
+|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
+|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
+|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
+|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
+|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
+ |float={{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}|right|center}}
+ |marksize=6
+ |position = top
+ |caption=
+ |alt = {{#if:{{{карта району|}}}|{{{карта району|}}} }} }}</center>}} }} }} }} }}
+|-
+|}{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Категорія:Села України]]</includeonly>}}}}{{#if:{{{Населення|{{{населення|}}}}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Категорія:Населені пункти без вказання населення]]</includeonly>}}}}{{#if: {{{координати|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Категорія:Села без координат]]</includeonly>}}}}{{#if: {{{засновано|}}}||{{#if:{{{перша_згадка|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Категорія:Села з невідомою датою заснування]]</includeonly>}}}}}}
+{{#switch:{{{координати|}}}
+|{{coord||||N||||E|scale:30000|display=inline,title}} ={{#if:{{NAMESPACE}}||<includeonly>[[Категорія:Села без координат]]</includeonly>}}
+|
+}}<noinclude>{{Documentation}}
+</noinclude>
