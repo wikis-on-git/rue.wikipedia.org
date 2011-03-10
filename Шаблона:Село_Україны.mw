@@ -2,7 +2,7 @@
 |-
 ! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|село {{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
 |-
-! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|село {{#if:{{{місцёва назва|}}}|{{{місцёва назва|}}}|{{PAGENAME}} }}
+! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|{{#if:{{{місцёва назва|}}}|{{{місцёва назва|}}}|{{PAGENAME}} }}
 |-
 {{#if:{{{ерб|}}}{{{прапор|}}}|
 {{!}} colspan="2" {{!}}
