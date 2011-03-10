@@ -9,8 +9,8 @@
 -->}}<!--
 
 -->{{#ifeq:{{{miniv|}}}{{{viewplain|}}}|<!--equals:-->1|<!--then:
--->[[Template:{{{1}}}|<span title="Переглянути цей шаблон" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{viewplain|}}}|view|п}}</span>]]|<!--else:
--->[[Template:{{{1}}}|<span title="Переглянути цей шаблон" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{mini|}}}|п|переглянути}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[Template talk:{{{1}}}|<span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Обговорення цього шаблону">{{#if:{{{mini|}}}|о|обговорити}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{ns:10}}:{{{1}}}|action=edit}} <span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Редагування цього шаблону. Натисніть «попередній перегляд» перед збереженням шаблону.">{{#if:{{{mini|}}}|р|редагувати}}</span>]<!--
+-->[[Template:{{{1}}}|<span title="Відїти тоту шаблону" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{viewplain|}}}|view|п}}</span>]]|<!--else:
+-->[[Template:{{{1}}}|<span title="Відїти тоту шаблону" style="{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}">{{#if:{{{mini|}}}|п|відїти}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[Template talk:{{{1}}}|<span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Діскузія о тій шаблонї">{{#if:{{{mini|}}}|о|діскутовати}}</span>]]&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{ns:10}}:{{{1}}}|action=edit}} <span style="color:#002bb8;{{{fontstyle|}}};{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}" title="Едітованя той шаблоны. Стиснийте «попереднїй нагляд» перед уложінём шаблоны.">{{#if:{{{mini|}}}|р|едітовати}}</span>]<!--
 -->}}<!--
 
 -->{{#if:{{{nodiv|}}}|<!--then:
