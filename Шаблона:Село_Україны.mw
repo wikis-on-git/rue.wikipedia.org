@@ -168,7 +168,7 @@
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
 |-
 {{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
-{{!}} <center>{{{облікова картка}}}</center>
+{{!}} <center>{{{картка}}}</center>
 }}
 |-
 <!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
@@ -229,7 +229,7 @@
  |caption=
  |alt = {{#if:{{{карта району|}}}|{{{карта району|}}} }} }}</center>}} }} }} }} }}
 |-
-|}{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села Україны]]</includeonly>}}}}}}
+|}{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села Україны]]</includeonly>}}}}
 {{#switch:{{{коордінаты|}}}
 |{{coord||||N||||E|scale:30000|display=inline,title}} ={{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села без коордінат]]</includeonly>}}
 |
