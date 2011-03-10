@@ -123,10 +123,10 @@
 |- valign=top
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Полога
 |-
-{{#if:{{{коордінаты|<noinclude>-</noinclude>}}}|
+{{#if:{{{ґеоґрафічны коордінаты|<noinclude>-</noinclude>}}}|
 {{!}}-
 {{!}} Ґеоґрафічны коордінаты
-{{!}} {{{коордінаты}}}
+{{!}} {{{ґеоґрафічны коордінаты}}}
 }}
 |-
 {{#if:{{{надморьска вышка|<noinclude>-</noinclude>}}}|
@@ -174,7 +174,7 @@
 }}
 |-
 |}{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села Україны]]</includeonly>}}}}
-{{#switch:{{{коордінаты|}}}
+{{#switch:{{{ґеоґрафічны коордінаты|}}}
 |{{coord||||N||||E|scale:30000|display=inline,title}} ={{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села без коордінат]]</includeonly>}}
 |
 }}<noinclude>{{Documentation}}
