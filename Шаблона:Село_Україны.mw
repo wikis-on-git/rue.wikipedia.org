@@ -2,6 +2,8 @@
 |-
 ! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|село {{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
 |-
+! colspan="2" style="font-size: larger; text-align:center; white-space: nowrap;"|село {{#if:{{{місцёва назва|}}}|{{{місцёва назва|}}}|{{PAGENAME}} }}
+|-
 {{#if:{{{ерб|}}}{{{прапор|}}}|
 {{!}} colspan="2" {{!}}
 {{{!}} style="margin: 0 auto; background-color: #F9F9F9; text-align:center;" width=100%
@@ -14,7 +16,7 @@
 {{#if:{{{ерб|}}}|
 {{!}} {{#if:{{{ерб|}}}|[[{{{ерб}}}]]|Ерб}} }}
 {{#if:{{{прапор|}}}|
-{{!}} {{#if:{{{опис прапора|}}}|[[{{{опис прапора}}}]]|Прапор }} }}
+{{!}} {{#if:{{{попис прапора|}}}|[[{{{попис прапора}}}]]|Прапор }} }}
 {{!}}} }}
 |-
 {{#if:{{{image_skyline|{{{зображення|}}} }}}|
@@ -80,10 +82,10 @@
 |-
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Основны інформації
 |-
-{{#if:{{{year|{{{засновано|}}}<noinclude>-</noinclude>}}}|
+{{#if:{{{year|{{{заложене|}}}<noinclude>-</noinclude>}}}|
 {{!}}-
-{{!}} Засноване
-{{!}} {{{year|{{{засновано|}}}}}}
+{{!}} Заложене
+{{!}} {{{year|{{{заложене|}}}}}}
 }}
 |-
 {{#if:{{{перша писемна змінка|<noinclude>-</noinclude>}}}|
