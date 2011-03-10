@@ -141,10 +141,6 @@
 {{!}} {{{водойма}}}
 }}
 |-
-| align="center" colspan="2" | {{#if:{{{схема|}}}|[[Image:{{{схема}}}{{!}}300px{{!}}Схема села]]}}
-|-
-| align="center" colspan="2" | {{#if:{{{карта|{{{Карта|}}} }}}|{{{карта|{{{Карта|}}} }}} }}
-|-
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Місцева влада
 |-
 {{#if:{{{адреса|<noinclude>-</noinclude>}}}|
