@@ -170,7 +170,7 @@
 {{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
 {{!}}-
 {{!}} Картка
-{{!}} <center>{{{картка}}}</center>
+{{!}} {{{картка}}}
 }}
 |-
 <!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
