@@ -173,64 +173,6 @@
 {{!}} {{{картка}}}
 }}
 |-
-<!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
-{{!}}-
-{{!}} align="center" colspan="2" {{!}}{{Карта розташування|Україна
- |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
- |position={{#ifexpr:{{{lon_deg|0}}}>33|left|right}}
- |width={{#if:{{{розмір карти країни|}}}|{{{розмір карти країни|}}}|290}}
- |lat = {{{lat|}}} 
-|long = {{{long|{{{lon|}}} }}}
-|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
-|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
-|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
-|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
-|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
-|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
-|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
-|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
- |float=center
- |marksize=6
- |caption=
- |alt = {{#if:{{{карта країни|}}}|{{{карта країни|}}} }} }} }} }}
-|-
-| align="center" colspan="2" |{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#if:{{{область|}}}|{{#ifeq:{{{розмір карти регіону|}}}|0||{{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}|<center>{{Карта розташування|Україна_{{Список регіонів України|{{{область|}}} }}
- |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
- |width={{#if:{{{розмір карти регіону|}}}|{{{розмір карти регіону|}}}|142}}
- |lat = {{{lat|}}} 
-|long = {{{long|{{{lon|}}} }}}
-|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
-|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
-|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
-|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
-|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
-|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
-|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
-|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
- |float={{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Реґіон|{{{область|}}} }}|Ä§1Ъ}}_{{#if:{{{район|}}}|{{Район|{{{район}}} }}|Ä§1Ъ}}|left|center}}
- |marksize=6
- |caption=
- |alt = {{#if:{{{карта реґіону|}}}|{{{карта реґіону|}}} }} }}</center>}} }} }} }}
-{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#if:{{{область|}}}|{{#if:{{{район|}}}|{{#ifeq:{{{розмір карти району|}}}|0||{{#ifexist:Шаблон:Карта розташування Україна_{{#if:{{{область|}}}|{{Реґіон|{{{область|}}} }}|Ä§1Ъ}}_{{#if:{{{район|}}}|{{Реґіон|{{{район}}} }}|Ä§1Ъ}}|<center>{{Карта розташування
- |Україна_{{Список регіонів України|{{{область|}}} }}_{{Список районів України|{{{район}}} }}
- |border=none|label={{#if:{{{назва|}}}|{{{назва|}}}|{{PAGENAME}} }}
- |width={{#if:{{{розмір карти району|}}}|{{{розмір карти району|}}}|142}}
- |lat = {{{lat|}}} 
-|long = {{{long|{{{lon|}}} }}}
-|lat_deg={{{lat_deg|{{{latd|{{{lat_d|}}} }}} }}}
-|lat_min={{{lat_min|{{{latm|{{{lat_m|}}} }}} }}}
-|lat_sec={{{lat_sec|{{{lats|{{{lat_s|}}} }}} }}}
-|lat_dir={{#if:{{{lat_dir|{{{latNS|{{{lat_NS|}}}}}} }}}|{{{lat_dir|{{{latNS|{{{lat_NS|}}} }}} }}}|N}}
-|lon_deg={{{lon_deg|{{{longd|{{{long_d|}}} }}} }}}
-|lon_min={{{lon_min|{{{longm|{{{long_m|}}} }}} }}}
-|lon_sec={{{lon_sec|{{{longs|{{{long_s|}}} }}} }}}
-|lon_dir={{#if:{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|{{{lon_dir|{{{longEW|{{{long_EW|}}} }}} }}}|E}}
- |float={{#ifexist:Шаблона:Карта розташування Україна_{{#if:{{{область|}}}|{{Список регіонів України|{{{область|}}} }}|Ä§1Ъ}}|right|center}}
- |marksize=6
- |position = top
- |caption=
- |alt = {{#if:{{{карта району|}}}|{{{карта району|}}} }} }}</center>}} }} }} }} }}
-|-
 |}{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села Україны]]</includeonly>}}}}
 {{#switch:{{{коордінаты|}}}
 |{{coord||||N||||E|scale:30000|display=inline,title}} ={{#if:{{NAMESPACE}}||<includeonly>[[Катеґорія:Села без коордінат]]</includeonly>}}
