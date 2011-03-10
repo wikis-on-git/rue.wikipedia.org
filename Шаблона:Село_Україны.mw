@@ -66,14 +66,14 @@
 {{!}} {{{код КОАТУУ}}}
 }}
 |-
-| align="center" colspan="2" | {{#if:{{{розташування|}}}|{{#if:{{{mapx|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx|}}}px;top:{{{mapy|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{розташування}}}|300px|Розташування села {{{назва}}}]]|}}
+| align="center" colspan="2" | {{#if:{{{уміщіня|}}}|{{#if:{{{mapx|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx|}}}px;top:{{{mapy|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{уміщіня}}}|300px|уміщіня села {{{назва}}}]]|}}
 |-
 {{!}}- 
-{{#if:{{{опис розташування|}}}|
-{{!}} colspan="2" style="text-align:center" {{!}} {{{опис розташування}}} 
+{{#if:{{{попис уміщіня|}}}|
+{{!}} colspan="2" style="text-align:center" {{!}} {{{попис уміщіня}}} 
 }}
 |-
-| align="center" colspan="2" | {{#if:{{{розташування2|}}}|{{#if:{{{mapx2|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx2|}}}px;top:{{{mapy2|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{розташування2}}}|300px|Розташування села {{{назва}}}]]|}}
+| align="center" colspan="2" | {{#if:{{{уміщіня2|}}}|{{#if:{{{mapx2|}}}|<div style="position: relative;"><div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; left:{{{mapx2|}}}px;top:{{{mapy2|}}}px;width:8px;height:8px;padding:0;">[[Image:Locator Dot2.gif|12px]]</div></div>}}[[Image:{{{уміщіня2}}}|300px|уміщіня села {{{назва}}}]]|}}
 |-
 {{!}}- 
 {{#if:{{{полога2|}}}|
@@ -106,7 +106,7 @@
 {{#if:{{{густота жытельства|<noinclude>-</noinclude>}}}|
 {{!}}-
 {{!}} Густота жытельства
-{{!}} {{{густота жытельства}}}&nbsp;осіб/км²
+{{!}} {{{густота жытельства}}}&nbsp;особ/км²
 }}
 |-
 {{#if:{{{поштовы індексы|<noinclude>-</noinclude>}}}|
