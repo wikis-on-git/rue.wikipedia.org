@@ -1,0 +1,30 @@
+{{Navbox geopoints
+| name  = {{{name}}}
+| title = {{{title|{{{назва}}}}}}
+| style = 
+| state = {{{state|autocollapse}}}
+| color = #ccccff
+| group-style = background-color: LightGray
+| even-style  = background:#eee;
+| group1 = [[Місто|Міста]]:
+| list1 = {{{cities|{{{міста|}}}}}}
+| group2 = {{{uts|[[Смт]]}}}:
+| list2 = {{{towns|{{{смт|}}}}}}
+| group3 = [[Село|Села]]:
+| list3 = {{{села|}}}
+| group4 = [[Селище|Селища]]:
+| list4 = {{{селища|}}}
+| group5 = [[Станіця|Станіцї]]:
+| list5 = {{{станіцї|}}}
+| group6 = [[Аул]]и:
+| list6 = {{{аули|}}}
+| group7 = [[Хутір|Хутори]]:
+| list7 = {{{хутори|}}}
+| group8 = [[Слобода|Слободы]]:
+| list8 = {{{слободы|}}}
+| group9 = Позначка:
+| list9 = {{{позначка|}}}
+| image = {{#if:{{{прапор|}}}|[[Файл:{{{прапор}}}|30x30px]]|}}{{#if:{{{flag|}}}|[[Файл:{{{flag}}}|30x30px]]|}}
+}}<noinclude>{{Doc}}
+<!-- Додавайте категорії та інтервікі на підсторінку /Документація, а не тут! -->
+</noinclude>
