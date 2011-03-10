@@ -19,8 +19,8 @@
 {{!}} {{#if:{{{попис прапора|}}}|[[{{{попис прапора}}}]]|Прапор }} }}
 {{!}}} }}
 |-
-{{#if:{{{image_skyline|{{{зображення|}}} }}}|
-{{!}} colspan="2" style="text-align: center;" {{!}} [[Image:{{{image_skyline|{{{зображення|}}} }}}|{{#if:{{{imagesize|{{{зображення_розмір|}}} }}}|{{{imagesize|{{{зображення_розмір}}} }}}|300px}}|none|{{{image_caption|{{{зображення_підпис|}}} }}}]]{{#if:{{{image_caption|{{{зображення_підпис|}}} }}}|<small>{{{image_caption|{{{зображення_підпис|}}} }}}</small>}} }}
+{{#if:{{{image_skyline|{{{образок|}}} }}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} [[Image:{{{image_skyline|{{{образок|}}} }}}|{{#if:{{{imagesize|{{{образок_розмір|}}} }}}|{{{imagesize|{{{образок_розмір}}} }}}|300px}}|none|{{{image_caption|{{{образок_підпис|}}} }}}]]{{#if:{{{image_caption|{{{образок_підпис|}}} }}}|<small>{{{image_caption|{{{образок_підпис|}}} }}}</small>}} }}
 |-
 | Країна
 | [[Image:Flag of Ukraine.svg|20px]] [[Україна]]
