@@ -167,10 +167,10 @@
 |-
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
 |-
-{{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
+{{#if:{{{картка|<noinclude>-</noinclude>}}}|
 {{!}}-
 {{!}} Картка
-{{!}} {{{Картка|{{{картка|}}}}}}
+{{!}} {{{картка}}}
 }}
 |-
 <!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
