@@ -165,12 +165,12 @@
 {{!}} {{{сільський голова|{{{голова|}}}}}}
 }}
 |-
-! colspan="1" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
+! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
 |-
 {{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
 {{!}}-
 {{!}} Картка
-{{!}} {{{картка}}}
+{{!}} {{{Картка|{{{картка|}}}}}}
 }}
 |-
 <!-- карти -->{{#if:{{{lat_deg|}}}{{{lat|}}}|{{#ifeq:{{{розмір карти країни|}}}|0||!colspan="2" bgcolor="#ccccff" style="text-align:center" {{!}} Карта
