@@ -168,6 +168,7 @@
 ! colspan="2" bgcolor="#ccccff" style="text-align:center" | Жрідла інформацій
 |-
 {{#if:{{{жрідла інформацій|<noinclude>-</noinclude>}}}|
+{{!}}-
 {{!}} <center>{{{картка}}}</center>
 }}
 |-
