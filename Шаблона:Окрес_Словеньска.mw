@@ -13,5 +13,5 @@
 {{{села}}}
 </div>}}
 }}
-{{#if: {{{села|<noinclude>—</noinclude>}}} | -----<small>1 : Адміністратівна і ґеоґрафічна єдиніця. 2 : Ґеоґрафічна єдиніця.</small>}}<includeonly>[[Category:Населены пункты окресу {{{окрес}}}]]</includeonly><!--
+{{#if: {{{села|<noinclude>—</noinclude>}}} | -----<small>1 : Адміністратівна і ґеоґрафічна єдиніця. 2 : Ґеоґрафічна єдиніця.</small>}}<includeonly>[[Катеґорія:Населены пункты окресу {{{окрес}}}]]</includeonly><!--
 --><noinclude>{{Documentation}}</noinclude>
