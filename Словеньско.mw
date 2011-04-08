@@ -1,23 +1,23 @@
 {{Інфобокс країна
 | native_name                 = ''Slovenská republika''
 | conventional_long_name      = Словеньско
-| common_name                 = Словеньско
+| обычайна_назва                 = Словеньско
 | image_flag                  = Flag of Slovakia.svg
 | image_coat                  = Coat of Arms of Slovakia.svg
 | image_map                   = EU-Slovakia.svg
 | map_caption                 = {{map_caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Slovakia.svg}}
 | national_anthem             = ''[[Nad Tatrou sa blýska]]''<small><br />"Lightning Over the Tatras"</small>
-| official_languages          = [[Slovak language|Slovak]]
-| unofficial_languages        = [[Czech language|Czech]]
-| ethnic_groups               = 85.8% [[Slovaks|Slovak]],
-9.5% [[Hungarian people|Hungarian]],
-1.9% [[Romani people|Roma]],
-2.8% other minority groups
+| official_languages          = [[словеньский язык|словеньский]]
+| unofficial_languages        = [[чеський язык|чеський]]
+| ethnic_groups               = 85.8% [[Словакы]],
+9.5% [[Мадяре]],
+1.9% [[Циґане]],
+2.8% далшы меншины
 | capital                     = [[Bratislava]]|latd=48 |latm=09 |latNS=N |longd=17 |longm=07 |longEW=E
 | largest_city                = capital
-| government_type             = [[Parliamentary republic]]
-| leader_title1               = [[List of Presidents of Slovakia|President]]
-| leader_title2               = [[List of Prime Ministers of Slovakia|Prime Minister]]
+| government_type             = [[Парламентська република]]
+| leader_title1               = [[Презідент]]
+| leader_title2               = [[Преміер]]
 | leader_name1                = [[Ivan Gašparovič]]
 | leader_name2                = [[Iveta Radičová]]
 | accessionEUdate             = 1 мая 2004<ref name=cia>{{cite web | title = Slovakia | work = The World Factbook | publisher = [[Central Intelligence Agency|CIA]] |year=2007 | url =https://www.cia.gov/library/publications/the-world-factbook/geos/lo.html | accessdate = April 26, 2008 }}</ref>
@@ -25,8 +25,7 @@
 | area_magnitude              = 1 E10
 | area_km2                    = 49,035 <!--http://www.statistics.sk/mosmis/eng/run.html-->
 | area_sq_mi                  = 18,932
-| percent_water               = negligible
-| population                  = 5,400,998 (31.12.2007)
+| percent_water               = занедбательне| population                  = 5,400,998 (31.12.2007)
 | population_estimate_rank    = 110th
 | population_estimate_year    = 2009
 | population_census           = 5,379,455
@@ -46,7 +45,7 @@
 | GDP_nominal_year            = 2009
 | GDP_nominal_per_capita      = $16,281<ref name=imf2/>
 | GDP_nominal_per_capita_rank =
-| sovereignty_type            = [[Independence]]
+| sovereignty_type            = [[Незалежність]]
 | established_event1          = {{nowrap|from [[Austria–Hungary]]}}
 | established_date1           = 28 октября 1918
 | established_event2          = {{nowrap|[[Dissolution of Czechoslovakia|from]] [[Czechoslovakia]]}}
