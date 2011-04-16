@@ -2,5 +2,5 @@
 | style="padding-right: 4px; padding-left: 4px;" | [[Image:Translation to english arrow.svg|50px]]
 | '''Тота статя (або їй часть) не є писана жаднов русиньсков нормов.''' <br/>. Можете Вікіпедії помочі тым, же єй <span class="plainlinks">[{{fullurl:{{FULLPAGENAME}}|action=edit}} вылїпшыте] переведжінём на літературный [[русиньскый язык]]</span>.<br />
 <includeonly>
-{{Катеґорія|Статї про переклад||{{#if:{{#ifexpr:{{{1}}}}}|!}} {{{1}}}{{PAGENAME}}}}
+{{Катеґорія|Статї про переклад||{{#if:{{#ifexpr:{{{1}}}}}|!}} {{{1}}}{{PAGENAME}}}}}
 </includeonly>
