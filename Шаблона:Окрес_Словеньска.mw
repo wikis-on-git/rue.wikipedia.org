@@ -4,7 +4,7 @@
  | image = {{flagicon|Slovakia|size=50px}}
  | group1 = Міста{{#if: {{{села|<noinclude>—</noinclude>}}} | <small><sup>1</sup></small>}}
  | list1 = {{{міста}}}
- | group2 = Общіны{{#if: {{{села|<noinclude>—</noinclude>}}} | <small><sup>1</sup>&nbsp;</small>}}
+ | group2 = Села{{#if: {{{села|<noinclude>—</noinclude>}}} | <small><sup>1</sup>&nbsp;</small>}}
  | list2 = <div><!--(reduces gap between wrapped lines)-->
 {{{обцы|{{{общіны}}}}}}
 </div>
