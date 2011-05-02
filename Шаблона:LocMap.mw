@@ -1,0 +1,25 @@
+<includeonly>{{LocMap+
+|1={{{1|Svět}}}
+|border={{{border|}}}
+|caption={{{caption|-}}}
+|float={{{float|right}}}
+|width={{{width|240}}}
+|alt={{{AlternativeMap|}}}
+|label={{{label|}}}
+|places={{LocMap~
+ |1={{{1|Svět}}}
+ |label={{{label|}}}
+ |label_size={{{label_size|}}}
+ |position={{{position|right}}}
+ |background={{{background|}}}
+ |lat={{{lat|}}}|lat_dir={{{lat_dir|}}}|lat_deg={{{lat_deg|}}}|lat_min={{{lat_min|}}}|lat_sec={{{lat_sec|}}}
+ |lon={{{lon|{{{long|}}}}}}|lon_dir={{{lon_dir|}}}|lon_deg={{{lon_deg|}}}|lon_min={{{lon_min|}}}|lon_sec={{{lon_sec|}}}
+ |mark={{{mark|Red pog.png}}}
+ |marksize={{{marksize|7}}}
+}}
+}}{{#if:{{{AlternativeMap|}}}|[[Category:Fixme:LocMap]]}}</includeonly><noinclude>
+
+{{Dokumentace}}
+
+[[Kategorie:LocMap| ]]
+</noinclude>
