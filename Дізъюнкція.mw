@@ -1,0 +1,55 @@
+Лоґічна '''дізъюнкція''' (хоснує ся про ню сімбол ∨) є [[вырокова спойка]], котрой годнота є правда точно тогды, кідь холем єден зо вступных операндів є правда.
+
+Два [[вырок]]ы споєны дізъюнкціов творять вырок (называный і ''дізъюнкціов тых двох выроків''), котрый є [[правдивостна годнота|правдивый]] точно тогды, як є правдивый холем єден зо споёваных выроків. У говоровім языку ся переважно выядрує спойков [[або]].
+
+{| class="wikitable"
+! ''p'' !! ''q'' !! ''p'' ∨ ''q''
+|- align=center
+| 0 || 0 || 0
+|- align=center
+| 0 || 1 || 1
+|- align=center
+| 1 || 0 || 1
+|- align=center
+| 1 || 1 || 1
+|}
+
+Дізъюнкція веце выроків (ґруп выроків) є правдива точно тогды, як є правдивый холем єден з тых выроків. Дізъюнкція [[порожня ґрупа|порожнёй ґрупы]] выроків ся поважує за неправдивый вырок.
+
+[[bg:Логическа дизюнкция]]
+[[bs:Disjunkcija sudova]]
+[[ca:Disjunció]]
+[[cs:Disjunkce]]
+[[da:Disjunktion]]
+[[de:Disjunktion]]
+[[el:Λογική διάζευξη]]
+[[en:Logical disjunction]]
+[[eo:Logika aŭo]]
+[[es:Disyunción lógica]]
+[[et:Disjunktsioon]]
+[[fa:فصل منطقی]]
+[[fr:Disjonction logique]]
+[[he:או (לוגיקה)]]
+[[hu:Diszjunkció]]
+[[hy:Դիզյունկցիա]]
+[[id:Logika disjungsi]]
+[[it:Disgiunzione logica]]
+[[ja:論理和]]
+[[ko:논리합]]
+[[lt:Disjunkcija]]
+[[mk:Логичка дисјункција]]
+[[nl:Logische disjunctie]]
+[[no:Inklusiv disjunksjon]]
+[[pl:Alternatywa]]
+[[pms:Disgionsion]]
+[[pt:Disjunção lógica]]
+[[ro:Disjuncție logică]]
+[[ru:Дизъюнкция]]
+[[sh:Disjunkcija sudova]]
+[[simple:Inclusive disjunction]]
+[[sl:Disjunkcija]]
+[[sr:Дисјункција]]
+[[sv:Disjunktion (logik)]]
+[[th:การเลือกเชิงตรรกศาสตร์]]
+[[uk:Диз'юнкція (логічна)]]
+[[zh:逻辑或]]
