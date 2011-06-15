@@ -1,12 +1,17 @@
-<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
-{| cellspacing="0" style="width:238px;background:#F0F8FF"
-| style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:12pt" | '''[[Гебрейскый язык|he]]-1'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" dir="rtl"| משתמש זה מסוגל לתרום ברמה '''[[:Category:User he-1|בסיסית]]''' של '''[[:Category:User he|עברית]]'''.
+<div style="float:left;border:solid #99B3FF 1px;margin:1px" >
+<table cellspacing="0" style="width:238px;background:#E0E8FF"><tr>
+<td style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt">'''[[Гебрейскый язык|he]]-1'''</td>
+<td style="text-align:right;font-size:8pt;padding:4pt;line-height:1.25em;">משתמש זה מסוגל לתרום ברמה '''[[:Category:User he-1|בסיסית]]''' של '''[[:Category:User he|עברית]]'''
 [[Category:User he|{{PAGENAME}}]]
-[[Category:User he-1|{{PAGENAME}}]]
-|}</div>
+[[Category:User he-1|{{PAGENAME}}]]</td>
+</tr></table></div>
 
 <noinclude>
+<br/>
+<br/>
+<br/>
+{{Языкы|Гебрейскый|he}}
+
 [[ar:قالب:مستخدم he-1]]
 [[az:Şablon:User he-1]]
 [[be-x-old:Шаблён:User he-1]]
@@ -52,4 +57,5 @@
 [[uk:Шаблон:User he-1]]
 [[yi:מוסטער:User he-1]]
 [[zh:Template:User he-1]]
+
 </noinclude>
