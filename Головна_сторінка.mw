@@ -70,7 +70,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Crystal 128 xpaint.gif|32px]]</div>
 <div style="padding-left: 35px;">[[:Вікіпедія:Образчік тыждня|Образчік тыждня]]</div></div>
 <div style="clear: both; padding-top: 0.5em; margin: 0.5em; text-align: justify;">
-<div id="mp-tfp">{{Вікіпедія:Образчік тыждня/{{#time:o/W|{{#ifexist:Вікіпедія:Образчік тыждня/{{#time:o/W}}||-1 week}}}}}}</div>
+<div id="mp-tfp">{{Вікіпедія:Образчік тыждня/{{#time:o/W|{{#ifexist:Вікіпедія:Образчік тыждня/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
 <div style="width: 100%; background-color: rgb(255, 240, 205); border-top: rgb(245, 223, 154) 1px solid; text-align: right; font-size: 90%;">[[Вікіпедія:Образчік тыждня/Архів|Архів]] • [[Поміч:Образчікы|Далшы інформації…]]</div>
 </div>
