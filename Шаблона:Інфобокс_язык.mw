@@ -5,10 +5,11 @@
 ! colspan=3 style="text-align: center; font-weight: bold; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Інфобокс язык/family-color|{{{familycolor|Default}}} }} }} }}" {{!}} {{{nativename|}}}
 {{!}}-
 }}
-{{#if:{{{image|}}}|
-! style="vertical-align: middle" {{!}} {{{caption|}}}
-{{!}} colspan=2 {{!}} {{{image|}}}
-{{!}}-
+{{#if:{{{map|}}}|{{!}}colspan="2" style="padding: 0; vertical-align: middle;"{{!}} [[File:{{{map}}}|{{#if:{{{mapsize|}}}|{{{mapsize}}}px|350px}}]]
+{{#if:{{{mapcaption|}}}|<small>{{{mapcaption}}}</small> }}
+{{#if:{{{map2|}}}|{{!}}-
+{{!}}colspan="2" style="padding: 0; vertical-align: middle;"{{!}} [[File:{{{map2}}}|{{#if:{{{mapsize|}}}|{{{mapsize}}}px|350px}}]]
+{{#if:{{{mapcaption2|}}}|<small>{{{mapcaption2}}}</small> }}
 }}
 {{#if:{{{pronunciation|}}}|
 ! Высловность
