@@ -1,13 +1,13 @@
 <includeonly>{| class="infobox vcard" style="float:right; padding:0;background:#fafafa;border:1px solid #bbb;width:300px;text-align:center;font-size:11px"
 |{{ucfirst:{{{статус|{{{2|Населённый пункт}}}}}}}}
 <div style="border:solid #bbb; border-width:1px 0;width:100%;background:{{цвет|{{{страна|}}}}};font-weight:800"><span class="fn org" style="font-size:120%">{{{русское название|{{{русинське iмя|{{{1}}}}}}}}}</span>{{#if:{{{оригинальное название|{{{3|}}}}}}|<br /><span class="nickname">{{{оригинальное название{{{3|}}}}}}</span>}}</div>
-<!-- герб и флаг -->
-{{#if:{{{герб|}}}{{{флаг|}}}|{{{!}}style="background:inherit;width:100%"
-{{#if:{{{флаг|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}{{#if:{{{описание флага|}}}|[[{{{описание флага|}}}|Флаг]]|Флаг}}}}
-{{#if:{{{герб|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}{{#if:{{{описание герба|}}}|[[{{{описание герба|}}}|Герб]]|Герб}}}}
+<!-- ерб і застава -->
+{{#if:{{{ерб|}}}{{{застава|}}}|{{{!}}style="background:inherit;width:100%"
+{{#if:{{{застава|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}{{#if:{{{опис заставы|}}}|[[{{{опис заставы|}}}|Застава]]|Застава}}}}
+{{#if:{{{ерб|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}{{#if:{{{опис ерба|}}}|[[{{{опис ерба|}}}|Ерб]]|Ерб}}}}
 {{!}}-
-{{#if:{{{флаг|}}}|{{!}}style="vertical-align:middle"{{!}}[[File:{{{флаг}}}|{{#if:{{{ширина флага|}}}|{{{ширина флага|}}}|160}}px|Флаг]]}}
-{{#if:{{{герб|}}}|{{!}}style="vertical-align:middle"{{!}}[[File:{{{герб}}}|{{#if:{{{ширина герба|}}}|{{{ширина герба|}}}|90}}px|Герб]]}}
+{{#if:{{{застава|}}}|{{!}}style="vertical-align:middle"{{!}}[[File:{{{застава}}}|{{#if:{{{шырина заставы|}}}|{{{шырина заставы|}}}|160}}px|Застава]]}}
+{{#if:{{{ерб|}}}|{{!}}style="vertical-align:middle"{{!}}[[File:{{{ерб}}}|{{#if:{{{шырина ерба|}}}|{{{шырина ерба|}}}|90}}px|Ерб]]}}
 {{!}}} }}
 <!-- информационная часть -->
 {|style="background:inherit;width:100%" cellspacing="1"
