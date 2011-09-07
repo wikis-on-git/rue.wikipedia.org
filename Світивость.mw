@@ -1,0 +1,47 @@
+'''Світивость''' удавать просторову густоту [[світловый ток|світлового току]] жрідла в різным напрямі. Світивость годен становити лем про [[жрідло світла|пунктове жрідло]], т.є. про жрідло, котрого розміры суть занедбательны, кідь порівнаме з [[одлеглость|одлеглостёв]] жрідла од контрольного пункта.
+
+== Значіня ==
+* Сімбол [[фізікална величіна|величіны]]: ''І'' (''велике і'')
+* Основна [[фізікална єдиніця|єдиніця]]: ''[[кандела]]'', значка єдиніцї: ''цд''
+
+== Рахованя ==
+Світивость ''І'' в напрямі становленім [[угол|углом]] ''γ'' ся рівнать
+:<math>I = \frac{\mathrm{d}\Phi}{\mathrm{d}\Omega}</math>,
+де <math>\mathrm{d}\Omega</math> є [[просторовый угол]], котрого ося лежыть в напрямі становленім углом ''γ'' і <math>\mathrm{d}\Phi</math> є [[світловый ток|ток світлового]] жрідла выжаруючі ся до [[просторовый угол|просторового угла]] <math>\mathrm{d}\Omega</math>.
+
+[[be-x-old:Сіла сьвятла]]
+[[ca:Intensitat lluminosa]]
+[[da:Lysstyrke]]
+[[de:Lichtstärke (Photometrie)]]
+[[el:Λαμπρότητα]]
+[[en:Luminous intensity]]
+[[eo:Lumintenso]]
+[[es:Intensidad luminosa]]
+[[et:Valgustugevus]]
+[[fa:شدت روشنایی]]
+[[fi:Valovoima]]
+[[fr:Intensité lumineuse]]
+[[hi:प्रकाश प्रबलता]]
+[[hr:Svjetlosna jakost]]
+[[hu:Fényerősség]]
+[[id:Intensitas cahaya]]
+[[it:Intensità luminosa]]
+[[ja:光度 (光学)]]
+[[ko:광도]]
+[[lb:Liichtstäerkt (Photometrie)]]
+[[lt:Šviesos stipris]]
+[[lv:Gaismas intensitāte]]
+[[ms:Keamatan berluminositi]]
+[[nds:Lichtstärk (Fotometrie)]]
+[[nl:Lichtsterkte (fotometrie)]]
+[[no:Lysstyrke]]
+[[pl:Światłość]]
+[[pt:Intensidade luminosa]]
+[[ro:Intensitate luminoasă]]
+[[ru:Сила света]]
+[[sl:Svetilnost]]
+[[sq:Intensiteti i dritës]]
+[[sv:Ljusstyrka]]
+[[tr:Işık şiddeti]]
+[[uk:Сила світла]]
+[[zh:发光强度]]
