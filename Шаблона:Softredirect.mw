@@ -1,2 +1,2 @@
-[[Файл:Redirectltr.png|#REDIRECT]]<span class="redirectText" id="softredirect">[[:{{{1}}}|{{{2|{{{1}}}}}}]]</span><br /><span style="font-size:85%; padding-left:52px;">Тота сторінка є [[w:Wikipedia:Soft redirect|мнягке перенапрямлїня]].</span><includeonly>{{#ifeq:{{{category|¬}}}|¬|[[Категорія:Вікіпедія:Мнягкы перенапрямлїня|{{PAGENAME}}]]}}</includeonly><noinclude>
+[[Файл:Redirectltr.png|#REDIRECT]]<span class="redirectText" id="softredirect">[[:{{{1}}}|{{{2|{{{1}}}}}}]]</span><br /><span style="font-size:85%; padding-left:52px;">Тота сторінка є [[w:Wikipedia:Soft redirect|мнягке перенапрямлїня]].</span><includeonly>{{#ifeq:{{{category|¬}}}|¬|[[Катеґорія:Вікіпедія:Мнягкы перенапрямлїня|{{PAGENAME}}]]}}</includeonly><noinclude>
 {{Documentation}}</noinclude>
