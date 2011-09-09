@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Крым
+| flag alias = Flag of Crimea.svg
+| flag alias-tatar = Flag of the Crimean Tatar people.svg
+| flag alias-1917 = Flag of the Crimean Republic.svg
+| flag alias-football = Flag of the Crimean Tatar people.svg
+| link alias-football = Crimean Tatars national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = tatar
+| var2 = 1917
+</noinclude>
+}}<noinclude>
+[[id:Templat:Country data Crimea]]
+[[vi:Bản mẫu:Country data Crimea]]
+</noinclude>
