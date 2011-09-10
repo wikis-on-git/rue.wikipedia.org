@@ -58,7 +58,7 @@
 }}{{#if:
   {{{серія|}}} |<nowiki>. — </nowiki>({{{серія}}})
 }}{{#if:
-  {{{тіраж|}}}|<nowiki>. — </nowiki>{{nobr|{{{тіраж}}} экз}}
+  {{{тіраж|}}}|<nowiki>. — </nowiki>{{nobr|{{{тіраж}}} екз.}}
 }}{{#if:
   {{{isbn|}}} |<nowiki>. — </nowiki>ISBN {{{isbn}}}
 }}.</span></includeonly><noinclude>
