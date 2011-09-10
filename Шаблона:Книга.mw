@@ -1,4 +1,4 @@
-<includeonly><span class="citation" {{#if:{{{ref|}}}|id="{{anchorencode:CITEREF{{{ref}}}{{{год|}}}}}"}}>{{#if:{{{автор|}}} |''{{{автор}}}''<nowiki> </nowiki>
+<includeonly><span class="citation" {{#if:{{{ref|}}}|id="{{anchorencode:CITEREF{{{ref}}}{{{рік|}}}}}"}}>{{#if:{{{автор|}}} |''{{{автор}}}''<nowiki> </nowiki>
   }}{{#if: {{{часть|}}}|
     {{#if: {{{одказ часть|}}}
     | [{{{одказ часть}}} {{{часть}}}]| {{{часть}}} }}<nowiki> // </nowiki>
@@ -48,7 +48,7 @@
 }}{{#if:
   {{{сторінок як єсть|}}} |.&nbsp;—&#32;{{{сторінок як єсть}}}
 }}{{#if:
-  {{{сторінкок як єсть|}}} |<nowiki>. — </nowiki>{{{сторінок}}}&nbsp;с
+  {{{сторінкок як єсть|}}} |<nowiki>. — </nowiki>{{{сторінок як єсть}}}&nbsp;с
 }}{{#if:
   {{{pages|}}} |<nowiki>. — P.</nowiki>&nbsp;{{{pages}}}
 }}{{#if:
