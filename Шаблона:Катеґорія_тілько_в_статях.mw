@@ -1,2 +1,2 @@
-{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категорія:{{{1}}}]]}}}}<noinclude>
+{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Катеґорія:{{{1}}}]]}}}}<noinclude>
 {{documentation}}</noinclude>
