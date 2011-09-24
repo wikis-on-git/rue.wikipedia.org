@@ -15,7 +15,7 @@
 
 | headerstyle = background-color: {{Infobox musical artist/color|{{{Background|{{{background|}}}}}}}}
 
-| header1     = {{#if:{{{Img|{{{image|}}}}}}|Background information}}
+| header1     = {{#if:{{{Img|{{{image|}}}}}}|Основна інформація}}
 
 | class2      = nickname
 | label2      = Birth name
@@ -28,13 +28,13 @@
 | label4     = Born
 | data4      = {{br separated entries|{{{Born|}}}|{{{birth_date|}}}|{{{birth_place|}}}}}
 
-| label5     = Origin
+| label5     = Повод
 | data5      = {{{Origin|{{{origin|}}}}}}
 
 | label6     = Died
 | data6      = {{br separated entries|{{{Died|}}}|{{{death_date|}}}|{{{death_place|}}}}}
 
-| label7     = [[Music genre|Genres]]
+| label7     = Жанер
 | data7      = {{{Genre|{{{genre|}}}}}}
 
 | class8     = role
@@ -48,16 +48,16 @@
 | label10    = Years active
 | data10     = {{{Years_active|{{{years_active|{{{yearsactive|}}}}}}}}}
 
-| label11    = [[Record label|Labels]]
+| label11    = Выдаватель
 | data11     = {{{Label|{{{label|}}}}}}
 
 | label12    = Associated acts
 | data12     = {{{Associated_acts|{{{associated_acts|}}}}}}
 
-| label13    = Website
+| label13    = Веб-сайт
 | data13     = {{{website|{{{URL|{{{url|}}}}}}}}}
 
-| header14   = {{#if:{{{Current_members|{{{current_members|}}}}}}|Members}}
+| header14   = {{#if:{{{Current_members|{{{current_members|}}}}}}|Члены}}
 
 | data15     = {{{Current_members|{{{current_members|}}}}}}
 
