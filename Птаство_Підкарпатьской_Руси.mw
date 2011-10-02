@@ -1,4 +1,5 @@
 == Птахы Підкарпатьской Руси ==
+=== Зубчатоклювы ===
 #  Mergus merganser [[Великый крохаль]]
 #  Mergus serrator [[Середнїй крохаль]]
 #  Mergus albellus [[Малый крохаль]]
@@ -9,8 +10,8 @@
 #  Oidemia fusca [[Нырка чорна]]
 #  Spatula clypeata [[Широконоска]]
 #  Anas acuta [[Остралка]]
-#  Anas crecca [[Чирок]]
-#  Anas querquedula [[Чирок бôльшый]]
+#  Anas crecca [[Чірок]]
+#  Anas querquedula [[Чірок бôльшый]]
 #  Anas strepera [[Качка смугата]]
 #  Anas penelope [[Утка]]
 #  Anas platyrhynchos [[Дика качка-кряква]]
@@ -19,11 +20,14 @@
 #  Anser erythropus [[Гуска рудонога]]
 #  Anser anser [[Сира гуска]]
 #  Cygnus cygnus [[Кликун лебидь]]
+=== Гагаровы ===
 #  Podiceps cristatus [[Пирникоза велика]]
 #  Podiceps auritus [[Пирникоза ушаста]]
 #  Colymbus arcticus [[Гагара полярна]]
+=== Веслоногы ===
 #  Pelecanus onocrotalus [[Пелікан]] або [[баба-птиця]]
 #  Phalacrocorax carbo [[Великый баклан]] або [[корморан]]
+=== Бродуны ===
 #  Platalea leucordia [[Кол­пиця]]
 #  Plegadis falcinellus [[Коровайка]]
 #  Ciconia nigra [[Бузёк чорный]]
@@ -35,10 +39,11 @@
 #  Egretta alba [[Била чапля]]
 #  Ardea purpurea [[Червона чапля]]
 #  Ardea cinerea [[Сира чапля]]
+=== Хищі ===
 #  Pandion haliaetus [[Скоб]] або [[скопа]]
 #  Gypaetus barbatus [[Ягнятник бородатий]]
 #  Falco tinnunculus [[Пустыльга]]
-#  Falco vespertinus [[Кобчик]]
+#  Falco vespertinus [[Кобчік]]
 #  Falco subbuteo [[Чеглок]]
 #  Falco columbarius [[Дербник]] або [[мерлин]]
 #  Pernis apivorus [[Осоид]]
@@ -51,6 +56,7 @@
 #  Circus cyaneus [[По­левый лунь]]
 #  Circus pygarygus [[Луговый лунь]]
 #  Circus aeruginosus [[Камышевый лунь]]
+=== Мевовы ===
 #  Rissa tridactyla [[Мева трипалцёва]]
 #  Larus ridibundus [[Мева рехотуса]]
 #  Larus minutus [[Мева карликова]]
@@ -59,6 +65,7 @@
 #  Larus argentatus cachinans [[Срибляста мева]]
 #  Chlidonias nigra [[Чорна крачка]]
 #  Sterna hirundo [[Мартышка]]
+=== Ржанковы ===
 #  Burhinus oedicnemus [[Ав­дотка]]
 #  Charadrius hiaticula [[Ржанка берегôвка]]
 #  Charadrius morinellus [[Глупа ржанка]]
@@ -66,7 +73,7 @@
 #  Vanellus vanellus [[Чайка звычайна]], [[чибис]]
 #  Recurvirostra avosetta [[Шилоклювка]]
 #  Himantopus himantopus [[Ходулочник]]
-#  Phalaropus lobatus [[Плавунчик]]
+#  Phalaropus lobatus [[Плавунчік]]
 #  Calidris temminkii [[Писочник]]
 #  Сalidris minuta [[Звычайный писочник]]
 #  Calidris alpina [[Алпейский писочник]]
@@ -82,6 +89,7 @@
 #  Capella gallinago [[Звычайный бекас]]
 #  Capella media [[Бôль­шый бекас]]
 #  Scolopax rusticola [[Слуква]]
+=== Водяны курочкы ===
 #  Fulica atra [[Лиска чорна]]
 #  Gallinula chloropus [[Камышниця зеленонога]]
 #  Porzana porzana [[Звычайна курочка]]
@@ -90,15 +98,18 @@
 #  Megalornis grus [[Жу­равель]]
 #  Otis tetrax [[Стрепет]]
 #  Otis tarda [[Драхва]]
+=== Куры ===
 #  Phasianus colchicus [[Фазан]]
 #  Cоturnix coturnix [[Перепеліця]]
 #  Perdix perdix [[Куропатка]]
-#  Tetrastes bonasia [[Орябок]] або [[рябчик]]
+#  Tetrastes bonasia [[Орябок]] або [[рябчік]]
 #  Lyrurus tetrix [[Косач]], [[те­теряк]]
 #  Tetrao urogallus [[Глухарь]] або [[готур]]
+=== Голубы ===
 #  Columba palumbus [[При­путень]] або [[вяхирь]]
 #  Columba oenas [[Клинтух]]
 #  Streptopelia turtur [[Горліця]]
+=== Совы ===
 #  Strix aluco [[Лелит]]
 #  Strix uralensis [[Уральска сова]]
 #  Nyctea nyctea [[Сова бiлянка]]
@@ -106,13 +117,21 @@
 #  Bubo bubo [[Пугач]]
 #  Asio otus [[Ухан]]
 #  Otus scops [[Сплюшка]]
+=== Козодоёвы ===
 #  Caprimulgus europaeus [[Дримлюх]] або [[козо­дой]]
+=== Сиворакшы ===
 #  Coracias garrulus [[Сивоворонка]] або [[красиворонка]]
+=== Кукушковы ===
 #  Cuculus canorus [[Зозуля]] або [[кукушка]]
+=== Морозюковы ===
 #  Alcedo atthis [[Морозюк]] або [[зимородок]],[[во­до­мороз]]
+=== Щуркы ===
 #  Merops apiaster [[Щурка золотиста]]
+=== Удодовы ===
 #  Upupa epops [[Дудок або удод]]
+=== Серпикы ===
 #  Apus apus [[Серпик]] або [[стриж]]
+=== Дятловы ===
 #  Picus viridis [[Жовна зелена]]
 #  Dryocopus martius [[Чорний дятель]]
 #  Dryobates major [[Довбач великий]]
@@ -121,12 +140,13 @@
 #  Dryobates villosus [[Сорокопуд]]
 #  Picoides tridactylus [[Сорокопуд трипальцевий]]
 #  Jynx torquilla [[Вертиголовка]]
+=== Спивакы ===
 #  Hirundo rustica [[Ластôвка дымниця]] або [[дымарька]]
 #  Delichon urbica [[Ластôвка городска]]
 #  Riparia riparia [[Ластôвка берегôвка]]
 #  Bombycilla garrulus [[Свиристель]]
-#  Lanius excubitor [[Баранчик]]
-#  Lanius minor [[Чигач]]
+#  Lanius excubitor [[Баранчік]]
+#  Lanius minor [[Чігач]]
 #  Lanius collurio [[Жулан]]
 #  Pyrhocorax graculus [[Клушиця]]
 #  Nucifraga caryocatactes [[Ориховка]]
@@ -152,8 +172,8 @@
 #  Pyrrhula pyrrhula pyrrhula [[Бôль­шый снигурь]]
 #  Serinus canaria [[Жовтогрудка]]
 #  Carduelis carduelis [[Щиглик]]
-#  Carduelis spinus [[Чижик або чиж]]
-#  Carduelis linaria [[Чичотка]]
+#  Carduelis spinus [[Чіжик або чіж]]
+#  Carduelis linaria [[Чічотка]]
 #  Carduelis cannabina [[Коноплянка]]
 #  Chloris chloris [[Зеленушка]]
 #  Fringilla montifringilla [[Вьюрок]]
@@ -189,7 +209,7 @@
 #  Locustella luscinioides [[Кобылочка камы­шôв­ка]]
 #  Locustella fluviatilis [[Кобылочка рична]]
 #  Locustella naevia [[Кобылочка лугова]]
-#  Acrocephalus schoenobaenus [[Трискунчик]]
+#  Acrocephalus schoenobaenus [[Трискунчік]]
 #  Acrocephalus arundinaceus [[Камышôвка звычайна]]
 #  Sylvia communis [[Волосинка]]
 #  Sylvia curruca [[Мельничок]]
@@ -198,12 +218,12 @@
 #  Turdus viscivorus [[Деряба]]
 #  Turdus musicus [[Дрозд виноградник]]
 #  Turdus pilaris [[Квич або рябинник]]
-#  Turdus torquatus [[Билогрудка]]
+#  Turdus torquatus [[Білогрудка]]
 #  Turdus merula [[Кос]]
 #  Monticola saxatilis [[Каменка]]
-#  Oenanthe oenanthe [[Попутчик]]
-#  Saxicola rubetra [[Чекканчик луговый]]
-#  Saxicola torquata [[Чекканчик чорнохвостый]]
+#  Oenanthe oenanthe [[Попутчік]]
+#  Saxicola rubetra [[Чекканчік луговый]]
+#  Saxicola torquata [[Чекканчік чорнохвостый]]
 #  Phoenicurus phoenicurus [[Садова рудохвостка]]
 #  Erithacus rubecula [[За­рянка]], [[ольшанка]], [[малиновка]]
 #  Luscinia svecica [[Варакушка]]
