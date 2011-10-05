@@ -1,0 +1,194 @@
+{{#if: {{{язык|{{{1|}}}}}} | {{#if: {{{статя|{{{2|}}}}}} | [{{fullurl:{{{язык|{{{1|}}}}}}:{{{статя|{{{2|}}}}}}|oldid={{{ревізія|{{{3|}}}}}}}} {{чуджоязычно|{{{язык|{{{1|}}}}}}|{{{статя|{{{2|}}}}}}}}]}}|{{хыба|незнамой назвы{{Хыба|скрытый=скрытый|Шаблона {{Шаблона|Переклад}} потребує задати годноту до параметру "статя"!|катеґорія=Переклады без чісла ревізії}}|катеґорія=Переклады без чісла ревізії}}}} на {{#ifeq:"{{{язык|{{{1|}}}}}}"|"meta"|Meta-Wiki| {{
+#switch: {{{язык|{{{1|}}}}}}
+  | aa=afarské
+  | ab=abcházské
+  | af=afrikánské
+  | ak=akanské
+  | am=amharské
+  | an=aragonské
+  | ang=anglosaské
+  | ar=arabské
+  | as=ásámské
+  | ast=asturské
+  | av=avarské
+  | ay=ajmarské
+  | az=ázerbájdžánské
+  | ba=baškirské
+  | bat-smg=žemaitské
+  | be=běloruské
+  | be-x-old=běloruské
+  | bg=bulharské
+  | bh=bihárské
+  | bi=bislamské
+  | bn=bengálské
+  | bo=tibetské
+  | bs=bosenské
+  | br=bretonské
+  | bug=bugiské
+  | ca=katalánské
+  | ce=čečenské
+  | ch=čamorské
+  | cho=choctawské
+  | co=korsické
+  | cr=kríjské
+  | cv=čuvašské
+  | cy=velšské 
+  | da=dánské
+  | de=německé
+  | dv=divehi
+  | dz=dzongkha
+  | ee=ewe
+  | el=řecké
+  | en=anglické
+  | eo=esperantské
+  | es=španělské
+  | et=estonské  
+  | eu=baskické
+  | fa=perské
+  | fi=finské
+  | fj=fidžijské
+  | fo=faerské
+  | fr=francouzské
+  | fy=západofríské
+  | ga=irské
+  | gd=galské
+  | gl=galicijské
+  | gn=guaraní
+  | got=gótské
+  | gu=gudžarátské
+  | gv=manské
+  | ha=hausa
+  | haw=havajské
+  | he=hebrejské
+  | hi=hindské
+  | hr=chorvatské
+  | hsb=hornolužickosrbské
+  | ht=haitské
+  | hu=maďarské
+  | hy=arménské
+  | ia=interlingua 
+  | id=indonéské
+  | ik=inupiak
+  | io=ido
+  | is=islandské
+  | it=italské
+  | iu=inuktitut
+  | ja=japonské
+  | jv=javánské
+  | ka=gruzínské
+  | kk=kazašské
+  | kl=grónské
+  | km=khmérské
+  | kn=kannadské
+  | ko=korejské
+  | ks=kašmírské
+  | ku=kurdské
+  | ky=kyrgyzské
+  | la=latinské
+  | lb=lucemburské
+  | li=limburské
+  | ln=lingala
+  | lo=laoské
+  | lt=litevské 
+  | lv=lotyšské
+  | mg=malgašské
+  | mi=maorské
+  | mk=makedonské
+  | ml=malajálamské
+  | mn=mongolské
+  | mo=moldavské
+  | mr=maráthské
+  | ms=malajské
+  | mt=maltské
+  | mus=krík
+  | my=barmské
+  | na=nauruské
+  | nah=nahuatl
+  | nds=dolnosaské
+  | ne=nepálské
+  | nl=nizozemské 
+  | no=norské
+  | nv=navaho
+  | oc=okcitánské
+  | om=oromo
+  | or=orijské
+  | pa=pandžábské
+  | pl=polské
+  | ps=paštunské
+  | pt=portugalské
+  | qu=kečuánské
+  | rm=retorománské
+  | rn=rundské
+  | ro=rumunské
+  | ru=ruské
+  | rup=arumunské
+  | rw=kinyarwanda
+  | sa=sanskrt
+  | sc=sardinské
+  | scn=sicilské
+  | sd=sindhské
+  | se=laponské
+  | sg=sangoské
+  | si=sinhalské
+  | sk=slovenské 
+  | sl=slovinské 
+  | sm=samojské
+  | sn=šonské
+  | so=somálské
+  | sq=albánské
+  | sr=srbské
+  | ss=siswati
+  | st=jihosotské
+  | su=sundánské
+  | sv=švédské
+  | sw=svahilské
+  | szl=slezské
+  | ta=tamilské
+  | te=telugské
+  | tg=tádžické
+  | th=thajské
+  | ti=tigriňské
+  | tk=turkmenské
+  | tl=tagalské
+  | tn=čwana
+  | to=tongánské
+  | tr=turecké
+  | ts=tsonga
+  | tt=tatarské
+  | ty=tahitské
+  | tw=ťwiské
+  | ug=ujgurské
+  | uk=ukrajinské
+  | ur=urdské
+  | uz=uzbecké
+  | vi=vietnamské
+  | vo=volapük
+  | wa=valonské
+  | wo=wolof
+  | yi=jidiš
+  | yo=jorubské
+  | za=čuang
+  | zh=čínské
+  | zu=zulu
+  | simple=anglické (zjednodušené)
+  | #default={{хыба|нестановлене{Хыба|скрытый=скрытый|Шаблона {{Шаблона|Переклад}} годноту "{{{язык}}}" вложену до параметра "язык" нерозознала!|kategorie=Переклады без чісла ревізії}}|катеґорія=Переклады без чісла ревізії}}
+}} Wikipedii}}{{
+#if:{{{ревізія|{{{3|<noinclude></noinclude>}}}}}}
+|{{#ifexpr:{{IsNum|{{{3|<noinclude>rev1.1</noinclude>}}}}}
+  |{{#ifexpr:{{IsInt|{{{3|<noinclude>1.1</noinclude>}}}}}
+    |{{#ifexpr:{{IsNat|{{{3|<noinclude>-1</noinclude>}}}}}
+      |<!-- O.K. -->
+      |&#32;{{хыба|([[Nápověda:Historie stránky#Číslo revize|číslo revize]] není [[přirozené číslo]]){{Chyba|skrytý=skrytý|Šablona {{Šablona|Překlad}} hodnotu "{{{revize}}}" zadanou do parametru "revize" nerozeznala!|kategorie=Překlady bez čísla revize}}|kategorie=Překlady bez čísla revize}}
+     }}
+    |&#32;{{хыба|([[Nápověda:Historie stránky#Číslo revize|číslo revize]] není [[celé číslo]]){{Chyba|skrytý=skrytý|Šablona {{Šablona|Překlad}} hodnotu "{{{revize}}}" zadanou do parametru "revize" nerozeznala!|kategorie=Překlady bez čísla revize}}|kategorie=Překlady bez čísla revize}}
+   }}
+  |&#32;{{хыба|([[Nápověda:Historie stránky#Číslo revize|číslo revize]] není [[číslo]]){{Chyba|skrytý=skrytý|Šablona {{Šablona|Překlad}} hodnotu "{{{revize}}}" zadanou do parametru "revize" nerozeznala!|kategorie=Překlady bez čísla revize}}|kategorie=Překlady bez čísla revize}}
+ }}
+|&#32;{{хыба|([[Nápověda:Historie stránky#Číslo revize|číslo revize]] nebylo určeno){{Chyba|skrytý=skrytý|Šablona {{Šablona|Překlad}} požaduje zadat hodnotu do parametru "revize"!|kategorie=Překlady bez čísla revize}}|kategorie=Překlady bez čísla revize}}
+}}<noinclude>
+----
+Тото є помічна шаблона хоснована в шаблонї {{Шаблона|Переклад}}. Не хоснуйте єй саму і статях.
+
+[[Катеґорія:Части шаблон|{{PAGENAME}}]]
+
+</noinclude>
