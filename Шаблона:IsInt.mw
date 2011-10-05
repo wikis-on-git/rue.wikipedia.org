@@ -1,0 +1,62 @@
+{{#if:{{{1|<noinclude>default</noinclude>}}}
+ |{{#iferror:{{isNum|{{{1|<noinclude>1.1</noinclude>}}}}}
+  |{{хыба|Шаблона {{tl|isInt}} овірює [[цале чісло|цалы чісла]], але даны вступ "{{{1<noinclude>|default</noinclude>}}}" не є нияк [[чісло]]!}} {{#expr:{{{1|<noinclude>default</noinclude>}}}+0}}
+  |{{#ifexpr:({{{1|<noinclude>1.1</noinclude>}}}*10) mod 10|0|1}}
+ }}
+ |{{#if:{{{1}}}
+  |{{хыба|Шаблона {{tl|isInt}} пожадує вступ, жебы было што овірити!}}
+  |1<!-- Volaný vstup, který nepředává hodnotu, tedy předává prázdnou hodnotu, je WP-API považován za nulu. Tak tady tedy také. -->
+ }}
+}}<noinclude>
+----
+* Tato šablona používá šablonu {{tl|chyba}} k hlášení, že vstupní hodnota je požadována, aby vůbec bylo co ověřovat.
+* Nechá si potvrdit, zda jde vůbec o [[číslo]] (to pak šablonou {{tl|chyba}} předává dále text chybového hlášení),
+* dále ověřuje, že jde o '''[[celé číslo]]''': Vrátí hodnotu 0 (číslo není celé), nebo 1 (je celé).
+* Není-li předaná hodnota definovaná, jde-li tedy o prázdnou hodnotu, považuje se tato za platnou číselnou hodnotu 0! Přebírá se tak chování systému Wikipedie. Testuje se tedy zrelaxovaně, ovšem přísnější test lze dle potřeby v řešeném problému zpřísnit ověřením jak "prázdnosti" tak i "nedefinovavanosti" vstupu ještě před předáním hodnoty do volání této šablony.
+
+== Příklady ==
+{| class="wikitable"
+!wiki&nbsp;zdroj!!výsledek
+|-
+|<nowiki>{{isInt}}</nowiki>||{{isInt}}
+|-
+|<nowiki>{{isInt|}}</nowiki>||{{isInt|}} ...mezeru systém Wikipedie interpretuje jako číslo 0, tedy celé číslo
+|-
+|<nowiki>{{isInt|text}}</nowiki>||{{isInt|text}}
+|-
+|<nowiki>{{isInt|text1}}</nowiki>||{{isInt|text1}}
+|-
+|<nowiki>{{isInt|1text}}</nowiki>||{{isInt|1text}}
+|-
+|<nowiki>{{isInt|0}}</nowiki>||{{isInt|0}}
+|-
+|<nowiki>{{isInt|3}}</nowiki>||{{isInt|3}}
+|-
+|<nowiki>{{isInt|-3}}</nowiki>||{{isInt|-3}}
+|-
+|<nowiki>{{isInt|3.3}}</nowiki>||{{isInt|3.3}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isInt|-3.3}}</nowiki>||{{isInt|-3.3}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isInt|3.6}}</nowiki>||{{isInt|3.6}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isInt|-3.6}}</nowiki>||{{isInt|-3.6}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isInt|3.0}}</nowiki>||{{isInt|3.0}} ...číselné porovnávání a počítání, ne jen jako text
+|-
+|<nowiki>{{isInt|-3.0}}</nowiki>||{{isInt|-3.0}} ...číselné porovnávání a počítání, ne jen jako text
+|}
+
+== Související šablony ==
+* {{tl|isEmpty}} - je vstup prázdný?
+* {{tl|isNum}} - je vstup číslo? Tedy není text?
+* {{tl|isNaN}} - je vstup ne-číslo? Tedy je text?
+* {{tl|isNat}} - je vstup přirozené číslo? Tedy je celé a nezáporné?
+
+== Související články ==
+* {{en}}[[:meta:Help:Mod, round, floor, ceil, trunc]] - celočíselné operace
+
+[[Катеґорія:Валідованя кликаня шаблон|{{PAGENAME}}]]
+[[Катеґорія:Шаблоны - рахуючі|{{PAGENAME}}]]
+
+</noinclude>
