@@ -9,29 +9,29 @@
  |{{ns:Talk}}          = {{#switch:{{lc:{{{1|}}}}}
   |disambiguation|disambig|disamb|dab
   |redirect|redir
-  |na                  = page
-  |#default            = article
+  |na                  = сторінка
+  |#default            = статя
  }}
  |{{ns:User talk}}
  |{{ns:MediaWiki talk}}
  |{{ns:Help talk}}
  |{{ns:Portal talk}}
- |{{ns:Project talk}}  = page
- |{{ns:Book talk}}     = book
- |{{ns:File talk}}     = file
- |{{ns:Template talk}} = template
- |{{ns:Category talk}} = category
+ |{{ns:Project talk}}  = сторінка
+ |{{ns:Book talk}}     = книжка
+ |{{ns:File talk}}     = файл
+ |{{ns:Template talk}} = шаблона
+ |{{ns:Category talk}} = катеґорія
  |#default             = {{#switch:{{lc:{{{1|}}}}}
   |portal
   |project
   |disambig|disamb|dab
   |redirect|redir
-  |na                  = page
-  |book                = book
-  |image|file          = file
-  |template|temp|templ = template
-  |category|cat|categ  = category
-  |#default            = article
+  |na                  = сторінка
+  |book                = книжка
+  |image|file          = файл
+  |template|temp|templ = шаблона
+  |category|cat|categ  = катеґорія
+  |#default            = статя
  }}
 }}<noinclude>
 {{documentation}}
