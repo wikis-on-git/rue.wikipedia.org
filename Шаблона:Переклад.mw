@@ -21,15 +21,15 @@
  |small={{#ifeq:{{{large|}}}|yes|no|{{{small|yes}}}}}
  |smallimage=[[File:WP-TranslationProject TwoFlags.svg|30px]]
  |smalltext={{ucfirst:{{pagetype}}}} {{#if:{{{section|}}}
-  |[[{{SUBJECTSPACE}}:{{PAGENAME}}#{{{section}}}|contains]]
-  |contains
- }} a translation of {{#if:{{{2|}}}
+  |[[{{SUBJECTSPACE}}:{{PAGENAME}}#{{{section}}}|обсягує]]
+  |обсягує
+ }} переклад {{#if:{{{2|}}}
   |«&nbsp;[{{localurle:{{{1}}}:{{{2}}}|{{#if:{{{version|}}}|oldid={{{version}}}}}}} {{{2}}}]&nbsp;»
-  |an {{#if:{{{version|}}}
+  |{{#if:{{{version|}}}
    |[{{localurle:{{{1}}}:|oldid={{{version|}}}}} article]
    |<font color = "red">'''Нешпеціфікована статя'''</font>
   }}
- }} from {{#if:{{{1|}}}
+ }} з {{#if:{{{1|}}}
   |[{{localurle:{{{1}}}:}} {{lc:{{{1}}}}}.wikipedia]
   |<font color = "red">'''Просиме, додайте [[m:List of Wikipedias|код языка жрідловой вікі]]'''</font>
  }}. {{#if:{{{insertversion|}}}
@@ -37,11 +37,11 @@
  }}{{{3|}}}
 }}<includeonly>{{#ifeq:{{lc:{{{nocat|false}}}}}|false
  |{{#ifexpr:{{#if:{{{1|}}}|1|0}}+{{#if:{{{2|}}}|1|0}}+{{#if:{{NAMESPACE}}|1|0}}=3
-  |{{#ifexist:Category:Pages translated from {{ISO 639 name {{lc:{{{1}}}}}}} Wikipedia
-   |[[Category:Pages translated from {{ISO 639 name {{lc:{{{1}}}}}}} Wikipedia]]
-   |[[Category:Translated pages]]
+  |{{#ifexist:Катеґорія:Сторінкы переложены з {{ISO 639 name {{lc:{{{1}}}}}}} Вікіпедії
+   |[[Катеґорія:Сторінкы переложены з {{ISO 639 name {{lc:{{{1}}}}}}} Вікіпедії]]
+   |[[Катеґорія:Переложены сторінкы]]
   }}
-  |[[Category:Pages with incorrect translated page tag]]
+  |[[Катеґорія:Сторінкы з неправилнов значков перекладу]]
  }}
 }}</includeonly><noinclude>
 {{documentation}}
