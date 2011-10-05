@@ -2,15 +2,15 @@
  |type=notice
  |image=[[File:WP-TranslationProject TwoFlags.svg|50px]]
  |text={{#if:{{{section|}}}
-  |The section "[[{{SUBJECTSPACE}}:{{PAGENAME}}#{{{section}}}|{{{section}}}]]" of t|T
- }}his {{pagetype}} was edited to contain a total or partial translation of {{#if:{{{2|}}}
+  |Секція "[[{{SUBJECTSPACE}}:{{PAGENAME}}#{{{section}}}|{{{section}}}]]" з т|T
+ }}ой {{pagetype}} была едітована, жебы придати часточный переклад з {{#if:{{{2|}}}
   |«&nbsp;[{{localurle:{{{1}}}:{{{2}}}|{{#if:{{{version|}}}|oldid={{{version}}}}}}} {{{2}}}]&nbsp;»
-  |an {{#if:{{{version|}}}
+  |{{#if:{{{version|}}}
    |[{{localurle:{{{1}}}:|oldid={{{version|}}}}} article]
-   |<font color = "red">'''Unspecified article'''</font>
+   |<font color = "red">'''Нешпеціфікованой статї'''</font>
   }}
- }} from {{#if:{{{1|}}}
-  |the [{{localurle:{{{1}}}:}} {{ISO 639 name {{lc:{{{1}}}}}}} Wikipedia]
+ }} з {{#if:{{{1|}}}
+  | [{{localurle:{{{1}}}:}} {{ISO 639 name {{lc:{{{1}}}}}}} Вікіпедії]
   |<font color = "red">'''Просиме, додайте [[m:List of Wikipedias|код языка жрідловой вікі]]'''</font>
  }}. Consult the [{{#if:{{{2|}}}
   |{{localurle:{{{1}}}:{{{2}}}|action=history}}
@@ -27,7 +27,7 @@
   |«&nbsp;[{{localurle:{{{1}}}:{{{2}}}|{{#if:{{{version|}}}|oldid={{{version}}}}}}} {{{2}}}]&nbsp;»
   |{{#if:{{{version|}}}
    |[{{localurle:{{{1}}}:|oldid={{{version|}}}}} article]
-   |<font color = "red">'''Нешпеціфікована статя'''</font>
+   |<font color = "red">'''Нешпеціфікованой статї'''</font>
   }}
  }} з {{#if:{{{1|}}}
   |[{{localurle:{{{1}}}:}} {{lc:{{{1}}}}}.wikipedia]
