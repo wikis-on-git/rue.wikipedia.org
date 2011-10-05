@@ -1,0 +1,4 @@
+<code>{&#x7b;{{#ifeq:{{{2|}}}|subst|subst:}}{{#ifexist: Шаблона:{{{1<noinclude>|Шаблона</noinclude>}}} |[[Шаблона:{{{1<noinclude>|Шаблона</noinclude>}}}|{{{1<noinclude>|Шаблона</noinclude>}}}]]|{{{1}}}}}{{#ifeq:{{{2|subst}}}|subst|{{#if:{{{3|}}}|&#124;{{{3}}}}}|&#124;{{{2}}}}}}}</code><noinclude>
+{{Documentation}}
+<!-- КАТЕҐОРІЇ І ІНТЕРВІКІ, ПРОСИМЕ, ПРИДАВАЙТЕ ДО /doc ПІДСТОРІНКЫ. ДЯКУЄМЕ -->
+</noinclude>
