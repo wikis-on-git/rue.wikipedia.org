@@ -1,0 +1,48 @@
+{{#if:{{{1|}}}
+ |{{#iferror:{{#expr:{{{1|}}}+0}}|0|1}}
+ |{{#if:{{{1}}}
+  |{{хыба|Шаблона {{tl|isNum}} потребує вступ, жебы было што перевірити!}}
+  |1<!-- Volaný vstup, který nepředává hodnotu, tedy předává prázdnou hodnotu, je WP-API považován za nulu. Tak tady tedy také. -->
+ }}
+}}<noinclude>
+----
+* Tato šablona používá šablonu {{tl|хыба}} k hlášení, že vstupní hodnota je požadována, aby vůbec bylo co ověřovat.
+* Ověřuje, že jde o číslo, tedy že je předaná hodnota číselná (je číslo?) a
+* vrátí hodnotu 0 (není číslo), nebo 1 (je číslo).
+* Není-li hodnota zadána, jde-li tedy o prázdnou hodnotu, považuje se tato za platnou číselnou hodnotu 0! Přebírá se tak chování systému Wikipedie. Výstupem této funkce tedy bude hodnota 1, protože i nula je číslo. Testuje se tedy zrelaxovaně, ovšem test lze dle potřeby v řešeném problému zpřísnit ověřením jak "prázdnosti" tak i "nedefinovavanosti" vstupu ještě před předáním hodnoty do volání této šablony.
+
+== Приклады ==
+{| class="wikitable"
+!wiki&nbsp;zdroj!!výsledek
+|-
+|<nowiki>{{isNum}}</nowiki>||{{isNum}}
+|-
+|<nowiki>{{isNum|}}</nowiki>||{{isNum|}} ...mezeru systém Wikipedie interpretuje jako číslo 0
+|-
+|<nowiki>{{isNum|text}}</nowiki>||{{isNum|text}}
+|-
+|<nowiki>{{isNum|1text}}</nowiki>||{{isNum|1text}}
+|-
+|<nowiki>{{isNum|text1}}</nowiki>||{{isNum|text1}}
+|-
+|<nowiki>{{isNum|0}}</nowiki>||{{isNum|0}}
+|-
+|<nowiki>{{isNum|3}}</nowiki>||{{isNum|3}}
+|-
+|<nowiki>{{isNum|-3}}</nowiki>||{{isNum|-3}}
+|-
+|<nowiki>{{isNum|3.3}}</nowiki>||{{isNum|3.3}}
+|-
+|<nowiki>{{isNum|-3.3}}</nowiki>||{{isNum|-3.3}}
+|}
+
+== Související šablony ==
+* {{tl|isEmpty}} - je vstup prázdný?
+* {{tl|isNaN}} - je vstup ne-číslo? Tedy je text?
+* {{tl|isInt}} - je vstup celé číslo? Tedy je integer?
+* {{tl|isNat}} - je vstup přirozené číslo? Tedy je celé a nezáporné?
+
+[[Катеґорія:Валідованя кликаня шаблон|{{PAGENAME}}]]
+[[Катеґорія:Шаблоны - рахуючі|{{PAGENAME}}]]
+
+</noinclude>
