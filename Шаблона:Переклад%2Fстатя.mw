@@ -15,8 +15,8 @@
   | az=azerbajdžanskej
   | ba=baškirskej
   | bat-smg=žemaitskej
-  | be=bieloruskej
-  | bg=bulharskej
+  | be=білоруськой
+  | bg=булгарьской
   | bh=bihárskej
   | bi=bislamskej
   | bn=bengálskej
@@ -30,16 +30,16 @@
   | cho=choctawskej
   | co=korzickej
   | cr=kríjskej
-  | cs=českej
+  | cs=чеськой
   | cv=čuvašskej
   | cy=velskej
   | da=dánskej
-  | de=nemeckej
+  | de=нїмецькой
   | dv=maledivskej
   | dz=dzongkha
   | ee=ewe
   | el=gréckej
-  | en=anglickej
+  | en=анґліцькой
   | eo=esperantskej
   | es=španielskej
   | et=estónskej
@@ -120,7 +120,7 @@
   | rm=rétorománskej
   | rn=rundskej
   | ro=rumunskej
-  | ru=ruskej
+  | ru=російской
   | rup=arumunskej
   | rw=kinyarwandskej
   | sa=sanskrtskej
@@ -130,8 +130,8 @@
   | se=laponskej
   | sg=sangoskej
   | si=sinhalskej
-  | sk=slovenskej
-  | sl=slovinskej
+  | sk=словеньской
+  | sl=словіньской
   | sm=samojskej
   | sn=šonskej
   | so=somálskej
@@ -158,7 +158,7 @@
   | ty=tahitskej
   | tw=ťwiskej
   | ug=ujgurskej
-  | uk=ukrajinskej
+  | uk=україньской
   | ur=urdskej
   | uz=uzbeckej
   | vi=vietnamskej
@@ -171,9 +171,9 @@
   | zh=čínskej
   | zu=zulu
   | simple=anglickej (zjednodušenej)
-  | #default=neurčenej
-}} Вікіпедії}}{{#if:{{{ревізія|{{{3|}}}}}}| |<nowiki></nowiki> (číslo revízie nebolo určené)}}<noinclude>
+  | #default=нестановленой
+}} Вікіпедії}}{{#if:{{{ревізія|{{{3|}}}}}}| |<nowiki></nowiki> (чісло ревізії не было становлене)}}<noinclude>
 
-Toto je pomocná šablóna používaná v šablóne {{Шаблона|Переклад}}. Prosím, nepoužívajte ju v článkoch samostatne.
+Тото є помічна шаблона хоснована в шаблонї {{Шаблона|Переклад}}. Просиме, саму єй не хоснуйте.
 
 </noinclude>
