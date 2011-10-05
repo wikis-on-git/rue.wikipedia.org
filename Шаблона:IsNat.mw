@@ -1,0 +1,59 @@
+{{#if:{{{1|}}}
+ |{{#iferror:{{isInt|{{{1}}}}}
+  |{{хыба|Шаблона {{tl|isNat}} овірює [[природне чісло|природны чісла]], але даный вступ "{{{1}}}" не є [[цале чісло]]!}} {{#expr:{{{1|}}}+0}}
+  |{{#expr:(({{isInt|{{{1}}}}})and({{{1}}}>=0))}}
+ }}
+ |{{#if:{{{1}}}
+  |{{хыба|Шаблона {{tl|isNat}} потребує вступ, жебы было што овирїти!}}
+  |1<!-- Volaný vstup, který nepředává hodnotu, tedy předává prázdnou hodnotu, je WP-API považován za nulu. Tak tady tedy také. -->
+ }}
+}}<noinclude>
+----
+* Tato šablona používá šablonu {{tl|chyba}} k hlášení, že vstupní hodnota je požadována, aby vůbec bylo co ověřovat.
+* Nechá si potvrdit, zda jde vůbec o [[celé číslo]] (to pak šablonou {{tl|chyba}} předává dále text chybového hlášení),
+* dále ověřuje, že jde o '''[[přirozené číslo]]''': Vrátí hodnotu 0 (číslo není přirozené), nebo 1 (je přirozené).
+* Není-li předaná hodnota definovaná, jde-li tedy o prázdnou hodnotu, považuje se tato za platnou číselnou hodnotu 0! Přebírá se tak chování systému Wikipedie. Testuje se tedy zrelaxovaně, ovšem přísnější test lze dle potřeby v řešeném problému zpřísnit ověřením jak "prázdnosti" tak i "nedefinovavanosti" vstupu ještě před předáním hodnoty do volání této šablony.
+
+== Příklady ==
+{| class="wikitable"
+!wiki&nbsp;zdroj!!výsledek
+|-
+|<nowiki>{{isNat}}</nowiki>||{{isNat}}
+|-
+|<nowiki>{{isNat|}}</nowiki>||{{isNat|}} ...mezeru systém Wikipedie interpretuje jako číslo 0, tedy přirozené číslo
+|-
+|<nowiki>{{isNat|text}}</nowiki>||{{isNat|text}}
+|-
+|<nowiki>{{isNat|text1}}</nowiki>||{{isNat|text1}}
+|-
+|<nowiki>{{isNat|1text}}</nowiki>||{{isNat|1text}}
+|-
+|<nowiki>{{isNat|0}}</nowiki>||{{isNat|0}}
+|-
+|<nowiki>{{isNat|3}}</nowiki>||{{isNat|3}}
+|-
+|<nowiki>{{isNat|-3}}</nowiki>||{{isNat|-3}}
+|-
+|<nowiki>{{isNat|3.3}}</nowiki>||{{isNat|3.3}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isNat|-3.3}}</nowiki>||{{isNat|-3.3}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isNat|3.6}}</nowiki>||{{isNat|3.6}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isNat|-3.6}}</nowiki>||{{isNat|-3.6}} ...ověření případů pro zaokrouhlování
+|-
+|<nowiki>{{isNat|3.0}}</nowiki>||{{isNat|3.0}} ...číselné porovnávání a počítání, ne jen jako text
+|-
+|<nowiki>{{isNat|-3.0}}</nowiki>||{{isNat|-3.0}} ...číselné porovnávání a počítání, ne jen jako text
+|}
+
+== Související šablony ==
+* {{tl|isEmpty}} - je vstup prázdný?
+* {{tl|isNum}} - je vstup [[číslo]]? Tedy není text?
+* {{tl|isNaN}} - je vstup ne-číslo? Tedy je text?
+* {{tl|isInt}} - je vstup celé číslo? Tedy je integer?
+
+[[Катеґорія:Валідованя кликаня шаблон|{{PAGENAME}}]]
+[[Катеґорія:Шаблоны - рахуючі|{{PAGENAME}}]]
+
+</noinclude>
