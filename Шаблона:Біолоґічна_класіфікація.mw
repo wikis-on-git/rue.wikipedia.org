@@ -1,0 +1,43 @@
+<div style="border-color: #F8FCFF; float: {{{зарівнаня|right}}};">
+<div class="thumbinner" style="width:158px;">
+<imagemap>
+Image:Biological_classification_L_Pengo_rue.png|150px|The various levels of the scientific classification system.
+rect 100 27 225 68 [[Вид (біолоґія)|Вид]]
+rect 100 90 225 132 [[Рід (біолоґія)|Рід]]
+rect 100 154 225 196 [[Родина (біолоґія)|Родина]]
+rect 100 217 225 259 [[Ряд (біолоґія)|Ряд]]
+rect 100 280 225 322 [[Клас (біолоґія)|Клас]]
+rect 100 344 225 386 [[Тіп (біолоґія)|Тіп]]
+rect 100 407 225 449 [[Царьство (біолоґія)|Царьство]]
+rect 100 471 225 513 [[Домена (біолоґія)|Домена]]
+rect 100 534 225 576 [[Жывот]]
+default [[:Image:Biological_classification_L_Pengo_rue.png]]
+desc none
+</imagemap>
+<div class="thumbcaption"><imagemap>
+Image:Magnify-clip.png|right
+default [[Файл:Biological_classification_L_Pengo_rue.png|Enlarge]]
+desc none
+</imagemap>{{{пописок|Єрархія [[біолоґічна класіфікація|біолоґічной класіфікації]] вказуюча 8 основных [[Катеґорія (біолоґія)|таксономічных катеґорій]].
+{{{куртый пописок|}}}}}}</div></div></div><noinclude>
+== Інформації о шаблонї ==
+Тота шаблона хоснує [[:Файл:Biological_classification_L_Pengo_cs.svg]] і [[mw:Extension:ImageMap|росшырїня ImageMap]] про створїня образчіковой мапы, у котрій єднотливы коморкы доказують на приналежны таксоны.
+
+== Хоснованя ==
+* <pre>{{біолоґічна класіфікація|зарівнаня=left/right}}</pre> Вкаже шаблону з імпліцітным пописом
+* <pre>{{біолоґічна класіфікація|зарівнаня=left/right|пописок= …}}</pre> Вкаже шаблону зо зазначеным пописом
+* <pre>{{біолоґічна класіфікація|зарівнаня=left/right|куртый пописок= …}}</pre> Вкаже шаблону з імпліцітным пописом і заданым пописом
+
+[[Катеґорія:Біолоґічны шаблоны|{{PAGENAME}}]]
+
+[[ar:قالب:تصنيف الأحياء]]
+[[en:Template:Biological classification]]
+[[hi:साँचा:जीववैज्ञानिक वर्गीकरण]]
+[[ja:Template:Biological classification]]
+[[ko:틀:생물 분류표]]
+[[mk:Шаблон:Биолошка класификација]]
+[[nl:Sjabloon:Zijbalk biologische taxonomie]]
+[[no:Mal:Biologisk klassifisering]]
+[[ru:Шаблон:Биологическая классификация]]
+[[sr:Шаблон:Biološka klasifikacija]]
+</noinclude>
