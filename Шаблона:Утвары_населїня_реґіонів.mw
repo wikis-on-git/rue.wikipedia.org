@@ -1,0 +1,6 @@
+{{navbox
+|name = {{{name}}}
+|title = {{{назва}}}
+|list1 = {{{пункты}}}
+|image = {{#if:{{{прапор|}}}|[[Файл:{{{застава}}}|50px|border]]}}
+}}<noinclude>
