@@ -618,7 +618,7 @@ Geobox2 unit | Geobox 0}}
 }} {{#if: {{{area|}}}{{{area_imperial|}}} | 
 
 {{ {{#if: {{{area|}}}{{{area_imperial|}}} | Geobox2 unit| Geobox 0}} 
-| Rozloha | {{{area_type|}}} | rozloha | {{{area_label|}}} 
+| Розлога | {{{area_type|}}} | rozloha | {{{area_label|}}} 
 |area|{{#switch:{{lc:{{{1|}}}}}|building|monument|tunnel|bridge=sqm|sqkm}}|{{#switch:{{lc:{{{1|}}}}}|building|monument|tunnel|bridge=sqft|sqmi}}|{{{area_unit|}}}|{{{area|}}}|{{{area_imperial|}}}|{{{area_round|0}}}|{{{area_note|}}}|
 }} {{ {{#if: {{{area_land|}}}{{{area_land_imperial|}}} | 
 
@@ -710,7 +710,7 @@ Geobox2 unit | Geobox 0}} | sub = 1
 
 {{!}}- class="mergedtoprow" {{#if: {{{population|}}} | 
 {{ {{#if: {{{population|}}}| Geobox2 data plain | Geobox 0}} 
-| Obyvateľstvo | {{{population_type|}}} | Počet obyvateľov | 
+| Обывателїв | {{{population_type|}}} | Počet obyvateľov | 
 |{{formatnum: {{{population|}}} }}{{#if: {{{population_date|}}}{{{population_as_of|}}}|&nbsp;<small>(''{{{population_date|}}}{{{population_as_of|}}}'')</small>}}|{{{population_note|}}}|
 }} {{ {{#if: {{{population_urban|}}} | 
 
@@ -745,7 +745,7 @@ Geobox2 data plain | Geobox 0}} | sub = 1
 }} }} {{#if: {{{population_density|}}}{{{population_density_imperial|}}} | 
 
 {{ {{#if: {{{population_density|}}}{{{population_density_imperial|}}} | Geobox2 unit | Geobox 0}}
-| Hustota | {{{density_type|}}} | Hustota obyvateľov | {{{density_label|}}}
+| Густота | {{{density_type|}}} | Hustota obyvateľov | {{{density_label|}}}
 |area density|sqkm|sqmi|{{{area_unit|}}}|{{#ifeq: {{{population_density|}}} | auto | {{#expr: {{{population|0}}} / {{#if: {{{area_land|}}}|{{{area_land}}}|{{{area|1}}}}} round {{{population_density_round|2}}} }} | {{{population_density|}}} }} | {{#ifeq: {{{population_density_imperial|}}} | auto | {{#expr: {{{population|0}}} / {{{area_imperial|1}}} round {{{population_density_round|2}}} }} | {{{population_density_imperial|}}} }} | {{{population_density_round|2}}}| {{{population_density_note|}}}|
 }} {{ {{#if: {{{population_urban_density|}}}{{{population_urban_density_imperial|}}} | 
 
@@ -1025,17 +1025,17 @@ Geobox2 data plain | Geobox 0 }} | sub = 1
 
 {{!}}- class="mergedtoprow" {{#if: {{{timezone|}}} | 
 {{ {{#if: {{{timezone|}}} | Geobox2 data plain | Geobox 0}} 
-| Časové pásmo | {{{timezone_type|}}} | Základné časové pásmo | {{{timezone_label|}}} 
+| Часова зона | {{{timezone_type|}}} | Основна часова зона | {{{timezone_label|}}} 
 | {{#ifexist: {{{timezone|}}} | [[{{{timezone|}}}]] | {{{timezone|}}} }}{{#if: {{{utc_offset|}}}| &#32;(UTC{{{utc_offset}}}) }} | {{{timezone_note|}}}|
 }} {{ {{#if: {{{timezone_DST|}}} | 
 
 Geobox2 data plain | Geobox 0}} | sub = 1
-| letný čas | {{{timezone_type_DST|}}} | Letný čas | {{{timezone_DST_label|}}}
+| лїтнїй час | {{{timezone_type_DST|}}} | Лїтнїй час | {{{timezone_DST_label|}}}
 | {{#ifexist: {{{timezone_DST|}}} | [[{{{timezone_DST|}}}]] | {{{timezone_DST|}}} }}{{#if: {{{utc_offset_DST|}}}| &#32;(UTC{{{utc_offset_DST}}}) }} | {{{timezone_DST_note|}}}|
 }} }} {{ {{#if: {{{postal_code|}}} | 
 
 Geobox2 data plain | Geobox 0 }}  
-| PSČ | {{{postal_code_type|}}} | PSČ | {{{postal_code_label|}}} 
+| ПСЧ | {{{postal_code_type|}}} | ПСЧ | {{{postal_code_label|}}} 
 | {{{postal_code|}}} | {{{postal_code_note|}}}| 
 }} {{ {{#if: {{{area_code|}}} | 
 
@@ -1079,21 +1079,21 @@ Geobox2 data plain | Geobox 0 }}
 {{ {{#if: {{{whs_name|}}}{{{whs_criteria|}}}{{{whs_number|}}}{{{whs_region|}}}{{{whs_year|}}} | 
 
 Geobox2 line plain | Geobox 0}} | style = background-color: {{Geobox2 color  | {{{1|}}} }}; text-align: center; padding-bottom: 6px;
-| [[Svetové dedičstvo UNESCO|Lokalita svetového dedičstva UNESCO]] | | {{{1|}} je zapísané do zoznamu lokalít Svetového dedičstva UNESCO |   
+| [[Світова дїдовизна ЮНЕСКО|Локаліта світовой дїдовизны ЮНЕСКО]] | | {{{1|}} je zapísané do zoznamu lokalít Svetového dedičstva UNESCO |   
 }} {{ {{#if: {{{whs_name|}}} | 
 
 Geobox2 data | Geobox 0}}  
-| Názov | | Názov ako je uvedený v zozname Svetového dedičstva UNSECO |   
+| Назва | | Názov ako je uvedený v zozname Svetového dedičstva UNSECO |   
 | {{{whs_name|}}} | {{{whs_name_note|}}}|
 }} {{ {{#if: {{{whs_type|}}} | 
 
 Geobox2 data | Geobox 0}}  
-| Typ pamiatky | | Typ pamiatky |   
+| Тіп памяткы | | Typ pamiatky |   
 | {{{whs_type|}}} | {{{whs_type_note|}}}|
 }} {{ {{#if: {{{whs_year|}}} | 
 
 Geobox2 data plain | Geobox 0}} 
-| [[Svetové dedičstvo UNESCO#Zasadnutie výboru Svetového dedičstva|Rok]] | | Rok zápisu (číslo zasadnutia) |   
+| [[Світова дїдовизна ЮНЕСКО|Рік]] | | Rok zápisu (číslo zasadnutia) |   
 | {{{whs_year|}}} (#{{#expr:({{{whs_year}}} - 1976)}})| {{{whs_year_note|}}} | 
 }} {{ {{#if: {{{whs_extensions|}}} | 
 
@@ -1108,12 +1108,12 @@ Geobox2 data | Geobox 0}}
 }} {{ {{#if: {{{whs_number|}}} | 
 
 Geobox2 data plain | Geobox 0}} 
-| Číslo | | Číslo, pod akým je lokalita zaregistrovaná |   
+| Чісло | | Číslo, pod akým je lokalita zaregistrovaná |   
 | [http://whc.unesco.org/en/list/{{{whs_number|}}} {{{whs_number|}}}]|{{{whs_number_note|}}} |
 }} {{ {{#if: {{{whs_region|}}} | 
 
 Geobox2 data plain | Geobox 0}} 
-| Región | | Región ako je klasifikovaný UNESCOm |   
+| Реґіон | | Región ako je klasifikovaný UNESCOm |   
 | {{#switch: {{{whs_region|}}}
 | 1 = [[Zoznam lokalít Svetového dedičstva v Afrike|Afrika]]
 | 2 = Arabské štáty
@@ -1124,7 +1124,7 @@ Geobox2 data plain | Geobox 0}}
 }} {{ {{#if: {{{whs_criteria|}}} | 
 
 Geobox2 data plain | Geobox 0}} 
-| [[Svetové dedičstvo UNESCO#Kritériá výberu|Kritériá]] | | Kritériá výberu |   
+| [[Світова дїдовизна ЮНЕСКО|Крітерії]] | | Kritériá výberu |   
 | {{{whs_criteria|}}} | {{{whs_criteria_note|}}} |
 }} }} {{ {{#if: {{{category_iucn|}}} | 
 
@@ -1222,12 +1222,12 @@ Geobox2 line plain| Geobox 0}}
 }} {{ {{#if: {{{statistics|}}} | 
 
 Geobox2 line plain| Geobox 0}} 
-| Štatistika| {{{statistics_type|}}} | Štatistické dáta | {{{statistics_label|}}} 
+| Штатістіка| {{{statistics_type|}}} | Štatistické dáta | {{{statistics_label|}}} 
 | {{{statistics|}}}{{#if: {{{statistics_date|}}}|&nbsp; (''k {{{statistics_date|}}}'') }} | {{{statistics_note|}}}|
 }} {{ {{#if: {{{website|}}} | 
 
 Geobox2 line plain| Geobox 0}} 
-| Webová stránka | {{{website_type|}}} | Oficiálna stránka | {{{website_label|}}} 
+| Вебова сторінка | {{{website_type|}}} | Oficiálna stránka | {{{website_label|}}} 
 | {{{website|}}} | {{{website_note|}}}|
 }} {{ {{#if: {{#ifeq: {{{country}}} |Slovensko|{{{lat_d|}}}|}}| 
 
