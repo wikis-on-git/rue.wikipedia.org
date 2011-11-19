@@ -1,0 +1,76 @@
+<small style="display:block;margin-left:1.5em">← [[Шаблона:LocMap]]</small><includeonly>
+{| class="prettytable" style="text-align:center"
+|+ Mapa {{{{PAGENAME}}|name}}
+|-
+|colspan="4"|[[súbor:{{{{PAGENAME}}|image}}|400x400px|{{PAGENAME}}]]
+|-
+! Назва
+|colspan="3"| [[{{{{PAGENAME}}|name}}]]
+|-
+!rowspan="4"|Коордінаты граніць
+|-
+|colspan="3"| {{{{PAGENAME}}|top}}
+|-
+| {{{{PAGENAME}}|left}}
+| ←↕→
+| {{{{PAGENAME}}|right}}
+|-
+|colspan="3"| {{{{PAGENAME}}|bottom}}
+|-
+! Мапа
+|colspan="3"| <tt>[[:súbor:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|image}}]]</tt>
+<!--|-
+! Середина мапы
+|colspan="4"| {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}-->
+|}</includeonly><noinclude>
+[[Катеґорія:Geobox|Locator info]]
+[[Катеґорія:LocMap| ]]
+
+[[an:Plantilla:Mapa de localización/Info]]
+[[ar:قالب:Location map/Info]]
+[[ba:Ҡалып:Картала торошо/мәғлүмәт]]
+[[be:Шаблон:На карце (шыльда)]]
+[[bg:Шаблон:ПК/Инфо]]
+[[bs:Šablon:Lokacijska karta/Info]]
+[[ca:Plantilla:Mapa de localització/Info]]
+[[ckb:داڕێژە:نەخشەی شوێن/زانیاری]]
+[[cs:Šablona:LocMap/Info]]
+[[da:Skabelon:Kortpositioner/Info]]
+[[de:Vorlage:Positionskarte/Info]]
+[[dsb:Pśedłoga:LocMap/info]]
+[[en:Template:Location map/Info]]
+[[eo:Ŝablono:Situo sur mapo/informoj]]
+[[es:Plantilla:Mapa de localización/Info]]
+[[eu:Txantiloi:Kokapen mapa/Info]]
+[[fi:Malline:Sijaintikartta/Info]]
+[[hr:Predložak:Lokacijska karta/info]]
+[[hsb:Předłoha:LocMap/info]]
+[[hu:Sablon:Pozíciós térkép/információ]]
+[[id:Templat:Location map/Info]]
+[[is:Snið:Location map/Info]]
+[[it:Template:Mappa di localizzazione/info]]
+[[ja:Template:Location map/Info]]
+[[ka:თარგი:პოზრუკა/Info]]
+[[ko:틀:위치 지도/정보]]
+[[ku:Şablon:Nexşeya cihan/Agahî]]
+[[lb:Schabloun:Kaartpositioun/Info]]
+[[lt:Šablonas:Location map/Info]]
+[[lv:Veidne:Location map/Info]]
+[[mr:साचा:Location map/Info]]
+[[nl:Sjabloon:Positiekaart/info]]
+[[nn:Mal:Kartposisjon/Info]]
+[[no:Mal:Kartposisjon/Info]]
+[[os:Шаблон:ПозКартæ/Инфо]]
+[[pt:Predefinição:Mapa de localização/info]]
+[[rm:Model:LocMap/Info]]
+[[ro:Format:Harta de localizare/Info]]
+[[ru:Шаблон:ПозКарта/Инфо]]
+[[sh:Šablon:Lokacijska karta/info]]
+[[sr:Шаблон:Location map/Info]]
+[[sv:Mall:Kartposition/Info]]
+[[sw:Kigezo:Location map/Info]]
+[[tl:Suleras:Location map/Info]]
+[[tt:Үрнәк:ПозХарита/Мәгълүмат]]
+[[uk:Шаблон:Карта розташування/Інфо]]
+[[zh:Template:Location map/Info]]
+</noinclude>
