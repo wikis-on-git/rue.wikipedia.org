@@ -1,0 +1,13 @@
+<includeonly>
+{{#if:{{{8|}}}|<tr><td colspan="2">}}
+<div style="width: {{#if:{{{3|}}}|{{{3}}}|270}}px; margin-left: auto; margin-right: auto;">
+<div style="position: relative;">
+{{#if:{{{7|}}}|<div style="position: absolute;">[[Image:{{{7}}}|{{#if:{{{3|}}}|{{{3}}}px|270px}}|none|{{{2|}}}]]</div>}}
+{{#if:{{{1|}}}|<div style="position: relative;">[[Image:{{{1}}}|{{#if:{{{3|}}}|{{{3}}}px|270px}}|none|{{{2|}}}]]</div>}}
+{{#if:{{{6|}}}|{{#if:{{{4|}}}|<div style="position:absolute; left:{{#expr: (({{{4|0}}} - {{Geobox locator {{{6|}}}|left}})/({{Geobox locator {{{6|}}}|right}}-{{Geobox locator {{{6|}}}|left}})*{{#if:{{{3|}}}|{{{3}}}|270}}) -4 round 2}}px; top:{{#expr: (({{Geobox locator {{{6|}}}|top}} - {{{5|0}}})/({{Geobox locator {{{6}}}|top}}-{{Geobox locator {{{6|}}}|bottom}})*{{#if:{{{3|}}}|{{{3}}}|270}})*{{Geobox locator {{{6|}}}|ratio}} -4 round 2}}px; padding:0;">[[Image:Red pog.svg|7px|link=|alt=]]</div>}}
+|{{#if:{{{4|}}}|<div style="position:absolute; left:{{#expr:({{{4|0}}}*{{#if:{{{3|}}}|{{{3}}}|270}}/100 round 2) -4}}px; top:{{#expr:({{{5|0}}}*{{#if:{{{3|}}}|{{{3}}}|270}}/100 round 2) -4}}px; padding:0;">[[Image:Red pog.svg|7px|link=|alt=]]</div>}}}}
+</div>
+{{#if: {{{2|}}}| <div style="padding-top: 0.4em; text-align: center;">{{{2}}}</div>}}
+</div>
+{{#if:{{{8|}}}|</td></tr>}}
+</includeonly><noinclude>[[Катеґорія:Geobox|map]]</noinclude>
