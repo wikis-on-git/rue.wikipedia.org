@@ -1,0 +1,12 @@
+<includeonly>[[Файл:{{Minivlajka/Vlajka|{{{1}}}}}.svg|{{{šírka|22x20px}}}|border|Vlajka {{Minivlajka/2. пад|{{{1}}}}}]]<!--
+-->{{#switch:{{{2}}}
+|w =&nbsp;[[{{Minivlajka/Názov článku|{{{1}}} }}|{{{1}}}]]
+|w1 =&nbsp;[[{{Minivlajka/Názov článku|{{{1}}} }}]]
+|n =&nbsp;{{{1}}}
+|n1 =&nbsp;{{Minivlajka/Názov článku|{{{1}}} }}
+}}</includeonly><!-- 
+
+
+
+-->{{#switch:{{Minivlajka/Vlajka|{{{1}}}}}|Flag of None=<includeonly>[[Kategória:Wikipédia:Minivlajka na opravu]]</includeonly>|}}<!--
+-->{{#switch:{{Minivlajka/2. pád|{{{1}}}}}|nerozpoznaná=<includeonly>[[Kategória:Wikipédia:Minivlajka na opravu]]</includeonly>|}}<noinclude>{{Documentation}}</noinclude>
