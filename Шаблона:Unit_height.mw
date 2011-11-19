@@ -1,0 +1,6 @@
+<includeonly>{{#switch: {{{1|}}}
+| m = {{formatnum: {{{2}}} }}&nbsp;[[Метер|м]]
+| km = {{formatnum: {{{2}}} }}&nbsp;[[Кіломотер|км]]
+| mm = {{formatnum: {{{2}}} }}&nbsp;[[Міліметер|мм]]
+| mnm = {{formatnum: {{{2}}} }}&nbsp;[[метрів над морём|м н. м.]]
+}}</includeonly><noinclude>[[Катеґорія:Geobox|unit length]]</noinclude>
