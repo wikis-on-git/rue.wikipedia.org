@@ -1,0 +1,13 @@
+<includeonly>{{#switch: {{{1|}}}
+| km
+| sqkm = {{formatnum: {{{2}}} }}&nbsp;[[Квадратный кілометер|км²]]&nbsp;({{formatnum: {{#expr: {{{2}}}*100 round {{{3|0}}} }} }}&nbsp;[[Гектар|га]])
+| ha = {{formatnum: {{{2}}} }}&nbsp;[[Гектар|га]]&nbsp;({{formatnum: {{#expr: {{{2}}}/100 round {{{3|0}}} }} }}&nbsp;[[Квадратный кілометер|км²]])
+| m
+| sqm = {{formatnum: {{{2}}} }}&nbsp;[[Квадратный метер|m²]]}}</includeonly><noinclude>
+The template has 3 unnamed parameters: <code><nowiki>{{Unit area| unit| value| round}}</nowiki></code>. Their meaning is as follows: 
+# '''unit''' … obligatory, unit (<code>sqm/m, sqft/ft, ha, acre, sqkm/km, sqmi/mi</code>, slashes delimit alternatives) of the <code>value</code> aprameter, it will get displayed first
+# '''value''' … obligatory, numerical value
+# '''round''' … mandatory, number of decimal digits (negative numbers can be used for rounded figures); if not specified 0 is assumed
+
+[[Катеґорія:Geobox|unit area]]
+</noinclude>
