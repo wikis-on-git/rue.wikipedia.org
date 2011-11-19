@@ -1,0 +1,7 @@
+<includeonly>{{#switch: {{{1|}}}
+| km
+| sqkm = <span style="white-space:nowrap">{{formatnum: {{{2}}} }}&nbsp;obyv./[[Квадратный кілометер|км²]]</span> 
+| ha = <span style="white-space:nowrap">{{formatnum: {{{2}}} }}&nbsp;obyv./[[Гектар|га]]</span> <span style="white-space:nowrap">({{formatnum: {{#expr: {{{2}}}*0.1 round {{{3|0}}} }} }}&nbsp;obyv./[[Квадратный кілометер|км²]])</span>
+| acre = <span style="white-space:nowrap">{{formatnum: {{{2}}} }}&nbsp;obyv./[[акер]]</span> <span style="white-space:nowrap">({{formatnum: {{#expr: {{{2}}}/0.40468564224 round {{{3|0}}} }} }}&nbsp;obyv./[[Гектар|га]])</span>
+| m
+| sqm = <span style="white-space:nowrap">{{formatnum: {{{2}}} }}&nbsp;obyv./[[квадратный метер|м²]]</span> <span style="white-space:nowrap"></span>}}</includeonly><noinclude>{{Documentation}}</noinclude>
