@@ -1,0 +1,46 @@
+<includeonly>{{#if: {{{3|}}}{{{4|}}} | title="{{#if:{{{4|}}} | {{{4|}}} | {{{3|}}}}}"}}
+{{#if: {{{sub|}}} | {{!}} | ! }} style="{{{style|white-space: nowrap;}}}" {{!}} {{#if: {{{sub|}}} | &nbsp;-&nbsp; }}{{#if: {{{2|}}} | {{{2|}}} | {{{1|}}}}} 
+{{!}}<span style="white-space: nowrap">{{ {{#if:{{{5|}}}|Geobox2 link|Geobox 0}}|{{{5|}}}}}{{#if: {{{6|}}} |</span> <span style="white-space: nowrap">''{{{6|}}}''}}{{#if: {{{7|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{7|}}}|Geobox2 link|Geobox 0}}|{{{7|}}}}}{{#if: {{{8|}}} |</span> <span style="white-space: nowrap">''{{{8|}}}''}}{{#if: {{{9|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{9|}}}|Geobox2 link|Geobox 0}}|{{{9|}}}}}{{#if: {{{10|}}}|</span> <span style="white-space: nowrap">''{{{10|}}}''}}{{#if: {{{11|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{11|}}}|Geobox2 link|Geobox 0}}|{{{11|}}}}}{{#if: {{{12|}}}|</span> <span style="white-space: nowrap">''{{{12|}}}''}}{{#if: {{{13|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{13|}}}|Geobox2 link|Geobox 0}}|{{{13|}}}}}{{#if: {{{14|}}}|</span> <span style="white-space: nowrap">''{{{14|}}}''}}{{#if: {{{15|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{15|}}}|Geobox2 link|Geobox 0}}|{{{15|}}}}}{{#if: {{{16|}}}|</span> <span style="white-space: nowrap">''{{{16|}}}''}}{{#if: {{{17|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{17|}}}|Geobox2 link|Geobox 0}}|{{{17|}}}}}{{#if: {{{18|}}}|</span> <span style="white-space: nowrap">''{{{18|}}}''}}{{#if: {{{19|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{19|}}}|Geobox2 link|Geobox 0}}|{{{19|}}}}}{{#if: {{{20|}}}|</span> <span style="white-space: nowrap">''{{{20|}}}''}}{{#if: {{{21|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{21|}}}|Geobox2 link|Geobox 0}}|{{{21|}}}}}{{#if: {{{22|}}}|</span> <span style="white-space: nowrap">''{{{22|}}}''}}{{#if: {{{23|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{23|}}}|Geobox2 link|Geobox 0}}|{{{23|}}}}}{{#if: {{{24|}}}|</span> <span style="white-space: nowrap">''{{{24|}}}''}}{{#if: {{{25|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{25|}}}|Geobox2 link|Geobox 0}}|{{{25|}}}}}{{#if: {{{26|}}}|</span> <span style="white-space: nowrap">''{{{26|}}}''}}{{#if: {{{27|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{27|}}}|Geobox2 link|Geobox 0}}|{{{27|}}}}}{{#if: {{{28|}}}|</span> <span style="white-space: nowrap">''{{{28|}}}''}}{{#if: {{{29|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{29|}}}|Geobox2 link|Geobox 0}}|{{{29|}}}}}{{#if: {{{30|}}}|</span> <span style="white-space: nowrap">''{{{30|}}}''}}{{#if: {{{31|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{31|}}}|Geobox2 link|Geobox 0}}|{{{31|}}}}}{{#if: {{{32|}}}|</span> <span style="white-space: nowrap">''{{{32|}}}''}}{{#if: {{{33|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{33|}}}|Geobox2 link|Geobox 0}}|{{{33|}}}}}{{#if: {{{34|}}}|</span> <span style="white-space: nowrap">''{{{34|}}}''}}{{#if: {{{35|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{35|}}}|Geobox2 link|Geobox 0}}|{{{35|}}}}}{{#if: {{{36|}}}|</span> <span style="white-space: nowrap">''{{{36|}}}''}}{{#if: {{{37|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{37|}}}|Geobox2 link|Geobox 0}}|{{{37|}}}}}{{#if: {{{38|}}}|</span> <span style="white-space: nowrap">''{{{38|}}}''}}{{#if: {{{39|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{39|}}}|Geobox2 link|Geobox 0}}|{{{39|}}}}}{{#if: {{{40|}}}|</span> <span style="white-space: nowrap">''{{{40|}}}''}}{{#if: {{{41|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{41|}}}|Geobox2 link|Geobox 0}}|{{{41|}}}}}{{#if: {{{42|}}}|</span> <span style="white-space: nowrap">''{{{42|}}}''}}{{#if: {{{43|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{43|}}}|Geobox2 link|Geobox 0}}|{{{43|}}}}}{{#if: {{{44|}}}|</span> <span style="white-space: nowrap">''{{{44|}}}''}}{{#if: {{{45|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{45|}}}|Geobox2 link|Geobox 0}}|{{{45|}}}}}{{#if: {{{46|}}}|</span> <span style="white-space: nowrap">''{{{46|}}}''}}{{#if: {{{47|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{47|}}}|Geobox2 link|Geobox 0}}|{{{47|}}}}}{{#if: {{{48|}}}|</span> <span style="white-space: nowrap">''{{{48|}}}''}}{{#if: {{{49|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{49|}}}|Geobox2 link|Geobox 0}}|{{{49|}}}}}{{#if: {{{50|}}}|</span> <span style="white-space: nowrap">''{{{50|}}}''}}{{#if: {{{51|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{51|}}}|Geobox2 link|Geobox 0}}|{{{51|}}}}}{{#if: {{{52|}}}|</span> <span style="white-space: nowrap">''{{{52|}}}''}}{{#if: {{{53|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{53|}}}|Geobox2 link|Geobox 0}}|{{{53|}}}}}{{#if: {{{54|}}}|</span> <span style="white-space: nowrap">''{{{54|}}}''}}{{#if: {{{55|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{55|}}}|Geobox2 link|Geobox 0}}|{{{55|}}}}}{{#if: {{{56|}}}|</span> <span style="white-space: nowrap">''{{{56|}}}''}}{{#if: {{{57|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{57|}}}|Geobox2 link|Geobox 0}}|{{{57|}}}}}{{#if: {{{58|}}}|</span> <span style="white-space: nowrap">''{{{58|}}}''}}{{#if: {{{59|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{59|}}}|Geobox2 link|Geobox 0}}|{{{59|}}}}}{{#if: {{{60|}}}|</span> <span style="white-space: nowrap">''{{{60|}}}''}}{{#if: {{{61|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{61|}}}|Geobox2 link|Geobox 0}}|{{{61|}}}}}{{#if: {{{62|}}}|</span> <span style="white-space: nowrap">''{{{62|}}}''}}{{#if: {{{63|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{63|}}}|Geobox2 link|Geobox 0}}|{{{63|}}}}}{{#if: {{{64|}}}|</span> <span style="white-space: nowrap">''{{{64|}}}''}}{{#if: {{{65|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{65|}}}|Geobox2 link|Geobox 0}}|{{{65|}}}}}{{#if: {{{66|}}}|</span> <span style="white-space: nowrap">''{{{66|}}}''}}{{#if: {{{67|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{67|}}}|Geobox2 link|Geobox 0}}|{{{67|}}}}}{{#if: {{{68|}}}|</span> <span style="white-space: nowrap">''{{{68|}}}''}}{{#if: {{{69|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{69|}}}|Geobox2 link|Geobox 0}}|{{{69|}}}}}{{#if: {{{70|}}}|</span> <span style="white-space: nowrap">''{{{70|}}}''}}{{#if: {{{71|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{71|}}}|Geobox2 link|Geobox 0}}|{{{71|}}}}}{{#if: {{{72|}}}|</span> <span style="white-space: nowrap">''{{{72|}}}''}}{{#if: {{{73|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{73|}}}|Geobox2 link|Geobox 0}}|{{{73|}}}}}{{#if: {{{74|}}}|</span> <span style="white-space: nowrap">''{{{74|}}}''}}{{#if: {{{75|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{75|}}}|Geobox2 link|Geobox 0}}|{{{75|}}}}}{{#if: {{{76|}}}|</span> <span style="white-space: nowrap">''{{{76|}}}''}}{{#if: {{{77|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{77|}}}|Geobox2 link|Geobox 0}}|{{{77|}}}}}{{#if: {{{78|}}}|</span> <span style="white-space: nowrap">''{{{78|}}}''}}{{#if: {{{79|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{79|}}}|Geobox2 link|Geobox 0}}|{{{79|}}}}}{{#if: {{{80|}}}|</span> <span style="white-space: nowrap">''{{{80|}}}''}}{{#if: {{{81|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{81|}}}|Geobox2 link|Geobox 0}}|{{{81|}}}}}{{#if: {{{82|}}}|</span> <span style="white-space: nowrap">''{{{82|}}}''}}{{#if: {{{83|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{83|}}}|Geobox2 link|Geobox 0}}|{{{83|}}}}}{{#if: {{{84|}}}|</span> <span style="white-space: nowrap">''{{{84|}}}''}}{{#if: {{{85|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{85|}}}|Geobox2 link|Geobox 0}}|{{{85|}}}}}{{#if: {{{86|}}}|</span> <span style="white-space: nowrap">''{{{86|}}}''}}{{#if: {{{87|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{85|}}}|Geobox2 link|Geobox 0}}|{{{87|}}}}}{{#if: {{{88|}}}|</span> <span style="white-space: nowrap">''{{{88|}}}''}}{{#if: {{{89|}}}
+|,</span> <span style="white-space: nowrap">{{ {{#if:{{{89|}}}|Geobox2 link|Geobox 0}}|{{{89|}}}}}{{#if: {{{90|}}}|</span> <span style="white-space: nowrap">''{{{90|}}}''}} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }}</span>
+|- class="mergedrow" </includeonly><noinclude>[[Катеґорія:Geobox]]</noinclude>
