@@ -1,0 +1,5 @@
+<includeonly>
+|-
+| colspan="2" style="text-align: center; padding: 0.5em;" | <div>[[Image:{{{1|}}}|{{#if: {{{3|}}}|{{{3}}}px|270px}}|none|{{{2|}}}|{{#if:{{{4|}}}|border}}]]</div>{{#if: {{{2|}}} |<div style="padding-top:0.4em">{{{2}}}</div>}}</includeonly><noinclude>
+[[Катеґорія:Geobox|Image]]
+</noinclude>
