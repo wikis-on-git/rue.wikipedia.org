@@ -5,18 +5,18 @@
 <!-- *** Name *** -->
 {{#if: 1 |
 {{!}}- class="mergedtoprow" {{Geobox2 line plain| style = text-align: center; font-weight: bold; font-size: 1.25em; background-color: {{Geobox2 color  | {{{1|}}} }};
-| | | Názov (miestny názov) |
+| | | Назва (місцёва назва) |
 | {{#if: {{{whs_name|}}}|<!-- -->}}{{#if: {{{name|}}} | {{{name|}}}| {{PAGENAME}} }}{{#if: {{{native_name|}}} | <br /><small>({{{native_name}}})</small> }} }}''
 }} 
 
 {{#if: {{{other_name|}}} | 
 {{!}}- class="mergedrow" {{Geobox2 list line plain | style = text-align: center; font-weight: bold; background-color: {{Geobox2 color  | {{{1|}}} }};
-| | | Iné názvy |
+| | | Другы назвы |
 |{{{other_name|}}}|{{{other_name_note|}}}|{{{other_name1|}}}|{{{other_name1_note|}}}|{{{other_name2|}}}|{{{other_name2_note|}}}|{{{other_name3|}}}|{{{other_name3_note|}}}|{{{other_name4|}}}|{{{other_name4_note|}}}|{{{other_name5|}}}|{{{other_name5_note|}}}|{{{other_name6|}}}|{{{other_name6_note|}}}|{{{other_name7|}}}|{{{other_name7_note|}}} }} }}
 
 {{#if: 1 |
 {{!}}- class="mergedbottomrow" {{Geobox2 line plain | style = text-align: center; background-color: {{Geobox2 color  | {{{1|}}} }};
-| | | Kategória |
+| | | Катеґорія |
 | {{#if: {{{category|}}} | {{{category|}}}{{#if: {{{native_category|}}} |&#32;(''{{{native_category|}}}'') }} | {{{1|}}} }} }} }}
 
 <!-- *** Obrázok *** -->
@@ -70,7 +70,7 @@ Geobox2 line plain| Geobox 0}}
 
 {{!}}- class="mergedtoprow" {{ {{#if: {{{country|}}} | 
 Geobox2 list{{#if:{{{country_fold|}}}|_fold}}{{#if:{{{country_flag|}}}|_flag}} | Geobox 0}}
-|{{#if:{{{country1|}}}|Štáty|Štát}} | {{{country_type|}}} | {{#if:{{{country1|}}}|Štáty|Štát}}, v ktorých objekt leží | {{{country_label|}}}  
+|{{#if:{{{country1|}}}|Штаты|Штат}} | {{{country_type|}}} | {{#if:{{{country1|}}}|Штаты|Штат}}, v ktorých objekt leží | {{{country_label|}}}  
 |{{{country|}}}|{{{country_note|}}}|{{{country1|}}}|{{{country1_note|}}}|{{{country2|}}}|{{{country2_note|}}}|{{{country3|}}}|{{{country3_note|}}}|{{{country4|}}}|{{{country4_note|}}}|{{{country5|}}}|{{{country5_note|}}}|{{{country6|}}}|{{{country6_note|}}}|{{{country7|}}}|{{{country7_note|}}}|{{{country8|}}}|{{{country8_note|}}}|{{{country9|}}}|{{{country9_note|}}}|{{{country10|}}}|{{{country10_note|}}}|{{{country11|}}}|{{{country11_note|}}}|{{{country12|}}}|{{{country12_note|}}}|{{{country13|}}}|{{{country13_note|}}}|{{{country14|}}}|{{{country14_note|}}}|{{{country15|}}}|{{{country15_note|}}}| 
 }} {{ {{#if: {{{state|}}} | 
 
@@ -80,12 +80,12 @@ Geobox2 list{{#if:{{{state_fold|}}}|_fold}}{{#if:{{{state_flag|}}}|_flag}} | Geo
 }} {{ {{#if: {{{region|}}} | 
 
 Geobox2 list{{#if:{{{region_fold|}}}|_fold}} | Geobox 0}}
-|{{#if: {{{region1|}}}| Regióny| Región}} | {{{region_type|}}} | {{#if: {{{region1|}}}|Regióny|Región}} v ktorých objekt leží | {{{region_label|}}} 
+|{{#if: {{{region1|}}}| Реґіоны| Реґіон}} | {{{region_type|}}} | {{#if: {{{region1|}}}|Реґіоны|Реґіон}} v ktorých objekt leží | {{{region_label|}}} 
 |{{{region|}}}|{{{region_note|}}}|{{{region1|}}}|{{{region1_note|}}}|{{{region2|}}}|{{{region2_note|}}}|{{{region3|}}}|{{{region3_note|}}}|{{{region4|}}}|{{{region4_note|}}}|{{{region5|}}}|{{{region5_note|}}}|{{{region6|}}}|{{{region6_note|}}}|{{{region7|}}}|{{{region7_note|}}}|{{{region8|}}}|{{{region8_note|}}}|{{{region9|}}}|{{{region9_note|}}}|{{{region10|}}}|{{{region10_note|}}}|{{{region11|}}}|{{{region11_note|}}}|{{{region12|}}}|{{{region12_note|}}}|{{{region13|}}}|{{{region13_note|}}}|{{{region14|}}}|{{{region14_note|}}}|{{{region15|}}}|{{{region15_note|}}}|
 }} {{ {{#if: {{{district|}}} |
 
 Geobox2 list long{{#if:{{{district_fold|}}}|_fold}} | Geobox 0}}
-|{{#if: {{{district1|}}}| Okresy| Okres}} | {{{district_type|}}} |  {{#if: {{{district1|}}}|Okresy|Okres}}, v ktorých objekt leží | {{{district_label|}}} 
+|{{#if: {{{district1|}}}| Окресы| Окрес}} | {{{district_type|}}} |  {{#if: {{{district1|}}}|Окресы|Окрес}}, v ktorých objekt leží | {{{district_label|}}} 
 |{{{district|}}}|{{{district_note|}}}|{{{district1|}}}|{{{district1_note|}}}|{{{district2|}}}|{{{district2_note|}}}|{{{district3|}}}|{{{district3_note|}}}|{{{district4|}}}|{{{district4_note|}}}|{{{district5|}}}|{{{district5_note|}}}|{{{district6|}}}|{{{district6_note|}}}|{{{district7|}}}|{{{district7_note|}}}|{{{district8|}}}|{{{district8_note|}}}|{{{district9|}}}|{{{district9_note|}}}|{{{district10|}}}|{{{district10_note|}}}|{{{district11|}}}|{{{district11_note|}}}|{{{district12|}}}|{{{district12_note|}}}|{{{district13|}}}|{{{district13_note|}}}|{{{district14|}}}|{{{district14_note|}}}|{{{district15|}}}|{{{district15_note|}}}|{{{district16|}}}|{{{district16_note|}}}|{{{district17|}}}|{{{district17_note|}}}|{{{district18|}}}|{{{district18_note|}}}|{{{district19|}}}|{{{district19_note|}}}|{{{district20|}}}|{{{district20_note|}}}|{{{district21|}}}|{{{district21_note|}}}|{{{district22|}}}|{{{district22_note|}}}|{{{district23|}}}|{{{district23_note|}}}|{{{district24|}}}|{{{district24_note|}}}|{{{district25|}}}|{{{district25_note|}}}|{{{district26|}}}|{{{district26_note|}}}|{{{district27|}}}|{{{district27_note|}}}|{{{district28|}}}|{{{district29_note|}}}|{{{district30|}}}|{{{district30_note|}}}|{{{district31|}}}|{{{district31_note|}}}|
 }} {{ {{#if: {{{commune|}}}| 
 
@@ -100,7 +100,7 @@ Geobox2 list{{#if:{{{municipality_fold|}}}|_fold}} | Geobox 0}}
 }} {{ {{#if: {{{histregion|}}} | 
 
 Geobox2 list{{#if:{{{histregion_fold|}}}|_fold}} | Geobox 0}}
-|{{#if: {{{histregion1|}}}| Historické regióny| Historický región}} | {{{histregion_type|}}} | {{#if: {{{histregion1|}}}| Historické regióny| Historický región}}, v ktorých objekt leží | {{{histregion_label|}}} 
+|{{#if: {{{histregion1|}}}| Історічны реґіоны| Історічный реґіон}} | {{{histregion_type|}}} | {{#if: {{{histregion1|}}}| Історічны реґіоны| Історічный реґіон}}, v ktorých objekt leží | {{{histregion_label|}}} 
 |{{{histregion|}}}|{{{histregion_note|}}}|{{{histregion1|}}}|{{{histregion1_note|}}}|{{{histregion2|}}}|{{{histregion2_note|}}}|{{{histregion3|}}}|{{{histregion3_note|}}}|{{{histregion4|}}}|{{{histregion4_note|}}}|{{{histregion5|}}}|{{{histregion5_note|}}}|{{{histregion6|}}}|{{{histregion6_note|}}}|{{{histregion7|}}}|{{{histregion7_note|}}}|{{{histregion8|}}}|{{{histregion8_note|}}}|{{{histregion9|}}}|{{{histregion9_note|}}}|{{{histregion10|}}}|{{{histregion10_note|}}}|{{{histregion11|}}}|{{{histregion11_note|}}}|{{{histregion12|}}}|{{{histregion12_note|}}}|{{{histregion13|}}}|{{{histregion13_note|}}}|{{{histregion14|}}}|{{{histregion14_note|}}}|{{{histregion15|}}}|{{{histregion15_note|}}}|
 }}
 
@@ -215,7 +215,7 @@ Geobox2 location | Geobox 0}}
 }} {{ {{#if: {{{elevation|}}}{{{elevation_imperial|}}} |
 
 Geobox2 unit | Geobox 0}} | sub = {{#if:{{{location|}}}|1|}}
-| {{#if:{{{location|}}}|výška|Nadmorská výška}} | | Nadmorská výška | 
+| {{#if:{{{location|}}}|výška|Надморьска вышка}} | | Надморьска вышка | 
 |height|mnm| | {{{elevation_unit|}}} | {{{elevation|}}} | {{{elevation_imperial|}}} | {{{elevation_round|0}}} | {{{elevation_note|}}} |
 }} {{ {{#if: {{{prominence|}}}{{{prominence_imperial|}}} | 
 
@@ -225,7 +225,7 @@ Geobox2 unit | Geobox 0}} | sub = {{#if:{{{location|}}}|1|}}
 }} {{ {{#if: {{{lat_d|}}} | 
 
 Geobox2 coor | Geobox 0}} | sub = {{#if:{{{location|}}}|1|}}
-| {{#if:{{{location|}}}|súradnice|Súradnice}} | | Geografické súradnice |
+| {{#if:{{{location|}}}|súradnice|Коордінаты}} | | Ґеоґрафічны коордінаты |
 |{{{lat_d|}}}|{{{lat_m|}}}|{{{lat_s|}}}|{{{lat_NS|}}}|{{{long_d|}}}|{{{long_m|}}}|{{{long_s|}}}|{{{long_EW|}}}|google={{{coordinates_type|type:landmark}}} | názov={{#if:{{{coordinates_no_title|}}}||}}|format={{{coordinates_format|}}}|{{{coordinates_note|}}}|
 }} }} {{#if: {{{capital|}}}{{{capital_name|}}}{{{capital_location|}}}{{{capital_elevation|}}}{{{capital_elevation_imperial|}}}{{{capital_lat_d|}}} |
 {{ {{#if: {{{capital|}}}{{{capital_name|}}}{{{capital_location|}}}{{{capital_elevation|}}}{{{capital_elevation_imperial|}}}{{{capital_lat_d|}}} |
