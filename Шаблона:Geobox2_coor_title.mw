@@ -1,0 +1,5 @@
+<includeonly>{{#if:{{{3|}}}
+|{{ {{#if:{{{3|}}}|coord|Geobox 0}} | {{{1|0}}}|{{{2|0}}}|{{{3|0}}}|{{{4|S}}}|{{{5|0}}}|{{{6|0}}}|{{{7|0}}}|{{{8|V}}}|{{{google|type:other}}}|{{#if:{{{format|}}}|format={{{format|}}}|format=dms}}|display=title}} | {{#if:{{{2|}}}
+|{{ {{#if:{{{2|}}}|coord|Geobox 0}} | {{{1|0}}}|{{{2|0}}}|{{{4|S}}}|{{{5|0}}}|{{{6|0}}}|{{{8|V}}}|{{{google|type:other}}}|{{#if:{{{format|}}}|format={{{format|}}}|format=dms}}|display=title}}| {{#if:{{{4|}}} 
+|{{ {{#if:{{{4|}}}|coord|Geobox 0}} | {{{1|0}}}|{{{4|S}}}|{{{5|0}}}|{{{8|V}}}|{{{google|type:other}}}|{{#if:{{{format|}}}|format={{{format|}}}|format=dec}}|display=title }} 
+|{{ {{#if:{{{1|}}}|coord|Geobox 0}} | {{{1|0}}}|{{{5|0}}}|{{{google|type:other}}}|{{#if:{{{format|}}}|format={{{format|}}}|format=dec}}|display=title}} }} }} }}</includeonly><noinclude>[[Катеґорія:Geobox|coor title]]</noinclude>
