@@ -1,0 +1,22 @@
+{{Navbox
+|navbar = {{#if:{{{name|}}}||plain}}
+|name   = {{{name|}}}
+|title  = {{{назва}}}
+| color = #ccccff
+| groupstyle = background-color: LightGray
+| evenstyle  = background:#eee;
+| liststyle = text-align: center;
+| groupstyle = text-align:center;
+|image  = [[Файл:{{{прапор|}}}|50px|border|]]
+
+|above  = {{#if:{{{центр|}}}|<small>Адміністративный центр: </small>&nbsp;'''[[{{{центр}}}]]'''}}
+
+|group1 = [[Районы Україны|Районы]]
+|list1  = {{{районы<includeonly>|</includeonly>}}}
+
+|group2 = Міста&nbsp;областного&nbsp;значеня
+|list2  = {{{міста<includeonly>|</includeonly>}}}
+
+|below  = {{{примітки|}}}
+}}<noinclude>
+</noinclude>
