@@ -1,0 +1,1026 @@
+{{redirect|WP:TX|the WikiProject on the American state of Texas|Wikipedia:WikiProject Texas}}
+{{documentation subpage}}
+{{style-guideline|WP:TX|WP:Таксобокс}}
+{{esoteric}}
+
+This template sets up a {{tl|Таксобокс}}, a table setting out the [[Biological classification]] ([[taxonomy]]) for a group of living things with a choice of over 135 parameters.  Although the implementation is complicated, it is relatively simple to use.  For an example in practice, look at the edit page of [[killer whale]]&nbsp;– [{{fullurl:Killer whale|action=edit}}].  Most parameters are optional, so if a particular entry is not relevant for your case, just leave it out.
+
+This guide has come out of [[Wikipedia:WikiProject Tree of life|WikiProject Tree of life]].
+
+=== Usage ===
+
+<pre>
+{{Таксобокс
+| name =
+| image =
+| image_width =
+| image_alt =
+| image_caption =
+| image2 =
+| image2_width =
+| image2_alt =
+| image2_caption =
+| regnum = [[Plant]]ae (or...)
+| divisio =
+| classis =
+| ordo    =
+| familia =
+| genus   =
+| species =
+| binomial =
+| binomial_authority =
+| range_map = <!--optional map,
+  - also range_map2, 3 or 4 -->
+| range_map_width =
+| range_map_alt =
+| range_map_caption =
+| <!--or 115 other parameters-->
+}}
+</pre>
+Colors are automatically assigned based on the table below.
+
+{{Таксобокс colour scheme}}
+
+=== Quick start and examples ===
+
+==== Plant species ====
+
+{{Таксобокс
+| name = ''Magnolia virginiana''
+| image = Sweetbay1082.jpg
+| image_alt = White flower surrounded by long green leaves.
+| image_caption = ''Magnolia virginiana''
+| regnum = [[Plant]]ae
+| unranked_divisio = [[Angiosperm]]s
+| unranked_classis = [[Magnoliid]]s
+| ordo = [[Magnoliales]]
+| familia = [[Magnoliaceae]]
+| genus = ''[[Magnolia]]''
+| species = '''''M. virginiana'''''
+| binomial = ''Magnolia virginiana''
+| binomial_authority = [[Carl Linnaeus|L.]]
+}}
+
+<pre>
+{{Таксобокс 
+| name =
+| image = 
+| image_alt = 
+| image_caption = 
+| regnum = [[Plant]]ae
+| divisio = 
+| classis = 
+| ordo = 
+| familia = 
+| genus = 
+| species = 
+| binomial = 
+| binomial_authority = 
+}}
+</pre>
+
+<br style="clear:both"/>
+
+==== Animal species ====
+
+{{Таксобокс
+| name = Asian Golden Cat
+| image = Catopuma temminckii.jpg
+| image_alt = Orange cat sitting with head up and eyes almost closed.
+| image_size = 250px
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Carnivora]]
+| familia = [[Felidae]]
+| genus = ''[[Catopuma]]''
+| species = '''''C. temminckii'''''
+| binomial = ''Catopuma temminckii''
+| binomial_authority = ([[Nicholas Aylward Vigors|Vigors]] & [[Thomas Horsfield|Horsfield]], 1827)
+}}
+
+<pre>
+{{Таксобокс 
+| name =
+| image = 
+| image_alt = 
+| image_caption = 
+| regnum = [[Animal]]ia
+| phylum = 
+| classis = 
+| ordo = 
+| familia = 
+| genus = 
+| species = 
+| binomial = 
+| binomial_authority = 
+}}
+</pre>
+
+<br style="clear:both"/>
+
+==== Plant higher taxon ====
+
+{{Таксобокс
+| name = Oaks
+| image = Quercus robur.jpg
+| image_alt = Cluster of oak leaves and acorns.
+| image_caption = Foliage and acorns of the [[Pedunculate Oak]], ''Quercus robur''
+| regnum = [[Plant]]ae
+| unranked_divisio = [[Angiosperms]]
+| unranked_classis = [[Eudicots]]
+| unranked_ordo = [[Rosids]]
+| ordo = [[Fagales]]
+| familia = [[Fagaceae]]
+| genus = '''''Quercus'''''
+| genus_authority = [[Carl Linnaeus|L.]]
+| subdivision_ranks = [[Species]]
+| subdivision = 
+See [[List of Quercus species|List of ''Quercus'' species]].
+}}
+
+<pre>
+{{Таксобокс 
+| image = 
+| image_alt = 
+| image_caption = 
+| regnum = [[Plant]]ae
+| divisio = 
+| classis = 
+| ordo = 
+| familia = 
+| genus = 
+| genus_authority =
+| subdivision_ranks = 
+| subdivision = 
+}}
+</pre>
+
+<br style="clear:both"/>
+
+==== Animal higher taxon ====
+
+{{Таксобокс
+| name = Rorquals
+| image = Humpback_Whale_underwater_shot.jpg
+| image_alt = Underwater humpback whale diving, with front flipper extended.
+| image_caption = [[Humpback Whale]], ''Megaptera novaeangliae''
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Cetacea]]
+| subordo = [[Mysticeti]]
+| familia = '''Balaenopteridae'''
+| familia_authority = [[John Edward Gray|Gray]], 1864
+| subdivision_ranks = Genera
+| subdivision = 
+''[[Balaenoptera]]''<br>
+''[[Megaptera]]''
+}}
+
+<pre>
+{{Таксобокс 
+| regnum = [[Animal]]ia
+| phylum = 
+| classis = 
+| ordo = 
+| familia = 
+| genus = 
+| genus_authority =
+| subdivision_ranks = 
+| subdivision = 
+}}
+</pre>
+
+<br style="clear:both"/>
+
+=== Parameters ===
+
+==== Name ====
+
+For plants, see [[Wikipedia:Naming conventions (flora)]].
+
+For all other living things, the name should be the most common [[vernacular name]] when one is in widespread use, and a scientific name otherwise.
+* Common names of higher taxa are always given in sentence case and in the plural (e.g. [[Marine hatchetfish]]es).
+* Common names of species and subspecies are sometimes given in title case (e.g. [[White Wagtail]]), and sometimes in sentence case (e.g. [[Colorado potato beetle]]).
+
+==== Color ====
+
+The ''color'' is automatically assigned based on the entry for {{para|regnum}}, {{para|virus_group}}. {{para|unranked_phylum}} or {{para|phylum}}, in that order; there is no need to specify it manually. If you do, be sure to use rgb or hsl format; see examples below.
+
+{{Таксобокс colour scheme}}
+
+The [[eukaryote]] box uses the color "rgb(224, 208, 176)", but since it is split completely into kingdoms other eukaryote groups should not.
+
+==== Classification ====
+
+As noted above, the classification section includes some or all of the following:
+
+<pre>
+| regnum =
+| phylum =
+| classis =
+| ordo =
+| familia =
+| genus =
+| species =
+</pre>
+
+Each entry corresponds to a containing group, except for the last, which should be the group under consideration. Note the entries use the ''Latin'' names for the ranks, to make porting between Wikipedias easier. Thus the above correspond to the kingdom, phylum, class, order, family, genus, and species.
+
+{{Таксобокс |
+| name = Red wood ant
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Hymenoptera]]
+| familia = [[Formicidae]]
+| subfamilia = [[Formicinae]]
+| tribus = [[Formicini]]
+| genus = ''[[Formica]]''
+| species = '''''F. rufa'''''
+| binomial = ''Formica rufa''
+| binomial_authority = [[Carl Linnaeus|Linnaeus]], 1761
+}}
+
+Таксобоксes should include all major ranks above the taxon described in the article, plus minor ranks that are important to understanding the classification of the taxon described in the article, or which are discussed in the article. Other minor ranks should be omitted.
+
+For example, in the Таксобокс for the genus ''[[Formica]]'', it's appropriate to include entries for tribe and subfamily, since those are an aid to understanding how ''Formica'' relates to other genera in the family [[Formicidae]]. But it wouldn't be appropriate to include the superorder [[Endopterygota]], since all genera of ants are in that superorder; it isn't particularly interesting at this level.
+
+Another example is the subfamily [[Bambusoideae]], the bamboos. This subfamily probably should be mentioned in the Таксобокс of every bamboo species, since it is a major grouping in this context, despite its minor rank.
+
+Minor ranks are included in the same way as major ranks, for example:
+
+<pre>
+| classis = ...
+| subclassis = ...
+| superordo = ...
+| ordo = ...
+</pre>
+
+Note that species and subspecies should be given using the abbreviated forms of their name — e.g. ''H. sapiens'', ''H. s. sapiens''.  The epithets should not be given by themselves. The full form of the species or subspecies name is given in the binomial or trinomial section.
+
+See [[#All parameters]] for a complete list.
+
+===== Classification status =====
+With the {{para|classification_status}} parameter, it is possible to introduce extra text within parentheses after "Scientific classification". For example, <pre>|classification_status=disputed</pre> will produce "[[Biological classification|Scientific classification]] (disputed)". See ''[[Veratalpa]]'' for a current example where this parameter is used. This parameter should only be used when the "Scientific classification" text would be misleading without it.
+
+===== Divisions and sections =====
+
+These ranks have different meanings in zoology and botany. 
+
+In botany:
+* Use '''divisio''' for division (a rank above class and below kingdom)
+* Use '''sectio''' for section (a rank above species and below genus)
+
+Note: Certain very large genera, e.g. Rhododendron include subsections
+
+In zoology:
+* Use '''zoodivisio''' for division (a rank above family and below order)
+* Use '''zoosectio''' for section (a rank above family and below order)
+
+===== Unranked taxa =====
+
+For each major taxon from family to phylum, you can add an unranked entry to the Таксобокс. The entry <tt>unranked_X</tt> appears above rank X, for example <tt>unranked_superfamilia</tt> appears above family and superfamily and below order, suborder, infraorder, etc:
+
+<pre>
+| ordo = 
+| unranked_superfamilia = 
+| familia = 
+</pre>
+
+Use unranked taxa sparingly. The need to include unranked taxa generally indicates that you are following [[phylogenetic nomenclature]]. It is usually better to abbreviate the classification to the major ranks and then discuss the classification in more detail in the article.
+
+===== Viruses =====
+
+Viruses follow a slightly different system.  They are not placed in taxa above the rank of order, and instead are treated in seven groups based on the type of nucleic acid they contain, referred to by the Roman numerals I to VII.  These can be included in the Таксобокс using the ''virus_group'' argument.  This also changes the link from [[Biological classification|scientific]] to [[virus classification]], so it should not appear on boxes for non-viruses, even if it is left blank.
+
+<pre>
+| virus_group = IV
+</pre>
+
+==== Bold/italic markup ====
+
+Italicization must be done manually in all parameters.  If the entry for genus or species (with manually added italics) matches the page title,<ref group=note>If the page is called, for example, "Homo (genus)", then the Таксобокс will display "''Homo''" and the page title "''Homo'' (genus)".</ref> then the name of the Таксобокс ''and'' the title of the page will be italicized.  Note that the {{para|name}} parameter is used, the page title will not be italicized, and the Таксобокс's name will be set to exactly what is specified in {{para|name}}&nbsp;&ndash; italics must be specified manually in this case.
+
+Genus, species, and subspecies should be italicized whenever used, as is the biological standard.  For instance, we talk about the genus ''Homo'', the species ''Homo sapiens'', and the subspecies ''Homo sapiens sapiens''.
+* In botany, it is important to include the rank for taxa below species.  The rank is not italicized, e.g. ''Genus species'' subsp. ''subspecies'' var. ''variety''.
+* Some bacteria that have been characterized but not formally named are given ''[[Candidatus]]'' names.  These should be written in the form ''[[Candidatus]]'' Genus species, rather than italicized normally.
+Higher taxa like families may or may not be italicized in different publications.  The prevalent standard for Wikipedia is not to italicize them, except in the case of [[virus]]es and other infectious particles.
+
+Bolding is used to indicate the subject of the article.  The ''name'', ''binomial'', and ''trinomial'' arguments bold automatically.  In the placement section&nbsp;– ''regnum'' through ''species''&nbsp;– the final taxon should be bolded, as well as any higher groups that only include the final taxon.  See [[green sulfur bacteria]] for an example.
+
+==== Subdivisions ====
+
+{{Таксобокс
+| name = Nettle
+| regnum = [[Plant]]ae
+| unranked_divisio = [[Angiosperm]]s
+| unranked_classis = [[Eudicots]]
+| unranked_ordo = [[Rosids]]
+| ordo = [[Rosales]]
+| familia = [[Urticaceae]]
+| genus = '''''Urtica'''''
+| genus_authority = [[Carolus Linnaeus|L.]]
+| subdivision_ranks = Species
+| subdivision = {{div col}}
+*''U. angustifolia''
+*''U. ardens''
+*''U. atrichocaulis''
+*''U. atrovirens''
+*''U. cannabina''
+*''U.&nbsp;chamaedryoides''
+*''[[Urtica dioica|U. dioica]]''
+*''U. dubia''
+*''[[Urtica ferox|U. ferox]]''
+*''U. fissa''
+*''[[Urtica dioica galeopsifolia|U. galeopsifolia]]''
+*''U. gracilenta''
+*''U. hyperborea''
+*''[[Urtica incisa| U. incisa]]'' 
+*''U. kioviensis''
+*''U. laetivirens'' 
+*''U. linearifolia''
+*''U. mairei''
+*''U.&nbsp;membranacea''
+*''U. morifolia''
+*''U. parviflora''
+*''U. pilulifera'' 
+*''U. platyphylla''
+*''U. pubescens''
+*''U. rupestris''
+*''U. sondenii''
+*''U. taiwaniana''
+*''[[Urtica thunbergiana|U. thunbergiana]]''
+*''U. triangularisa''
+*''[[Urtica urens|U. urens]]''
+{{div col end}}
+}}
+Groups above the rank of species (and even species if there are several notable subspecies) should usually include a list of subgroups.  Use the ''subdivision'' argument for the list, separating elements by &lt;br&gt; tags, and the ''subdivision_ranks'' argument to say what rank the subgroups have.  For instance, for families in an order:
+
+<pre>
+| subdivision_ranks = Families
+| subdivision =
+[[Family1]]<br>
+[[Family2]]<br>
+[[Family3]]
+</pre>
+
+The templates [[Template:Species list]] and [[Template:Taxon list]] (and their variants) can help to generate these lists.
+
+For lists with more than a few subgroups, the list can be bracketed with {{t1|div col}} and {{t1|div col end}}, which will split the list into two columns (''see '''Nettle''' example at right'').  In cases where a list would make the Таксобокс too long, or where the classification is too variable to allow a brief summary, the list should be replaced with a comment like "See text" or the subdivision section should be omitted. As a [[rule of thumb]], when there are more than 100 subgroups the list should be in a separate article.
+
+In cases where the classification is variable, a description like "Typical orders" or "Notable orders" may be used.
+
+In cases where the ranks are uncertain, a description like "Subgroups" or "Taxa" may be preferable.
+Sometimes it is convenient to represent more than one level of classification in the list.  In that case the lower level groups are moved over to the right by prefixing them with &amp;nbsp; characters&nbsp;– usually three for the first level of indentation, and then one to three more for each subsequent level.  Major grades may also be represented by bolded headers, as on [[plant]] and [[heterokont]].  Remember, though, these should mainly be done when the intermediate rank subgroups are not worthy of separate articles; Таксобоксes are too small to include too much duplicate information.
+
+==== Conservation status ====
+{{Main|Wikipedia:Conservation status}}
+
+[[Conservation status]] may optionally be included; you can search the [[International Union for Conservation of Nature|IUCN]]'s [http://www.iucnredlist.org/ database of threatened species] to find the conservation status of many organisms.  It is included via the ''status'' argument, which takes a code or template. It is not appropriate for prehistoric organisms&nbsp;– the <code>fossil_range</code> parameter may be a more sensible option.
+
+ <tt>| status = ''code''</tt>
+
+or
+
+ <tt>| status = EX</tt>
+ <tt>| extinct = ''year''</tt>
+
+Use the first syntax (with one of the codes below) except for extinct animals when you wish to show the year of extinction. The ''code'' may be all upper or lower case, but the cases used in the table are preferred.
+
+The following status codes are available (the third column shows the corresponding template, but this is obsolete and the code is preferred):
+
+{| class="wikitable"
+|- bgcolor="lightsteelblue" align=left
+! Status (as shown in Таксобокс) || Code || Category
+|-
+| Secure || secure <sup>1</sup> 
+|-
+| Domesticated || DOM <sup>1</sup> || Domesticated animals
+|-
+| Least Concern (LC) || LC 
+|-
+| Least Concern (LR/lc) || LR/lc 
+|-
+|[[Near Threatened]] (NT) || NT 
+|-
+|[[Near Threatened]] (LC/nt) || LR/nt
+|-
+|[[Conservation Dependent]] (LR/cd) || LR/cd 
+|-
+|[[Vulnerable species|Vulnerable]] (VU) || VU 
+|-
+|[[Endangered species|Endangered]] (EN) || EN || Endangered species
+|-
+| [[Critically Endangered]] || CR || Critically endangered species
+|-
+| [[Critically Endangered]] (CR), possibly extinct || PE || Critically endangered species
+|-
+| Extinct&nbsp;in&nbsp;the&nbsp;wild (EW) || EW || Species extinct in the wild
+|-
+| Extinct || EX
+|-
+| Data deficient (DD) || DD 
+|-
+| ''Not evaluated'' (NE) || NE
+|-
+| Fossil || fossil <sup>1,2</sup> 
+|-
+| Prehistoric || pre <sup>1</sup>
+|-
+| See text || See text <sup>1</sup> 
+|-
+| Lower Risk || </s>LR</s><sup>3</sup> || Invalid conservation status
+|}
+
+;Notes:
+:# Not a valid IUCN Red List category.
+:# <tt>| status = fossil</tt> is deprecated in favour of <tt>| fossil_range =</tt> ''start''<tt>-</tt>''end'' (see the [[#Fossil range]] section below).
+:# Use LR/lc or LR/nt or LR/cd instead
+
+===== Referencing conservation status =====
+
+To add a reference for the status, use
+
+ <tt><nowiki>| status_ref = <ref>{{IUCN2008 | ...}}</ref></nowiki></tt>
+
+See {{tl|IUCN2008}}, {{tl|IUCN2007}}, {{tl|IUCN2006}}, or {{tl|IUCN}} for the arguments you need to supply to that template. And don't forget that <tt><nowiki><ref>...</ref></nowiki></tt> requires a corresponding <tt><nowiki><references/></nowiki></tt> in the References section.
+
+===== System =====
+
+The criteria used by the IUCN should also be specified: (case sensitive)
+ | status_system = iucn2.3
+or
+ | status_system = iucn3.1
+
+This is used to choose which conservation status graphic to use, as iucn v2.3 had an extra category. Failure to use this parameter will result in no graphic appearing.
+
+Other systems are listed at [[Wikipedia:Conservation status]].
+
+==== Fossil range ====
+
+The stratigraphic range for groups known as fossils may also be included, using the ''fossil_range'' argument.  For instance, for a group known from the [[Cambrian]] to the [[Permian]]:
+
+<pre>
+| fossil_range = [[Cambrian]]–[[Permian]]
+</pre>
+
+You may wish to add a diagrammatic representation of the fossil range (see [[Chitinozoan]] for a working example), which can be done using the {{tl|Fossil range}} template, for example:
+
+<pre>
+| fossil_range = {{fossil range|542|250}} [[Cambrian]]–[[Permian]]
+or
+| fossil_range = {{fossil range|Cambrian|Permian}}
+</pre>
+
+For groups that still exist, the second period should be given as "Recent" or as "Holocene" for Late Quaternary extinctions such as the [[Moa]], and the current status should be indicated using the ''status'' argument.  For groups that only existed during a single period, simply list it without giving a range: e.g. 
+
+<pre>
+| fossil_range = {{fossil range|Silurian}}
+</pre>
+
+==== Images ====
+
+An image can be included using the argument ''image''. It is highly recommended that an image be provided if one is available. Do ''not'' include the "File:" part of the image file name!
+
+If an image is included, [[alt text]] should be provided using ''image_alt''. Alt text should not repeat the caption; instead, it should describe the image to someone who can't see it (see [[WP:ALT]]).
+
+A caption can be provided using ''image_caption''. A caption need not be provided if it would just repeat the title of the article. It should be provided if it can convey any additional information about the image, such as the sex or life stage of the individual, the location where the picture was taken, the artist (if an engraving or other illustration), or (for higher taxa) the particular species depicted.
+
+<pre><nowiki>
+| image = Sweetbay1082.jpg
+| image_alt = White flower surrounded by long green leaves
+| image_caption = ''Magnolia virginiana''
+</nowiki></pre>
+
+By default, the image width is determined by users' default thumb size preferences. In general, it is recommended that these preferences be honoured. In some cases, however, it may be desirable to overrule the default size; this can be achieved by use of the ''image_width'' parameter. Note that the [[Wikipedia:Manual of Style#Images|Manual of Style]] recommends that if the default thumb size of a lead image is to be overruled, it should be made at least 300px wide, so that users whose default thumb size is 300px do not end up with a lead image smaller than the other images in the article.
+
+<pre><nowiki>
+| image = Sweetbay1082.jpg
+| image_alt = White flower surrounded by long green leaves
+| image_caption = ''Magnolia virginiana''
+| image_width = 320px
+</nowiki></pre>
+
+A second image may be added by use of the ''image2'', ''image2_alt'', ''image2_caption'' and ''image2_width'' arguments. Use this sparingly, and only when the article is long enough, ''and'' it makes sense to include the second image here and not later in the article. [[Camel]] is a good example (a genus with two well-known representatives).
+
+==== Authorities ====
+
+Generally, an authority should be given only for the taxa covered by the article. Higher groups which only include the article subject should also list authorities unless those are the same as for the taxa in question. In the case of species (or subspecies) the authority may be given in the ''binomial'' (or ''trinomial'') section.  Otherwise authorities may be listed in the placement section.  For instance, for an order:
+
+<pre>
+| ordo = 
+| ordo_authority = 
+</pre>
+
+The following examples illustrate the different conventions for names, dates, and punctuations in the different kingdoms.
+* Animalia
+** Original name valid: '''''Homo sapiens''''' <small>[[Carl Linnaeus|Linnaeus]], 1758</small>
+** Organism reclassified: '''''Panthera leo''''' <small>([[Carl Linnaeus|Linnaeus]], 1758)</small> (originally ''Felis leo'')
+* Plantae
+** Original name valid: '''''Magnolia virginiana''''' <small>[[Carl Linnaeus|L.]]</small>
+** Organism reclassified: '''''Anacamptis pyramidalis''''' <small>([[Carl Linnaeus|L.]]) [[Louis Claude Richard|Rich.]]</small> (originally ''Orchis pyramidalis'')
+* Bacteria
+** Original name valid: '''''Vibrio cholerae''''' <small>[[Robert Koch|R. Koch]] 1883</small>
+** Organism reclassified: '''''Streptococcus pneumoniae''''' <small>(Klein 1884) Chester 1901</small> (originally ''Micrococcus pneumoniae'')
+** Old name revived: '''''Salmonella enterica''''' <small>(ex Kauffmann & Edwards 1952) Le Minor & Popoff 1987</small>
+
+Authorities in scientific names are also abbreviated according to different standards for plants and animals.  To decipher standard abbreviations, see
+* [[List of botanists by author abbreviation]] or consult the [http://www.ipni.org/ International Plant Names Index].
+* [[List of zoologists by author abbreviation]]
+For more information refer to the article on [[binomial nomenclature]].
+
+==== Diversity ====
+
+In higher taxa, and taxa where the subdivision option does not indicate number of species, the ''diversity'' argument may be used.  This needs to be accompanied by ''diversity_link'' which links to an appropriate page, usually a ''List of ... species'' page.  See, for example, ''[[Banksia]]'': the subdivision lists only two subgenera, so the ''diversity'' option is used to specify the number of species.
+
+<pre>
+| diversity_link = List of Quercus species
+| diversity = c. 120 species
+</pre>
+
+It is ''not'' a good idea to be too precise about the number of species. New species are still being regularly described in many groups. Moreover, changing systematic treatment is liable to alter the species number even in well-known genera. Rounding off the species number and denoting this as approximate value will help decreasing maintenance.
+
+==== Range maps ====
+
+A range map may be included at the end of the Таксобокс.  This uses the ''range_map'', ''range_map_width'', ''range_map_alt'', and ''range_map_caption'' arguments, in the same manner as an image.  See [[leopard]] (land animal), [[Northern Flicker]] (non-migratory bird), [[Lesser Spotted Eagle]] (migratory bird) and [[orca]] (water animal) for examples.
+
+<pre><nowiki>
+| range_map = Map.jpg
+| range_map_width = 240px
+| range_map_alt = Map showing ...
+| range_map_caption = Range of ...
+</nowiki></pre>
+
+You can generate maps using an appropriate blank map such as [[:Image:BlankMap-World-noborders.png]]. Do not make the distribution map too large (a width of 300 to 400 should be sufficient, the purpose of the map being a rough global overview; more detailed maps can always go to the article body) and add the map to [[:Category:Habitat maps]], or, preferably, if you upload the map to Commons, to [[:commons:Category:Animal distribution maps]].
+
+==== Synonyms ====
+
+Where a species has synonyms, the ''synonyms'' argument may be used.  This should be a list of synonyms separated by &lt;br/&gt; tags.
+
+<pre><nowiki>
+| synonyms = 
+''species1'' <small>Authority1</small><br/>
+''species2'' <small>Authority2</small>
+</nowiki></pre>
+
+If the synonyms are too long to fit in a single line, you may also use a bulleted list:
+
+<pre><nowiki>
+| synonyms = 
+*''species1''<br/><small>Authority1</small>
+*''species2''<br/><small>Authority2</small>
+</nowiki></pre>
+
+The first format is preferred for clarity.
+
+: Please note: style element <nowiki><small></nowiki> is not recommended in [[Wikipedia:WikiProject Check Wikipedia#HTML_text_style_element_.3Csmall.3E]], see discussion [[Wikipedia talk:WikiProject Check Wikipedia#Small style element]].
+
+[http://uio.mbl.edu/NomenclatorZoologicus/ Nomenclator Zoologicus] has data for all but the most recently established animal [[genera]]. This may be hard to understand for non-specialists, but it is a comprehensive source for the authorship of genus names, both valid ones and junior synonyms. Sometimes one will note that a new name has been established because the older, original name was "preoccupied". This means it has already been established for another [[taxon]] of the same [[Linnaean taxonomy|rank]] in the same [[kingdom (biology)|kingdom]] before&nbsp;– even if that name is now a synonym too. Taxa that preoccupy a name can be linked in the Synonyms section, such as ''Stenorhynchus'' [[Trembler|here]].
+
+Use {{para|synonyms_ref}} to give references for the synonym list (for example: <code><nowiki>|synonyms_ref=<ref>Smith and Jones, 2009, p.&nbsp;5</ref></nowiki></code>).
+
+==== Type species ====
+
+When the [[type species]] of a genus (or larger grouping) is known, the ''type_species'' and ''type_species_authority'' can be used. For animal entries, the type species should be the original binomial name of the type species, but linked to its current article, and the authority should be plain (no parenthesis). See ''[[Giant mouse lemur|Mirza]]'' for a type species example.
+
+<pre><nowiki>
+| type_species = 
+| type_species_authority = 
+</nowiki></pre>
+
+This follows [[International Commission on Zoological Nomenclature|ICZN]] Recommendation 67B; be aware that this means the taxon used by the genus' original author&nbsp;– even if it is now invalid, e.g. a [[junior synonym]]. Ideally, it should only be used if the genus' original description can be verified first-hand. As per the following example given by the ICZN:
+
+<blockquote>''Astacus marinus'' Fabricius, 1775, one of the nominal species originally included in the decapod crustacean genus ''Homarus'' Weber, 1795, was subsequently designated by Fowler (1912) as the type species of ''Homarus''. The type species is, and should be cited as, ''Astacus marinus'' Fabricius, 1775. ''Astacus marinus'' Fabricius is currently synonymized with ''Cancer gammarus'' Linnaeus, 1758, but the latter is not the type species of ''Homarus'' and should not be cited as such. If mention of the type species is required it should be made in some such manner as "Type species ''Astacus marinus'' Fabricius, 1775, a junior synonym of ''Cancer gammarus'' Linnaeus, 1758"; or "Type species ''Astacus marinus'' Fabricius, 1775, now regarded as a synonym of ''Homarus gammarus'' (Linnaeus, 1758)".</blockquote>
+
+If you do not completely understand what this all means, please ''do not use this parameter''. Instead, if possible denote the type species in the species listing, for example with a
+
+<pre><nowiki><small>([[type species]])</small></nowiki></pre>
+
+after the species' (currently valid) name.
+
+=== Italic page titles ===
+
+If the value of {{para|genus}}, {{para|species}}, or {{para|binomial}} exactly matches the title of the page, '''and''' {{para|name}} is unspecified, the Таксобокс '''and''' page title will be italicized automatically.<ref group=note>See note 1; the title of the page will be italicized using the <nowiki>{{DISPLAYTITLE}}</nowiki> [[mw:Help:Magic words|magic word]]. When the page name contains the disambiguator "(alga)" or "(genus)", this disambiguator will not be italicized (e.g., [[Ia (genus)|''Ia'' (genus)]]).</ref>  If necessary, it is also possible to force the page title to display in italics using the {{tl|Italic title}} template.
+
+If the {{para|name}} parameter is present, then the Таксобокс will display whatever is in {{para|name}}; the page title will NOT be italicized unless {{tl|italic title}} is used.
+
+=== Complete blank template ===
+
+This section gives all parameters in the order that they will appear in the Таксобокс. No Таксобокс should use all of these. Keep it short!
+
+{{Таксобокс
+| color = {{Таксобокс colour|[[Animal]]ia}}
+| name = name
+| status = EN
+| status_system = iucn3.1
+| status_ref = <ref>iucn reference goes here</ref>
+| fossil_range = {{fossil range|100|0}}fossil_range
+| image = Panthera tigris tigris.jpg
+| image_width = 200px
+| image_alt = image_alt
+| image_caption = image_caption
+| image2 = Singapore Zoo Tigers.jpg 
+| image2_width = 200px
+| image2_alt = image2_alt
+| image2_caption = image2_caption
+| classification_status = status of classification
+| virus_group = virus_group
+| superdomain = superdomain
+| unranked_superdomain = unranked_superdomain
+| unranked_superdomain_authority = unranked_superdomain_authority
+| domain = domain
+| domain_authority = domain_authority
+| superregnum = superregnum
+| superregnum_authority = superregnum_authority
+| regnum = regnum
+| regnum_authority = regnum_authority
+| unranked_regnum = unranked_regnum
+| unranked_regnum_authority = unranked_regnum_authority
+| subregnum = subregnum
+| subregnum_authority = subregnum_authority
+| infraregnum = infraregnum
+| infraregnum authority = infraregnum authority
+| unranked_phylum = unranked_phylum
+| unranked_phylum_authority = unranked_phylum_authority
+| superdivisio = superdivisio
+| superdivisio_authority = superdivisio_authority
+| superphylum = superphylum
+| superphylum_authority = superphylum_authority
+| divisio = divisio
+| divisio_authority = divisio_authority
+| phylum = phylum
+| phylum_authority = phylum_authority
+| subdivisio = subdivisio
+| subdivisio_authority = subdivisio_authority
+| subphylum = subphylum
+| subphylum_authority = subphylum_authority
+| infraphylum = infraphylum
+| infraphylum_authority = infraphylum_authority
+| microphylum = microphylum
+| microphylum_authority = microphylum_authority
+| nanophylum = nanophylum
+| nanophylum_authority = nanophylum_authority
+| unranked_classis = unranked_classis
+| unranked_classis_authority = unranked_classis_authority
+| superclassis = superclassis
+| superclassis_authority = superclassis_authority
+| classis = classis
+| classis_authority = classis_authority
+| unranked_subclassis = unranked_subclassis
+| unranked_subclassis_authority = unranked_subclassis_authority
+| subclassis = subclassis
+| subclassis_authority = subclassis_authority
+| unranked_infraclassis = unranked_infraclassis
+| unranked_infraclassis_authority = unranked_infraclassis_authority
+| infraclassis = infraclassis
+| infraclassis_authority = infraclassis_authority
+| unranked_ordo = unranked_ordo
+| unranked_ordo_authority = unranked_ordo_authority
+| magnordo = magnordo
+| magnordo_authority = magnordo_authority
+| superordo = superordo
+| superordo_authority = superordo_authority
+| ordo = ordo
+| ordo_authority = ordo_authority
+| subordo = subordo
+| subordo_authority = subordo_authority
+| infraordo = infraordo
+| infraordo_authority = infraordo_authority
+| parvordo = parvordo
+| parvordo_authority = parvordo_authority
+| zoodivisio = zoodivisio
+| zoodivisio_authority = zoodivisio_authority
+| zoosectio = zoosectio
+| zoosectio_authority = zoosectio_authority
+| zoosubsectio = zoosubsectio
+| zoosubsectio_authority = zoosubsectio_authority
+| unranked_superfamilia = unranked_superfamilia
+| unranked_superfamilia_authority = unranked_superfamilia_authority
+| superfamilia = superfamilia
+| superfamilia_authority = superfamilia_authority
+| familia = familia
+| familia_authority = familia_authority
+| subfamilia = familia_authority
+| subfamilia_authority = subfamilia_authority
+| unranked_tribus = unranked_tribus
+| unranked_tribus_authority = unranked_tribus_authority
+| supertribus = supertribus
+| supertribus_authority = supertribus_authority
+| tribus = tribus
+| tribus_authority = tribus_authority
+| subtribus = subtribus
+| subtribus_authority = subtribus_authority
+| alliance = alliance
+| alliance_authority = alliance_authority
+| unranked_genus = unranked_genus
+| unranked_genus_authority = genus_authority
+| genus = genus
+| genus_authority = genus_authority
+| subgenus = subgenus
+| subgenus_authority = subgenus_authority
+| sectio = sectio
+| sectio_authority = sectio_authority
+| subsectio = subsectio
+| subsectio_authority = subsectio_authority
+| series = series
+| series_authority = series_authority
+| subseries = subseries
+| subseries_authority = subseries_authority
+| species_group = species_group
+| species_group_authority = species_group_authority
+| species_subgroup = species_subgroup
+| species_subgroup_authority = species_subgroup_authority
+| species_complex = species_complex
+| species_complex_authority = species_complex_authority
+| species = species
+| species_authority = species_authority
+| subspecies = subspecies
+| subspecies_authority = subspecies_authority
+| variety = variety
+| variety_authority = variety_authority
+| type_strain = type strain
+| diversity = diversity
+| diversity_link = diversity_link
+| binomial = binomial
+| binomial_authority = binomial_authority
+| trinomial = trinomial
+| trinomial_authority = trinomial_authority
+| type_species = type_species
+| type_species_authority = type_species_authority
+| subdivision = subdivision
+| subdivision_ranks = subdivision_ranks
+| range_map = Pleurodeles walti dis.png
+| range_map_width = 200px
+| range_map_alt = range_map_alt
+| range_map_caption = range_map_caption
+| binomial2 = binomial2
+| binomial2_authority = binomial2_authority
+| range_map2 = Pleurodeles walti dis.png
+| range_map2_width = 200px
+| range_map2_alt = range_map2_alt
+| range_map2_caption = range_map2_caption
+| binomial3 = binomial3
+| binomial3_authority = binomial3_authority
+| range_map3 = Pleurodeles walti dis.png
+| range_map3_width = 200px
+| range_map3_alt = range_map3_alt
+| range_map3_caption = range_map3_caption
+| binomial4 = binomial4
+| binomial4_authority = binomial4_authority
+| range_map4 = Pleurodeles walti dis.png
+| range_map4_width = 200px
+| range_map4_alt = range_map4_alt
+| range_map4_caption = range_map4_caption
+| synonyms_ref = <ref>Reference for synonyms list</ref>
+| synonyms = synonyms
+}}
+
+<pre>
+{{Таксобокс
+| color
+| name
+| status 
+| status_system
+| status_ref
+| fossil_range
+| image
+| image_width
+| image_alt
+| image_caption
+| image2
+| image2_width
+| image2_alt
+| image2_caption
+| classification_status
+| virus_group
+| superdomain
+| superdomain_authority
+| unranked_superdomain 
+| unranked_superdomain_authority
+| domain
+| domain_authority
+| unranked_regnum
+| unranked_regnum_authority
+| superregnum
+| superregnum_authority
+| regnum
+| regnum_authority
+| subregnum
+| subregnum_authority
+| unranked_phylum
+| unranked_phylum_authority
+| superdivisio
+| superdivisio_authority
+| superphylum
+| superphylum_authority
+| divisio
+| divisio_authority
+| unranked_divisio
+| unranked_divisio_authority
+| phylum
+| phylum_authority
+| subdivisio
+| subdivisio_authority
+| subphylum
+| subphylum_authority
+| infraphylum
+| infraphylum_authority
+| microphylum
+| microphylum_authority
+| nanophylum
+| nanophylum_authority
+| unranked_classis
+| unranked_classis_authority
+| superclassis
+| superclassis_authority
+| classis
+| classis_authority
+| unranked_subclassis
+| unranked_subclassis_authority
+| subclassis
+| subclassis_authority
+| unranked_infraclassis
+| unranked_infraclassis_authority
+| infraclassis
+| infraclassis_authority
+| unranked_ordo
+| unranked_ordo_authority
+| magnordo
+| magnordo_authority
+| superordo
+| superordo_authority
+| ordo
+| ordo_authority
+| subordo
+| subordo_authority
+| infraordo
+| infraordo_authority
+| parvordo
+| parvordo_authority
+| zoodivisio
+| zoodivisio_authority
+| zoosectio
+| zoosectio_authority
+| zoosubsectio
+| zoosubsectio_authority
+| unranked_superfamilia
+| unranked_superfamilia_authority
+| superfamilia
+| superfamilia_authority
+| familia
+| familia_authority
+| subfamilia
+| subfamilia_authority
+| unranked_tribus
+| unranked_tribus_authority
+| supertribus
+| supertribus_authority
+| tribus
+| tribus_authority
+| subtribus
+| subtribus_authority
+| alliance
+| alliance_authority
+| unranked_genus
+| unranked_genus_authority
+| genus
+| genus_authority
+| subgenus
+| subgenus_authority
+| sectio
+| sectio_authority
+| subsectio
+| subsectio_authority
+| series
+| series_authority
+| subseries
+| subseries_authority
+| species_group
+| species_group_authority
+| species_subgroup
+| species_subgroup_authority
+| species_complex
+| species_complex_authority
+| species
+| species_authority
+| subspecies
+| subspecies_authority
+| variety
+| variety_authority
+| diversity
+| diversity_link
+| binomial
+| binomial_authority
+| trinomial
+| trinomial_authority
+| type_species
+| type_species_authority
+| subdivision
+| subdivision_ranks
+| type_strain
+| range_map
+| range_map_width
+| range_map_alt
+| range_map_caption
+| binomial2
+| binomial2_authority
+| range_map2
+| range_map2_width
+| range_map2_alt
+| range_map2_caption
+| binomial3
+| binomial3_authority
+| range_map3
+| range_map3_width
+| range_map3_alt
+| range_map3_caption
+| binomial4
+| binomial4_authority
+| range_map4
+| range_map4_width
+| range_map4_alt
+| range_map4_caption
+| synonyms_ref
+| synonyms
+}}
+</pre>
+
+{{clear}}
+
+=== Articles lacking Таксобоксes ===
+
+For articles lacking Таксобоксes, add '''[[Template:Missing-Таксобокс]]''' to the ''talk'' page. This may be done by typing '''<nowiki>{{Missing-Таксобокс}}</nowiki>''' or '''<nowiki>{{needТаксобокс}}</nowiki>''' at the top of the ''talk'' page.
+
+=== Microformat ===
+
+{{UF-species}}
+
+=== See also ===
+
+* [[Wikipedia:How to read a Таксобокс]]
+* [[Wikipedia:Manual of Style (infoboxes)]]
+
+<div style="display: none">{{refs}}</div>
+
+== Notes ==
+{{reflist|group=note}}
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+
+[[Category:Wikipedia how-to|Таксобокс usage]]
+[[Category:Biology infobox templates|{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[ar:قالب:تصنيف كائن]]
+[[nan:Template:Таксобокс]]
+[[be-x-old:Шаблён:Таксанамічная інфармацыя]]
+[[bg:Шаблон:Таксобокс]]
+[[bn:টেমপ্লেট:Таксобокс]]
+[[bs:Šablon:Taksokvir]]
+[[ca:Plantilla:Таксобокс]]
+[[cy:Nodyn:Blwch tacson]]
+[[de:Vorlage:Таксобокс]]
+[[en:Template:Taxobox]]
+[[eo:Ŝablono:Taksonomio korektita]]
+[[es:Plantilla:Ficha de taxón]]
+[[et:Mall:Taksonitabel]]
+[[eu:Txantiloi:Taxotaula infotaula]]
+[[fa:الگو:جعبه آرایه زیستی]]
+[[fr:Modèle:Таксобокс]]
+[[ga:Teimpléad:Bosca Sonraí Tacsanomaíochta]]
+[[he:תבנית:מיון]]
+[[hi:साँचा:Таксобокс]]
+[[hr:Predložak:Taksokvir]]
+[[ka:თარგი:Таксобокс]]
+[[ko:Template:생물 분류]]
+[[ku:Şablon:Таксобокс]]
+[[ia:Patrono:Таксобокс]]
+[[it:Template:Tassobox]]
+[[hu:Sablon:Таксобокс]]
+[[mk:Шаблон:Таксономија]]
+[[nl:Sjabloon:Таксобокс]]
+[[ja:Template:生物分類表]]
+[[no:Mal:Taksoboks]]
+[[pl:Szablon:Takson infobox]]
+[[pt:Predefinição:Info/Taxonomia]]
+[[ro:Format:CutieTaxonomie]]
+[[ru:Шаблон:Таксобокс]]
+[[scn:Template:Таксобокс]]
+[[sl:Predloga:Taksonomka]]
+[[sr:Шаблон:Таксобокс]]
+[[sv:Mall:Таксобокс]]
+[[uk:Шаблон:Таксобокс]]
+[[vec:Template:Tassobox]]
+[[vi:Tiêu bản:Bảng phân loại]]
+[[th:แม่แบบ:ตารางจำแนกพันธุ์]]
+[[tr:Şablon:Taksokutu]]
+[[ur:Template:Таксобокс]]
+[[zh:Template:Таксобокс]]
+[[zh-yue:Template:物種明細模]]
+</includeonly>
+<noinclude>
+[[Category:Wikipedia Manual of Style (science)]]
+</noinclude>
