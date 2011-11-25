@@ -19,13 +19,13 @@
 }}
 }}
 |- colspan=2 style="text-align: center{{#if:{{{colour|}}}|{{;}} background-color{{COLON}} {{{colour}}} }}" 
-{{#if:{{{status|}}}|{{taxobox/species|{{{status_system|}}}|{{{status|}}}|{{{status_ref|}}}|extinct={{{extinct|}}} }} }}
-|-{{#if:{{{status2|}}}|{{taxobox/species|{{{status2_system|}}}|{{{status2|}}}|{{{status2_ref|}}}|extinct={{{extinct|}}} }} }}
+{{#if:{{{status|}}}|{{tаксобокс/species|{{{status_system|}}}|{{{status|}}}|{{{status_ref|}}}|extinct={{{extinct|}}} }} }}
+|-{{#if:{{{status2|}}}|{{tаксобокс/species|{{{status2_system|}}}|{{{status2|}}}|{{{status2_ref|}}}|extinct={{{extinct|}}} }} }}
 |-
 ! colspan=2 style="text-align: center{{#if:{{{colour|}}}|{{;}} background-color{{COLON}} {{{colour}}} }}" | {{#if:{{{virus_group|{{{virus|}}}}}}|[[Virus classification]]|{{#if:{{{ichnos|}}}|[[Trace fossil classification]]|{{#if:{{{veterovata|}}}|[[Veterovata|Eggshell classification]]|[[Biological classification|Scientific classification]]}} }} }} {{#if: {{{classification_status|}}} | ({{{classification_status}}}) | }}{{#if:{{{edit link|}}}|{{edit taxonomy|{{{parent|}}} | {{{edit link}}} }} }}
 |-
 {{#if:{{{parent|}}}|
-{{taxobox/{{#if:{{{virus|}}}|virus t|t}}axonomy|{{{parent}}}|{{{display_taxa|}}}|authority={{{authority|}}}|parent_authority={{{parent_authority|}}}|grandparent_authority={{{grandparent_authority|}}}|greatgrandparent_authority={{{greatgrandparent_authority|}}}|greatgreatgrandparent_authority={{{greatgreatgrandparent_authority|}}}|bold first={{#if:{{{species|}}}|link|bold}} }}
+{{tаксобокс/{{#if:{{{virus|}}}|virus t|t}}axonomy|{{{parent}}}|{{{display_taxa|}}}|authority={{{authority|}}}|parent_authority={{{parent_authority|}}}|grandparent_authority={{{grandparent_authority|}}}|greatgrandparent_authority={{{greatgrandparent_authority|}}}|greatgreatgrandparent_authority={{{greatgreatgrandparent_authority|}}}|bold first={{#if:{{{species|}}}|link|bold}} }}
 }}
 {{#if:{{{virus_group|}}}|{{taxonomy|rank=Group
 |link= {{#switch:{{lc:{{{virus_group}}} }}
@@ -203,7 +203,7 @@
 }}
 |- 
 {{#if:{{{diversity|}}}|
-! colspan=2 style="text-align: center{{#if:{{{colour|}}}|{{;}} background-color{{COLON}} {{{colour}}} }}" {{!}} [[{{{diversity_link}}}|Diversity]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Category:Articles using diversity taxobox]] | }}
+! colspan=2 style="text-align: center{{#if:{{{colour|}}}|{{;}} background-color{{COLON}} {{{colour}}} }}" {{!}} [[{{{diversity_link}}}|Diversity]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Category:Articles using diversity tаксобокс]] | }}
 {{!}}-
 {{!}} colspan=2 style="text-align: center" {{!}} {{{diversity|}}}
 {{!}}-
