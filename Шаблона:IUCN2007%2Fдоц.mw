@@ -1,0 +1,46 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+==About==
+Template for making references to 2007 IUCN Red List of Threatened Species. 
+
+Further comments can be added after the template.
+ 
+==Usage==
+All parameters are '''required.'''
+
+ <nowiki>{{</nowiki>IUCN2007
+ |assessors=
+ |year=
+ |id=
+ |title=
+ |downloaded=
+ <nowiki>}}</nowiki>
+
+==Example usage==
+
+ <nowiki>{{</nowiki>IUCN2007
+ |assessors=Rylands, A.B., Bampi, M.I., Chiarello, A.G., da Fonseca, G.A.B., Mendes, S.L. & Marcelino, M.
+ |year=2003
+ |id=11506
+ |title=Leontopithecus rosalia
+ |downloaded=4 May 2006<nowiki>}}</nowiki>
+
+== See also==
+*{{tl|IUCN}}
+*{{tl|IUCN2006}}
+*{{tl|IUCN2007}}
+*{{tl|IUCN2008}}
+*{{tl|IUCN2009.1}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Biology external link templates]]
+[[Category:Biology source templates]]
+
+[[es:plantilla:IUCN2007]]
+[[is:Snið:IUCN2007]]
+[[ko:틀:IUCN2007]]
+[[sl:Predloga:IUCN2007]]
+[[tl:Suleras:IUCN2007]]
+</includeonly>
