@@ -1,6 +1,6 @@
-<includeonly><div>{{Taxobox/core
-| colour = {{#if:{{{color|{{{colour|}}}}}}|{{{color|{{{colour|}}}}}}|{{#ifeq:{{{domain}}}|[[Bacteria]]|{{Taxobox colour|[[Bacteria]]}}|{{Taxobox colour|{{{regnum|{{{virus_group|{{{unranked_phylum|{{{unranked_superdivisio|{{{phylum|}}} }}} }}} }}} }}} }} }} }}
-| name = {{#if:{{{name|}}}|{{{name}}}|{{Taxobox name|{{{genus}}}|{{{species}}}|{{{binomial}}}}}}}
+<includeonly><div>{{Таксобокс/core
+| colour = {{#if:{{{color|{{{colour|}}}}}}|{{{color|{{{colour|}}}}}}|{{#ifeq:{{{domain}}}|[[Bacteria]]|{{Таксобокс colour|[[Bacteria]]}}|{{Таксобокс colour|{{{regnum|{{{virus_group|{{{unranked_phylum|{{{unranked_superdivisio|{{{phylum|}}} }}} }}} }}} }}} }} }} }}
+| name = {{#if:{{{name|}}}|{{{name}}}|{{Таксобокс name|{{{genus}}}|{{{species}}}|{{{binomial}}}}}}}
 | status = {{{status|}}} 
 | status_system = {{{status_system|}}}
 | status_ref = {{{status_ref|}}}
