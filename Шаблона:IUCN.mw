@@ -1,0 +1,41 @@
+<includeonly>{{#ifeq:{{{id|{{{ID|}}}}}}|
+| {{citation error|no <code>&#124;id&#61;</code> number specified|IUCN|nocat={{{template doc demo|}}}}}
+ | {{#ifeq:{{{year|{{{assessment_year|}}}}}}|
+   | {{citation error|no <code>&#124;assessment_year&#61;</code> specified|IUCN|nocat={{{template doc demo|}}}}}
+     | {{#ifeq:{{{title|{{{taxon}}}}}}|
+       | {{citation error|no <code>&#124;taxon&#61;</code> specified|IUCN|nocat={{{template doc demo|}}}}}
+       | {{#ifeq:{{{version|{{{IUCN_Year|{{{iucn_year|}}}}}}}}}|
+         | {{citation error|no <code>&#124;version&#61;</code> specified|IUCN|nocat={{{template doc demo|}}}}} [[Category:IUCN Red List Templates with no version specified]]
+         | {{cite web
+            | url = http://www.iucnredlist.org/apps/redlist/details/{{{id|{{{ID|}}}}}}
+            | last1={{{last1|{{{last|{{{author|{{{assessors|{{{authors|}}}}}}}}}}}}}}}
+            | first1={{{first1|{{{first|}}}}}}
+            | last2={{{last2|}}}
+            | first2={{{first2|}}}
+            | last3={{{last3|}}}
+            | first3={{{first3|}}}
+            | last4={{{last4|}}}
+            | first4={{{first4|}}}
+            | last5={{{last5|}}}
+            | first5={{{first5|}}}
+            | last6={{{last6|}}}
+            | first6={{{first6|}}}
+            | last7={{{last7|}}}
+            | first7={{{first7|}}}
+            | last8={{{last8|}}}
+            | first8={{{first8|}}}
+            | last9={{{last9|}}}
+            | first9={{{first9|}}}
+            | last10={{{last10|}}}
+            | first10={{{first10|}}}
+            | year = {{{year|{{{assessment_year|}}}}}}
+            | title = {{{title|{{{taxon}}}}}}
+            | work =[[IUCN Red List|IUCN Red List of Threatened Species.]] Version {{{version|{{{IUCN_Year|{{{iucn_year|}}}}}}}}} 
+            | publisher = [[International Union for Conservation of Nature]]
+            | accessdate =  {{{downloaded|{{{accessdate|}}}}}}
+            | archiveurl =  {{{archiveurl|}}}
+            | archivedate =  {{{archivedate|}}}
+            | ref =  {{{ref|harv}}}
+}}}}}}}}}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>
