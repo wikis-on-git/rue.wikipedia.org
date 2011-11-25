@@ -1,0 +1,114 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+__NOTOC____NOEDITSECTION__
+
+This template can be used to cite all versions of the [[IUCN]] [[IUCN Red List|Red List of Threatened Species]]. A [http://www.iucnredlist.org/documents/redlist_website_users_guide.pdf user's guide] and [http://www.youtube.com/watch?v=k2LnoLD2ss0 video] are available.
+
+The search engine is [http://www.iucnredlist.org/apps/redlist/search here].
+
+== Usage ==
+
+=== Parameters ===
+
+{| class="wikitable" style="font-size:90%; margin:auto; float:left;"
+! Parameter
+! Description
+! Example
+|-
+| {{nbsp}}'''id'''
+| The internal redlist id number.
+| In http://www.iucnredlist.org/apps/redlist/details/149100/0, the id is 149100.
+|-
+| {{nbsp}}'''taxon'''
+| The scientific name
+| ''Passer domesticus''
+|-
+| {{nbsp}}'''assessors'''
+| The person or group who assessed the status of the species, if specified
+| BirdLife International
+|-
+| {{nbsp}}'''assessment_year'''{{nbsp}}
+| The year the assessor evaluated the species.
+| 2009
+|-
+| {{nbsp}}'''version'''
+| The version of the list
+| 2010.2
+|-
+| {{nbsp}}'''accessdate'''
+| The date you downloaded the data
+| 22 July 2010
+|}
+{{clear}}
+
+<tt>accessdate</tt> and <tt>assessors<tt> are optional.
+
+=== Cut and paste ===
+;Vertical
+{{table|row1=<pre>
+<nowiki>{{IUCN
+| id = 
+| taxon = 
+| assessors = 
+| assessment_year = 
+| version = 
+| accessdate = 
+}}</nowiki></pre>}}
+
+;Horizonal
+<pre><nowiki>{{IUCN | id = | taxon = | assessors = | assessment_year = | version = | accessdate = }}</nowiki></pre>
+
+=== Notes ===
+
+The suggested citation at the bottom of an IUCN details page contains all the data needed by this template except for the id, which is obtained from the page url. The output of this template is patterned after the IUCN suggested citation format and the template {{tl|cite web}}.
+
+The ''IUCN version'' is not to be confused with the ''criteria version'' (e.g. 3.1).
+
+The <nowiki>{{{ref}}}</nowiki> parameter is supported to optionally allow ref names to be specified, such as "harv" or {{tl|harvid}}.
+
+=== Output ===
+
+{{table|row1= <pre><nowiki>
+{{IUCN
+| id = 149100
+| taxon = ''Passer domesticus''
+| assessors = BirdLife International
+| assessment_year = 2009
+| version = 2010.2
+| accessdate = 22 July 2010
+}}</nowiki></pre>}}
+yields:
+
+
+{{IUCN
+| id = 149100
+| taxon = ''Passer domesticus''
+| assessors = BirdLife International
+| assessment_year = 2009
+| version = 2010.2
+| accessdate = 22 July 2010
+}}
+
+== See also ==
+
+*{{tl|IUCN2006}}
+*{{tl|IUCN2007}}
+*{{tl|IUCN2008}}
+*{{tl|IUCN2009.1}}
+*{{tl|IUCN2010.4}}
+*{{tl|IUCN2011.2}}
+*{{tl|IUCNextlink}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Biology external link templates]]
+[[Category:Biology source templates]]
+
+[[de:Vorlage:IUCN]]
+[[et:Mall:IUCN]]
+[[es:Plantilla:IUCN]]
+[[fr:Modèle:IUCN]]
+[[ja:Template:IUCN2]]
+[[ru:Шаблон:IUCN]]
+[[zh-min-nan:Template:IUCN]]
+</includeonly>
