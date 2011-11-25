@@ -1,0 +1,9 @@
+<includeonly>&#58;</includeonly><noinclude>:Note: Hidden content is included, not displayed here per the below notes.
+This is a register macro holding an HTML code that might alternatively be locally coded as <code><nowiki>&amp;#58;</nowiki></code> (but not necessarily easy to remember for the lay editor) displaying '&#58;' within a text stream, but not activating wikimarkup preprocessing action as does the use of the actual meta-[[control character]].
+
+==See also==
+* {{Tlx|ASCII}} – has other code values
+
+[[Category:Boolean, register, and condition testing templates |{{PAGENAME}}]]
+[[Category:typing-aid templates]]
+</noinclude>
