@@ -2,7 +2,7 @@
 [[:Файл:{{{назва_файлу}}}|{{{тітулок}}}]]
 {{#ifeq:{{{ogg}}}|ne||[[Файл:{{{назва_файлу}}}|{{#expr:{{{шырка|200}}}-20}}px|noicon]]}}
 <div style="font-size:8pt;text-align:left;padding:4pt;line-height:1.25em">{{{попис|}}}</div>
-{{#ifeq:{{{поміч}}}|ne||<p style="text-align:right;font-size:10pt;line-height:1.25em">''Мате проблем пустити авдіо? Посмотьте[[Вікіпедія:Медія|поміч]]''</p>}}
+{{#ifeq:{{{поміч}}}|ne||<p style="text-align:right;font-size:10pt;line-height:1.25em">''Мате проблем пустити авдіо? Посмотьте [[Вікіпедія:Медія|поміч]]''</p>}}
 </div></includeonly><noinclude>
 Приклад хоснованя шаблоны:
 <pre>
