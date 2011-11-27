@@ -1,0 +1,87 @@
+<includeonly><div class="medialist listenlist {{#ifeq:{{{1|}}}|вправо|infobox}}" style="width:{{{шырка|200}}}px">
+[[:Файл:{{{назва_файлу}}}|{{{тітулок}}}]]
+{{#ifeq:{{{ogg}}}|ne||[[Файл:{{{назва_файлу}}}|{{#expr:{{{шырка|200}}}-20}}px|noicon]]}}
+<div style="font-size:8pt;text-align:left;padding:4pt;line-height:1.25em">{{{попис|}}}</div>
+{{#ifeq:{{{поміч}}}|ne||<p style="text-align:right;font-size:10pt;line-height:1.25em">''Мате проблем пустити авдіо? Посмотьте[[Вікіпедія:Медія|поміч]]''</p>}}
+</div></includeonly><noinclude>
+Приклад хоснованя шаблоны:
+<pre>
+{{Слуханя
+|назва_файлу = Sonar Signals.ogg
+|тітулок = Сонаровы сіґналы
+|попис = Награвкы сіґналів з різных сонаровых жрідел
+}}
+</pre>
+
+a výsledkem je:
+
+{{Слуханя
+|назва_файлу = Sonar Signals.ogg
+|тітулок = Сонаровы сіґналы
+|попис = Награвкы сіґналів з різных сонаровых жрідел
+}}
+
+Як є в статї вгодне умістити приклад звуку на правый бік в подобнім штілї як одказы на сестерьскы проєкты, хоснуйте як неповинный опозічный параметер ключове слово ''вправо'':
+
+<pre>
+{{Слуханя
+|назва_файлу = Sonar Signals.ogg
+|тітулок = Сонаровы сіґналы
+|попис = Награвкы сіґналів з різных сонаровых жрідел
+|вправо
+}}
+</pre>
+
+а резултатом є:
+
+{{Слуханя
+|назва_файлу = Sonar Signals.ogg
+|тітулок = Сонаровы сіґналы
+|попис = Награвкы сіґналів з різных сонаровых жрідел
+|вправо
+}}
+
+[[Катеґорія:Шаблоны про мултімедіялный обсяг|Слуханя]]
+
+[[ar:قالب:استمع]]
+[[be:Шаблон:Listen]]
+[[be-x-old:Шаблён:Слухаць]]
+[[bs:Šablon:Slušajte]]
+[[ca:Plantilla:Escoltar]]
+[[da:Skabelon:Lyt]]
+[[de:Vorlage:Bild mit Audio]]
+[[en:Template:Listen]]
+[[eo:Ŝablono:Aŭskultu]]
+[[es:Plantilla:Multimedia]]
+[[et:Mall:Heli]]
+[[fa:الگو:شنیدن]]
+[[fi:Malline:Kuuntele]]
+[[fr:Modèle:Son]]
+[[hsb:Předłoha:Posłuchaj]]
+[[hu:Sablon:Hallgat]]
+[[id:Templat:Dengar]]
+[[it:Template:Multimedia]]
+[[ja:Template:試聴]]
+[[ka:თარგი:მოსმენა]]
+[[kk:Үлгі:Listen]]
+[[ko:틀:듣기]]
+[[la:Formula:Audire]]
+[[lv:Veidne:Listen]]
+[[mk:Шаблон:Преслушување]]
+[[ms:Templat:Listen/doc]]
+[[mwl:Modelo:Oube]]
+[[nl:Sjabloon:Luister]]
+[[no:Mal:Lytte]]
+[[pl:Szablon:Listen]]
+[[pt:Predefinição:Escute]]
+[[ru:Шаблон:Listen]]
+[[sk:Šablóna:Počúvaj]]
+[[sl:Predloga:Poslušaj]]
+[[sr:Шаблон:Slušajte]]
+[[sv:Mall:Lyssna]]
+[[ta:வார்ப்புரு:Listen]]
+[[tr:Şablon:Dinle]]
+[[uk:Шаблон:Звук]]
+[[vi:Bản mẫu:Nghe nhìn]]
+[[zh:Template:Listen]]
+</noinclude>
