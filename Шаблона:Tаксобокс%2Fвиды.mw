@@ -181,7 +181,7 @@
  | SC
  | sc = [[file:Status COSEWIC SC.svg|frameless|link=|alt=]]<br />Special Concern
  | NAR
- | nar = [[file:Status COSEWIC NAR.svg|frameless|link=|alt=]]<br />[[Least Concern|Not at risk]]
+ | nar = [[file:Status COSEWIC NAR.svg|frameless|link=|alt=]]<br />[[Найменше знепокоївый|Not at risk]]
  | '''''Invalid status'''''[[Катеґорія:Invalid conservation status]]
 }}<small>&nbsp;({{#if:{{{status_text|}}}|[[{{{status_text|#Conservation status}}}|See text]]|[[Committee on the Status of Endangered Wildlife in Canada|COSEWIC]]}}){{{3|}}}</small></div><!--
 *************
@@ -222,7 +222,7 @@
  | NT
  | nt = [[Near Threatened]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Nature Conservation Act near threatened biota]]|}}
  | LC
- | lc = [[Least Concern]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Nature Conservation Act least concern biota]]|}}
+ | lc = [[Найменше знепокоївый]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Nature Conservation Act least concern biota]]|}}
  | '''''Invalid status''''' {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Invalid conservation status]]|}}
 }}<small>&nbsp;({{#if:{{{status_text|}}}|[[{{{status_text|#Conservation status}}}|See text]]|[[Nature Conservation Act 1992|NCA]]}}){{{3|}}}</small></div><!--
 *************
@@ -285,7 +285,7 @@
  | NT
  | nt = [[Near Threatened]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Near Threatened species]][[Катеґорія:Taxoboxes needing a status system parameter]]|}}
  | LC
- | lc = [[Least Concern]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Least Concern species]][[Катеґорія:Taxoboxes needing a status system parameter]]|}}
+ | lc = [[Найменше знепокоївый]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Найменше знепокоївый species]][[Катеґорія:Taxoboxes needing a status system parameter]]|}}
  | SE
  | se
  | SECURE
@@ -325,7 +325,7 @@
  | LR/LC
  | lr/LC
  | LR/lc
- | lr/lc = [[file:Status iucn2.3 LC.svg|frameless|link=|alt=]]<br />[[Least Concern]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Least Concern species]][[Катеґорія:Taxoboxes needing a status system parameter]]|}}<!--This case is subject to deletion once status systems are added-->
+ | lr/lc = [[file:Status iucn2.3 LC.svg|frameless|link=|alt=]]<br />[[Найменше знепокоївый]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Найменше знепокоївый species]][[Катеґорія:Taxoboxes needing a status system parameter]]|}}<!--This case is subject to deletion once status systems are added-->
  | GX
  | gx = [[file:Status TNC GX.svg|frameless|link=|alt=]]<br />Presumed [[Выгынутя|Выгынутый]] {{#if:{{{extinct|}}}|&nbsp;({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Катеґорія:Taxoboxes needing a status system parameter]]|}}<!--This case is subject to deletion once status systems are added-->
  | GH
