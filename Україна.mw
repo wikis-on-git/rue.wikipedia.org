@@ -1,14 +1,14 @@
 {{Інфобокс країна
 | native_name              = {{lang|uk|Україна}}
-| conventional_long_name   = Ukraine
+| conventional_long_name   = 
 | common_name              = Ukraine
 | image_flag               = Flag of Ukraine.svg
 | image_coat               = Lesser Coat of Arms of Ukraine.svg
 | image_map                = Europe-Ukraine.svg
 | map_caption = {{map caption|location_color=green|region=[[Europe]]|region_color=dark grey|legend=Location Ukraine Europe.png}}
-| national_anthem          = <center>[[File:Anthem-of-Ukraine Chorus Veryovka.ogg]]</center><br />{{lang|uk|Ще не вмерла України}}{{spaces|2}}<small>([[Ukrainian language|Ukrainian]])</small><ref name=anthem>{{cite web|url=http://zakon.rada.gov.ua/cgi-bin/laws/main.cgi?nreg=602-15 |title=Law of Ukraine. State Anthem of Ukraine|publisher=[[Verkhovna Rada of Ukraine]]|date=2003-03-06|language=[[Ukrainian language|Ukrainian]]}}</ref><br />{{lang|uk-Latn|''[[Shche ne vmerla Ukraina|Shche ne vmerla Ukrayiny]]}}''{{spaces|2}}<small>([[transliteration]])<br />''Ukraine's glory has not perished''</small>
-| official_languages       = [[Ukrainian language|Ukrainian]]
-|regional_languages       = [[Russian language|Russian]], [[Crimean Tatar language|Crimean Tatar]]
+| national_anthem          = <center>[[File:Anthem-of-Ukraine Chorus Veryovka.ogg]]</center><br />{{lang-uk|Ще не вмерла України}}<ref name=anthem>{{cite web|url=http://zakon.rada.gov.ua/cgi-bin/laws/main.cgi?nreg=602-15 |title=Law of Ukraine. State Anthem of Ukraine|publisher=[[Verkhovna Rada of Ukraine]]|date=2003-03-06|lang-uk}}</ref><br />{{lang|uk-Latn|''[[Shche ne vmerla Ukraina|Shche ne vmerla Ukrayiny]]}}''{{spaces|2}}<small>([[транслітерація]])<br />''Ще не вмерла Україны''</small>
+| official_languages       = [[Україньскый язык|Україньскый]]
+|regional_languages       = [[Російскый язык|Російскый]], [[Crimean Tatar language|Crimean Tatar]]
 | ethnic_groups = '''77.8% [[Ukrainians]]''',<br />17.3% [[Russians in Ukraine|Russians]],<br /> 4.9% others and unspecified<ref name="Ethnic composition of the population of Ukraine, 2001 Census"/>
 | ethnic_groups_year = 2001
 | demonym                  = [[Ukrainians|Ukrainian]]
@@ -132,7 +132,8 @@
 * [[Польско]]
 
 == Референції ==
-<references/>
+{{reflist}}
+
 [[Катеґорія:Україна| ]]
 
 [[ab:Украина]]
