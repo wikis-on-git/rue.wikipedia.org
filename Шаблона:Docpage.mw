@@ -1,0 +1,25 @@
+<includeonly>{{#ifeq: {{#rel2abs: ..}}/doc | {{SUBJECTPAGENAME}} | <div class="toc" style="text-align: center;">
+[[:{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}]] · [[:{{SUBJECTPAGENAME}}|Документация]] · [[{{#rel2abs: .. | {{TALKPAGENAME}}}}|Обсуждение]] · [[Служебная:Whatlinkshere/{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}|Где используется]] ({{Параметры шаблона|{{#rel2abs: .. | {{PAGENAME}}}}}})
+</div>
+[[Category:Шаблоны:Документация|{{PAGENAME}}]]
+}}</includeonly><noinclude>
+{{doc}}
+
+[[Category:Навигационные шаблоны:Для шаблонов|{{PAGENAME}}]]
+
+[[ar:قالب:صفحة توثيق فرعية]]
+[[bg:Шаблон:Подстраница с документация]]
+[[cs:Šablona:Podstránka s dokumentací]]
+[[en:Template:Documentation subpage]]
+[[fa:الگو:Documentation subpage]]
+[[id:Templat:Subhalaman dokumentasi]]
+[[is:Snið:Skjalsíða]]
+[[ja:template:Documentation subpage]]
+[[mk:Шаблон:Документација потстрана]]
+[[no:mal:Documentation subpage]]
+[[pl:Szablon:Podstrona dokumentacji]]
+[[ru:Шаблон:Docpage]]
+[[sl:template:Dokumentacijska podstran]]
+[[sq:Stampa:Documentation subpage]]
+[[uk:Шаблон:Підсторінка документації]]
+</noinclude>
