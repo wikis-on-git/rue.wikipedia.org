@@ -141,10 +141,10 @@
 {{!}}-
 ! colspan=3 style="text-align: center; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Інфобокс язык/family-color|{{{familycolor|}}}}}|black|1}}|white|{{{fontcolor|black}}}}}; background-color: {{#if:{{{signers|}}}|silver|{{#if:{{{creator|}}}{{{setting|}}}|black|{{Інфобокс язык/family-color|{{{familycolor|Default}}}}}}}}}" {{!}} Офіціалный статус
 {{!}}-
-! Офіціалный язык в
+! Офіціалный язык у
 {{!}} colspan=2 {{!}} {{{nation|''None''}}}
 {{!}}-
-{{#if:{{{minority|}}}|! Узнаный меншыновый язык в
+{{#if:{{{minority|}}}|! Узнаный меншыновый язык у
 {{!}} colspan=2 {{!}} {{{minority|''None''}}}
 {{!}}-}}
 ! [[List of language regulators|Реґулованый]]
@@ -202,7 +202,7 @@
 |{{{lc29|}}}|{{{ld29|}}}|{{{ll29|}}}}}{{Інфобокс язык/codelist
 |{{{lc30|}}}|{{{ld30|}}}|{{{ll30|}}} }}
  |{{#if:{{{lc1|}}}|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{lc1}}} {{{lc1}}}]</tt> &ndash; {{#if:{{{ll1|}}}|{{#ifeq:{{{ll1|}}}|none|{{{ld1|}}}|[[{{{ll1}}}|{{{ld1|}}}]]}}|[[{{{ld1|}}}]]}}|{{#if:{{{iso3|}}}
-   |{{#ifeq:{{{iso3|}}}|none|''None''|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{iso3}}} {{{iso3}}}]</tt> {{{iso3comment|}}} }}
+   |{{#ifeq:{{{iso3|}}}|none|''Не є''|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{iso3}}} {{{iso3}}}]</tt> {{{iso3comment|}}} }}
    |–}} }} }}
 |-
 {{#if:{{{map|}}}|
