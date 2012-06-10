@@ -571,7 +571,7 @@
      -->{{#if:{{{population_estimate|}}} |<!--then:
         --><tr class="mergedrow">
              <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-             <td style="padding-left:0em;">{{{population_estimate_year|}}}&nbsp;estimate</td>
+             <td style="padding-left:0em;">шацованя ({{{population_estimate_year|}}})</td>
              <td>{{{population_estimate|}}}&nbsp;<!--
               -->{{#if:{{{population_estimate_rank|}}} |<!--then:-->([[List of countries by population|{{{population_estimate_rank}}}]]) }}</td>
            </tr><!--
