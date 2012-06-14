@@ -17,19 +17,19 @@
 {{!}}-
 }}
 {{#if:{{{iso_code|}}}|
-! [[ISO 4217|ISO 4217 code]]
+! [[ISO 4217|код ISO 4217]]
 {{!}} <code>{{{iso_code}}}</code>
 {{!}}-
 }}
 |- class="mergedtoprow"
 {{#if:{{{issuing_authority|}}}|
-! {{nowrap|[[{{{issuing_authority_title|Central bank}}}]]}}
+! {{nowrap|[[{{{issuing_authority_title|Централна банка}}}]]}}
 {{!}} {{{issuing_authority}}}
 {{!}}-
 }}
 |- class="mergedbottomrow"
 {{#ifeq:{{#expr:{{#if:{{{issuing_authority|}}}|1|0}} and {{#if:{{{issuing_authority_website|}}}|1|0}} }}|1|
-{{!}} Website
+{{!}} Вебова сторінка
 {{!}} [http://{{{issuing_authority_website|}}} {{{issuing_authority_website|}}}]
 {{!}}-
 }}
@@ -46,7 +46,7 @@
 {{!}}-
 }}
 |- class="mergedtoprow"
-! {{#if:{{{unofficial_users|}}}|{{nowrap|Official user(s)}}|User(s)}}
+! {{#if:{{{unofficial_users|}}}|{{nowrap|Official user(s)}}|Хоснують}}
 {{!}} {{{using_countries}}}
 |- class="mergedbottomrow"
 {{#if:{{{unofficial_users|}}}|
@@ -56,28 +56,28 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{inflation_rate|}}}|
-! [[Inflation]]
+! [[Інфлація]]
 {{!}} {{{inflation_rate}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{inflation_rate|}}}|1|0}} and {{#if:{{{inflation_source_date|}}}|1|0}} }}|1|
-{{!}} Source
+{{!}} Жрідло
 {{!}} {{{inflation_source_date}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{inflation_rate|}}}|1|0}} and {{#if:{{{inflation_method|}}}|1|0}} }}|1|
-{{!}} Method
+{{!}} Метода
 {{!}} {{{inflation_method}}}
 {{!}}-
 }}
 |- class="mergedtoprow"
 {{#if:{{{ERM_since|}}}|
-! [[European Exchange Rate Mechanism|ERM]]
+! [[ERM]]
 {{!}}
 {{!}}- class="mergedrow"
-{{!}} Since
+{{!}} од
 {{!}} {{{ERM_since}}}
 {{!}}-
 }}
@@ -89,25 +89,25 @@
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{ERM_fixed_rate_since|}}}|1|0}} }}|1|
-{{!}} Fixed rate since
+{{!}} фіксованый курз од
 {{!}} {{{ERM_fixed_rate_since}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{euro_replace_non_cash|}}}|1|0}} }}|1|
-{{!}} Replaced by €, non cash
+{{!}} заміненый €, безготовостны пінязї
 {{!}} {{{euro_replace_non_cash}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{euro_replace_cash|}}}|1|0}} }}|1|
-{{!}} Replaced by €, cash
+{{!}} заміненый €, готовы пінязї
 {{!}} {{{euro_replace_cash}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{ERM_fixed_rate|}}}|1|0}} }}|1|
-{{!}} <span class="nounderlines">[[Euro|€]]</span> =
+{{!}} <span class="nounderlines">курз [[Евро|€]]</span> =
 {{!}} {{{ERM_fixed_rate}}}
 {{!}}-
 }}
@@ -163,7 +163,7 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{subunit_ratio_1|}}}|
-! Subunit
+! Дїлїня
 {{!}}
 {{!}}- class="mergedrow"
 {{!}} {{{subunit_ratio_1}}}
@@ -196,7 +196,7 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{symbol|}}}|
-! [[Currency sign|Symbol]]
+! Сімбол
 {{!}} {{{symbol}}}
 {{!}}-
 }}
@@ -304,7 +304,7 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{used_coins|}}}{{{frequently_used_coins|}}}{{{rarely_used_coins|}}}|
-! {{#if:{{{coin_article|}}}|[[{{{coin_article}}}|Coins]]|Coins}}''
+! {{#if:{{{coin_article|}}}|[[{{{coin_article}}}|Мінцы]]|Мінцы}}''
 {{!}} {{{used_coins|}}}
 {{!}}-
 }}
@@ -322,7 +322,7 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{used_banknotes|}}}{{{frequently_used_banknotes|}}}{{{rarely_used_banknotes|}}}|
-! {{#if:{{{banknote_article|}}}|[[{{{banknote_article}}}|Banknotes]]|Banknotes}}''
+! {{#if:{{{banknote_article|}}}|[[{{{banknote_article}}}|Банковкы]]|Банковкы}}''
 {{!}} {{{used_banknotes|}}}
 {{!}}-
 }}
@@ -352,18 +352,18 @@
 }}
 |- class="mergedtoprow"
 {{#if:{{{mint|}}}|
-! [[Mint (coin)|Mint]]
+! [[Мінцовня]]
 {{!}} {{{mint}}}
 {{!}}-
 }}
 |- class="mergedbottomrow"
 {{#ifeq:{{#expr:{{#if:{{{mint|}}}|1|0}} and {{#if:{{{mint_website|}}}|1|0}} }}|1|
-{{!}} Website
+{{!}} Вебова сторінка
 {{!}} {{#if:{{{mint_override_with_original_text|}}} |{{{mint_website}}}|[http://{{{mint_website|}}} {{{mint_website|}}}]}}
 {{!}}-
 }}
 {{#if:{{{obsolete_notice|}}}|
-{{!}} colspan=2 {{!}} <small>This infobox shows the latest status before this currency was rendered obsolete.</small>
+{{!}} colspan=2 {{!}} <small>То суть послїдны даны перед застарїнём той валуты.</small>
 {{!}}-
 }}
 {{#if:{{{footnotes|}}}|
