@@ -95,13 +95,13 @@
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{euro_replace_non_cash|}}}|1|0}} }}|1|
-{{!}} заміненый €, безготовостны пінязї
+{{!}} замінена €, безготовостны пінязї
 {{!}} {{{euro_replace_non_cash}}}
 {{!}}-
 }}
 |- class="mergedrow"
 {{#ifeq:{{#expr:{{#if:{{{ERM_since|}}}|1|0}} and {{#if:{{{euro_replace_cash|}}}|1|0}} }}|1|
-{{!}} заміненый €, готовы пінязї
+{{!}} замінена €, готовы пінязї
 {{!}} {{{euro_replace_cash}}}
 {{!}}-
 }}
