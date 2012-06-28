@@ -517,7 +517,7 @@
         </tr>
         <tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">{{{area_label|Вшыткого}}}<!--
+          <td style="padding-left:0em;">{{{area_label|вшиткого}}}<!--
 --France-related footnote:-->{{#if:{{{FR_foot4|}}} |<!--then:-->{{{FR_foot4}}} }}</td>
           <td>[[{{{area_magnitude|}}} {{#if:{{{area_magnitude|}}} |<!--then:-->m² |<!--else:-->Square metre}} | {{formatnum:{{{area_km2|}}}}}&nbsp;км<sup>2</sup>]]&nbsp;<!--
               -->{{#if:{{{area_footnote|}}}|{{{area_footnote|}}} }}{{#if:{{{area_rank|}}} |<!--then:-->([[List of countries and outlying territories by total area|{{{area_rank}}}]]) }}<!--
@@ -528,7 +528,7 @@
 -->{{#if:{{{percent_water|}}} |<!--then:
      --><tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">[[List of countries by percentage of water area|Вода&nbsp;(%)]]</td>
+          <td style="padding-left:0em;">[[List of countries by percentage of water area|вода&nbsp;(%)]]</td>
           <td>{{{percent_water|}}}</td>
         </tr><!--
 -->}}<!--
@@ -607,7 +607,7 @@
 -->{{#if:{{{population_density_km2|}}} |<!--then:
      --><tr class="mergedbottomrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">[[Густота населїня|Густота]]<!--
+          <td style="padding-left:0em;">[[Густота населїня|густота]]<!--
 --France-related footnote:-->{{#if:{{{FR_foot5|}}} |<!--then:-->{{{FR_foot5}}} }}</td>
           <td>{{{population_density_km2|}}} км<sup>2</sup>&nbsp;<!--
               -->{{#if:{{{pop_den_footnote|}}}|{{{pop_den_footnote|}}}}}{{#if:{{{population_density_rank|}}} |<!--then:-->([[List of countries by population density|{{{population_density_rank}}}]]) }}<!--
@@ -626,7 +626,7 @@
         </tr>
         <tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">Вшыткого</td>
+          <td style="padding-left:0em;">вшиткого</td>
           <td>{{{GDP_PPP}}}&nbsp;<!--
               -->{{#if:{{{GDP_PPP_rank|}}} |<!--then:-->([[List of countries by GDP (PPP)|{{{GDP_PPP_rank}}}]]) }}</td>
         </tr><!--
