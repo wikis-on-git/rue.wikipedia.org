@@ -1,0 +1,31 @@
+<includeonly>{{#if: {{{quick|}}} | {{cite web|url=http://www.censusdata.abs.gov.au/ABSNavigation/prenav/LocationSearch?collection=Census&period=2006&areacode={{{id}}}&producttype=QuickStats&breadcrumb=PL&action=401|title={{{name}}}|work=2006 Census QuickStats|author=[[Australian Bureau of Statistics]]|date=25 October 2007|accessdate={{{accessdate}}}}} | {{cite web|url=http://www.censusdata.abs.gov.au/ABSNavigation/prenav/ProductSelect?newproducttype=Community+Profiles&collection=Census&period=2006&areacode={{{id}}}&breadcrumb=LP&currentaction=201&action=401|title=Community Profile Series : {{{name}}}|work=2006 Census of Population and Housing|author=[[Australian Bureau of Statistics]]|date=25 October 2007|accessdate={{{accessdate}}}}}}} {{#ifeq: {{{map|}}} | yes | [http://www.censusdata.abs.gov.au/ABSNavigation/ImageServer?id=map,Census,2006,{{{id}}} Map]}}</includeonly>
+<noinclude>
+===Purpose===
+This template allows for the inclusion of direct web links to official 2006 census data into Australian geographical articles. Due to periodic changes/redesigns on the ABS website, these links may change - the advantage of using the template is therefore that all articles using this template will migrate with it.
+
+===Usage===
+<pre>{{Census 2006 AUS
+ |id = 
+ |name =
+ |accessdate =
+}}</pre>
+* id = ABS ID for the region (note - may be different from 2001, so don't convert across without checking.)
+* name = ABS Name for the region - eg Caversham (State Suburb) or 5011202 (Census Collection District).
+* accessdate = Date accessed in the form yyyy-mm-dd eg 2007-06-27.
+
+Adding "|quick=on" at the end forces QuickStats instead of a link to the Excel-format BCP.
+
+===See also===
+* {{tl|Census 2001 AUS}}
+* {{tl|Census 2006 AUS link}} - simply produces a URL link, for use in lists.
+
+[[Category:Specific-source templates|{{PAGENAME}}]]
+[[ar:قالب:Census 2006 AUS]]
+[[en:Template:Census 2006 AUS]]
+[[es:Plantilla:Census 2006 AUS]]
+[[hi:साँचा:Census 2006 AUS]]
+[[id:Templat:Census 2006 AUS]]
+[[pt:Predefinição:Census 2006 AUS]]
+[[si:සැකිල්ල:Census 2006 AUS]]
+[[su:Citakan:Census 2006 AUS]]
+</noinclude>
