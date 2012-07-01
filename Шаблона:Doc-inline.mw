@@ -1,0 +1,25 @@
+<div style="background:#F0F8FF; border:1px dotted #8BCBFF; padding:10px; margin-top:10px"><noinclude>
+Шаблон для визуального отделения «документации» от остальной части страницы. Цвет фона аналогичен шаблону {{tl|doc}}.
+
+== Пример использования ==
+<pre>
+{{doc-inline}} // начало
+Текст документации
+{{doc-end}} // конец
+</pre>
+
+{{doc-end}}
+
+[[Category:Википедия:Шаблоны для документирования шаблонов|{{PAGENAME}}]]
+
+[[av:Шаблон:Doc-inline]]
+[[az:Şablon:Doc-inline]]
+[[bg:Шаблон:Doc-inline]]
+[[gag:Şablon:Doc-inline]]
+[[hy:Կաղապար:Doc-inline]]
+[[kk:Үлгі:Doc-inline]]
+[[ky:Калып:Doc-inline]]
+[[lez:Шаблон:Doc-inline]]
+[[ru:Шаблон:Doc-inline]]
+[[tk:Şablon:Doc-inline]]
+</noinclude>
