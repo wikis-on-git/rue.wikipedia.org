@@ -38,7 +38,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Clanektydne.gif|20px]]</div>
 <div style="padding-left: 35px;">[[Вікіпедія:Статя_тыждня|Статя тыждня]]</div></div>
 <div style="margin: 0.4em; margin-top: 1em; text-align: justify;">
-<div id="mp-tfa">{{Статя тыждня/{{#time:o/W|{{#ifexist:Статя тыждня/{{#time:o/W}}||0 week}}}}}}</div>
+<div id="mp-tfa">{{Вікіпедія:Статя тыждня/{{#time:o/W|{{#ifexist:Статя тыждня/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
 <div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%; clear: both;">[[Шаблона:Статя тыждня/Архів|Архів]]</div>
 </div>
@@ -48,7 +48,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="position: absolute; top: 0; left: 0;">[[Файл:Viteze.gif|32px]]</div>
 <div style="padding-left: 35px;">[[Вікіпедія:Інтересне|А ці вы знали, же…]]</div></div>
 <div style="clear: both; font-size: 95%; padding-top: 0.5em; margin: 0.5em">
-<div id="mp-dyk">{{Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
+<div id="mp-dyk">{{Вікіпедія:Інтересне/{{#time:o/W|{{#ifexist:Інтересне/{{#time:o/W}}||0 week}}}}}}</div>
 </div>
 <div style="width: 100%; background-color: rgb(205, 232, 255); border-top: rgb(170, 213, 255) 1px solid; text-align: right; font-size: 90%;">[[Шпеціална:Newpages|Найновшы статї]]</div>
 </div>
