@@ -1,3 +1,4 @@
 <includeonly>{{#expr: (({{{1|0}}} + ({{#if: {{{2|}}} | {{{2|0}}}/60 | 0}}) + ({{#if: {{{3|}}} | {{{3|0}}}/3600 | 0}})) * {{#switch:{{{4}}}|S|V=1|J|Z=-1}} {{#if: {{{5|}}}| round {{{5}}} }} )}}</includeonly><noinclude>[[Катеґорія:Geobox]]
+[[bg:Шаблон:Geobox coor2dec]]
 [[eo:Ŝablono:Geokesto koor2dec]]
 [[sk:Šablóna:Geobox coor2dec]]</noinclude>
