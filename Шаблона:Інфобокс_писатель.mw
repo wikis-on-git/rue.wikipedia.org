@@ -1,0 +1,175 @@
+{| class="infobox vcard" style="float:right; width: {{#if:{{{box_width|}}}|{{{box_width}}}|22em}}; font-size: 88%; text-align: left; line-height: 1.5em"
+! colspan=2 class="fn" style="text-align:center; font-size: 125%" | {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan=2 style="text-align: center" {{image class|{{{image}}}}} {{!}} [[file:{{{image}}}|frameless|{{#if:{{{imagesize|}}}|{{{imagesize}}}|upright=1.11}}|alt={{{alt|}}}]]
+{{!}}-
+{{#if:{{{caption|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} {{{caption}}}
+{{!}}-
+}}
+}}
+{{#if:{{{birthname|}}}{{{birthdate|}}}{{{birthplace|}}}|
+! Народжіня
+{{!}} {{{birthname|}}}{{#if:{{{birthdate|}}}{{{birthplace|}}}|{{#if:{{{birthname|}}}|<br />}}{{#switch:{{lc:{{{birthdate}}} }}
+| ?
+| ??
+| ???
+| ????
+| 19?
+| 19??
+| 18??
+| 17??
+| unknown
+| u       = date of birth unknown
+| {{{birthdate}}}
+}}
+}}{{#if:{{{birthplace|}}}|{{#if:{{{birthdate|}}}|<br />}}{{{birthplace}}} }}
+{{!}}-
+}}
+{{#if:{{{deathdate|}}}{{{deathplace|}}}|
+! Умертя
+{{!}} {{#switch:{{lc:{{{deathdate}}} }}
+| ?
+| ??
+| ???
+| ????
+| 19?
+| 19??
+| 18??
+| 17??
+| unknown
+| u       = date of death unknown
+| {{{deathdate}}}
+}}{{#if:{{{deathplace|}}}|{{#if:{{{deathdate|}}}|<br />}}{{{deathplace}}} }}
+{{!}}-
+}}
+{{#if:{{{resting_place|}}}|
+! Погріб
+{{!}} <span class="label">{{{resting_place|}}}</span>{{#if:{{{resting_place_coordinates|}}}|{{#if:{{{resting_place|}}}|<br />}}{{{resting_place_coordinates}}} }}
+{{!}}-
+}}
+{{#if:{{{penname|}}}{{{pseudonym|}}}|
+! Pen name
+{{!}} <span class="nickname">{{{penname|{{{pseudonym|}}} }}}</span>
+{{!}}-
+}}
+{{#if:{{{occupation|}}}|
+! Занятя 
+{{!}} <span class="role">{{{occupation|}}}</span>
+{{!}}-
+}}
+{{#if:{{{language|}}}|
+! Язык
+{{!}} {{{language|}}}
+{{!}}-
+}}
+{{#if:{{{nationality|}}}|
+! Народность
+{{!}} <span class="category">{{{nationality|}}}</span>
+{{!}}-
+}}
+{{#if:{{{ethnicity|}}}|
+! Ethnicity
+{{!}} {{{ethnicity|}}}
+{{!}}-
+}}
+{{#if:{{{citizenship|}}}|
+! Citizenship
+{{!}} {{{citizenship|}}}
+{{!}}-
+}}
+{{#if:{{{education|}}}|
+! Едукація
+{{!}} {{{education|}}}
+{{!}}-
+}}
+{{#if:{{{alma_mater|}}}|
+! Alma mater
+{{!}} {{{alma_mater|}}}
+{{!}}-
+}}
+{{#if:{{{period|}}}|
+! Період
+{{!}} {{{period|}}}
+{{!}}-
+}}
+{{#if:{{{genre|}}}|
+! Жанры
+{{!}} <span class="category">{{{genre|}}}</span>
+{{!}}-
+}}
+{{#if:{{{subject|}}}|
+! Subjects
+{{!}} {{{subject|}}}
+{{!}}-
+}}
+{{#if:{{{movement|}}}|
+! Literary movement
+{{!}} {{{movement|}}}
+{{!}}-
+}}
+{{#if:{{{notableworks|}}}|
+! Вызначны роботы
+{{!}} {{{notableworks|}}}
+{{!}}-
+}}
+{{#if:{{{awards|}}}|
+! Notable award(s)
+{{!}} {{{awards|}}}
+{{!}}-
+}}
+{{#if:{{{spouse|}}}|
+! Манжел(ка)
+{{!}} {{{spouse|}}}
+{{!}}-
+}}
+{{#if:{{{partner|}}}|
+! Partner(s)
+{{!}} {{{partner|}}}
+{{!}}-
+}}
+{{#if:{{{children|}}}|
+! Дїти
+{{!}} {{{children|}}}
+{{!}}-
+}}
+{{#if:{{{relatives|}}}{{{relations|}}}|
+! Relative(s)
+{{!}} {{{relatives|{{{relations|}}} }}}
+{{!}}-
+}}
+{{#if:{{{influences|}}}|
+{{!}} colspan=2 {{!}} <hr />
+{{!}}-
+{{!}} colspan=2 style="text-align: center" {{!}} {{Collapsible list|expand={{{expand|}}}|title=Influences|frame_style=border:none; padding: 0;|title_style=background:transparent; text-align:left;|list_style=text-align:left;|1={{#if:{{{influences|}}}|{{{influences}}}}}}}
+{{!}}-
+}}
+{{#if:{{{influenced|}}}|
+{{!}} colspan=2 {{!}} <hr />
+{{!}}-
+{{!}} colspan=2 style="text-align: center" {{!}} {{Collapsible list|expand={{{expand|}}}|title=Influenced|frame_style=border:none; padding: 0;|title_style=background:transparent; text-align:left;|list_style=text-align:left;|1={{#if:{{{influenced|}}}|{{{influenced}}}}}}}
+{{!}}-
+}}
+{{#if:{{{signature|}}}|
+{{!}} colspan=2 {{!}} <hr />
+{{!}}-
+! Підпис
+{{!}} [[file:{{{signature}}}|frameless|upright=0.72|alt={{{signature_alt|}}}]]
+{{!}}-
+}}
+{{#if:{{{website|}}}|
+{{!}} colspan=2 {{!}} <hr />
+{{!}}-
+{{!}} colspan=2 style="text-align: center" {{!}} {{official|{{{website}}}}}
+{{!}}-
+}}
+{{#switch:{{lc:{{{portaldisp|}}} }}
+| yes
+| y   = 
+{{!}} colspan=2 {{!}} <hr />
+{{!}}-
+! colspan=2 style="text-align: center; font-style: italic" {{!}} [[file:{{Portal/Images/Literature}}|frameless|upright=0.11|link=|alt=]] [[Portal:Literature|Literature portal]]
+{{!}}-
+}}
+|}<noinclude>{{documentation}}</noinclude>
