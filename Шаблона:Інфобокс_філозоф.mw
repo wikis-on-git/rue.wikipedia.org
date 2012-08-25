@@ -1,0 +1,54 @@
+{{Інфобокс
+| bodyclass  = vcard
+| child      = {{{child|}}}
+| title      = {{#ifeq:{{{child|}}}|yes|Philosophical career|{{{name|<includeonly>{{PAGENAME}}</includeonly>}}} }}
+| titleclass = fn
+| image      = {{#if:{{{image_name|{{{image|}}}}}}|[[File:{{{image_name|{{{image}}}}}}|{{{image_size|200px}}}|alt={{{image_alt|}}}]]}}
+| caption    = {{{image_caption|{{{caption|}}}}}}
+
+| label1     = цїлый імя
+| data1      = {{{fullname|{{{name|}}}}}}
+
+| label2     = Other names
+| class2     = nickname
+| data2      = {{{other_names|}}}
+
+| label3     = народженый
+| data3      = {{#if:{{{birth_name|}}}|{{{birth_name}}}<br />}}{{#if:{{{birth_date|}}}|{{{birth_date}}}<br />}}{{{birth_place|}}}
+
+| label4     = вмер
+| data4      = {{#if:{{{death_date|}}}|{{{death_date}}}<br />}}{{#if:{{{death_place|}}}|{{{death_place}}}<br />}}{{{death_cause|}}}
+
+| label5     = епоха
+| data5      = {{{era|}}}
+| label6     = місце
+| data6      = {{{region|}}}
+| label7     = [[List of schools of philosophy|School]]
+| data7      = {{{school_tradition|}}}
+| label8     = Main interests
+| data8      = {{{main_interests|}}}
+| label9     = Notable ideas
+| data9      = {{{notable_ideas|}}}
+| data10      = {{#if:{{{influences|}}}|
+{{Collapsible list
+| title       = овпливненый
+| frame_style = border: none; padding: 0;
+| list_style  = text-align: center;
+| 1           = {{{influences}}}
+}}
+}}
+| data11      = {{#if:{{{influenced|}}}|
+{{Collapsible list
+| title       = Influenced
+| frame_style = border: none; padding: 0;
+| list_style  = text-align: center;
+| 1           = {{{influenced}}}
+}}
+}}
+| label12     = підпис
+| data12      = {{#if:{{{signature|}}}|[[Image:{{{signature}}}|128px|alt={{{signature_alt|}}}]]}}
+
+| label13     = вебсторінка
+| data13      = {{{website|}}}
+
+}}<noinclude>{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here. --></noinclude>
