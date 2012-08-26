@@ -6,7 +6,7 @@
 | image      = {{#if:{{{image_name|{{{image|}}}}}}|[[File:{{{image_name|{{{image}}}}}}|{{{image_size|200px}}}|alt={{{image_alt|}}}]]}}
 | caption    = {{{image_caption|{{{caption|}}}}}}
 
-| label1     = цїлый імя
+| label1     = цїле імя
 | data1      = {{{fullname|{{{name|}}}}}}
 
 | label2     = Other names
