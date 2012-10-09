@@ -1,0 +1,51 @@
+<small style="display:block;margin-left:1.5em">← [[Template:ПозКарта]]</small><includeonly>
+{| class="prettytable" style="text-align:center"
+|+ Позиционная карта «{{{{PAGENAME}}|name}}»
+|-
+! Регион
+|[[{{#if:{{{{PAGENAME}}|fullname}}|{{{{PAGENAME}}|fullname}}|{{{{PAGENAME}}|name}} }} |{{{{PAGENAME}}|name}}]]
+|-
+! Тип проекции
+|{{#switch:{{{{PAGENAME}}|type}}|polar=Прямая азимутальная|custom=Нестандартная|Равноугольная цилиндрическая}}
+{{#switch:{{{{PAGENAME}}|type}}
+|custom=
+{{!}}-
+! Формулы координат
+{{!}} [[/x|x]], [[/y|y]]
+|polar=
+{{!}}-
+! Координаты центра
+{{!}} {{{{PAGENAME}}|x}}%, {{{{PAGENAME}}|y}}%
+{{!}}-
+! Длина половины меридиана
+{{!}} {{{{PAGENAME}}|length_x}}% (x), {{{{PAGENAME}}|length_y}}% (y)
+|#default=
+{{!}}-
+!Координаты границ
+{{!}}
+ {{{!}}style="margin:0 auto; border: none"
+  {{!}}{{!}}{{!}}{{{{PAGENAME}}|top}}{{!}}{{!}}
+  {{!}}-
+  {{!}}<span>{{{{PAGENAME}}|left}}</span>{{!}}{{!}}{{!}}{{!}}{{{{PAGENAME}}|right}}
+  {{!}}-
+  {{!}}{{!}}{{!}}{{{{PAGENAME}}|bottom}}{{!}}{{!}}
+  {{!}}}
+{{!}}-
+! Координаты центра
+{{!}} {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}
+}}
+|-
+! Изображение
+{{!}} [[File:{{{{PAGENAME}}|image}}|444x444px|{{PAGENAME}}]]<br /><tt>[[:File:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|image}}]]</tt>
+|-
+{{#if:{{{{PAGENAME}}|image|physical}}|
+! Альтернативное<br />изображение
+{{!}} [[File:{{{{PAGENAME}}|image|physical}}|444x444px|{{PAGENAME}}]]<br /><tt>[[:File:{{{{PAGENAME}}|image|physical}}|{{{{PAGENAME}}|image|physical}}]]</tt>
+{{!}}-
+}}
+|}
+<!-- [[Category:Шаблоны:Позиционные карты|{{{sortkey|{{{1|{{{{PAGENAME}}|name}}}}}}}} {{{sortkey2|{{#if:{{{1|}}}|{{{{PAGENAME}}|name}}}}}}}]][[Category:Шаблоны:{{{1|{{{{PAGENAME}}|name}}}}}|ПозКарта {{{sortkey2|{{#if:{{{1|}}}|{{{{PAGENAME}}|name}}}}}}}]]-->
+</includeonly><noinclude>
+[[Category:Википедия:Подстраницы шаблона ПозКарта]]
+
+</noinclude>
