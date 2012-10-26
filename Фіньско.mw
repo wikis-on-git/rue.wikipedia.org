@@ -1,12 +1,12 @@
 {{Інфобокс країна
-|native_name         = {{lang|fi|Suomen tasavalta}}{{spaces|2}}<small>{{fi icon}}</small><br/>{{lang|sv|''Republiken Finland''}}{{spaces|2}}<small>{{sv icon}}</small>
+|native_name         = {{lang|fi|Suomen tasavalta}}{{spaces|2}}<small>{{fi icon}}</small><br />{{lang|sv|''Republiken Finland''}}{{spaces|2}}<small>{{sv icon}}</small>
 |conventional_long_name   = Фіньска републіка
 |common_name         = Фіньско
 |image_flag         = Flag_of_Finland.svg
 |image_coat         = Coat of arms of Finland.svg
 |image_map = EU-Finland.svg
 |map_caption = {{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Finland.svg}}
-|national_anthem = {{lang|fi|''[[Maamme]]''}}{{spaces|2}}<small>([[Finnish language|Finnish]])</small><br/>{{lang|sv|''[[Maamme#Vårt land|Vårt land]]''}}{{spaces|2}}<small>([[Swedish language|Swedish]])''<br/>"Our Land"</small>
+|national_anthem = {{lang|fi|''[[Maamme]]''}}{{spaces|2}}<small>([[Finnish language|Finnish]])</small><br />{{lang|sv|''[[Maamme#Vårt land|Vårt land]]''}}{{spaces|2}}<small>([[Swedish language|Swedish]])''<br />"Our Land"</small>
 |official_languages     = [[Finnish language|Finnish]], [[Swedish language|Swedish]]
 |regional_languages     = [[Saami languages|Saami]]
 |demonym           = [[Finns|Finns, Finnish]]
@@ -47,8 +47,8 @@
 |GDP_nominal_per_capita_rank =
 |sovereignty_type      = [[History of Finland|Independence]]
 |sovereignty_note      =
-|established_event1     = ''[[Grand Duchy of Finland|Autonomy]]''<br><small>''from [[History of Sweden (1772–1809)#The loss of Finland|Sweden]]''</small>
-|established_event2     = [[Finland's Declaration of Independence|Declared]]<br><small>from [[Russian Soviet Federative Socialist Republic|Bolshevik Russia]]</small>
+|established_event1     = ''[[Grand Duchy of Finland|Autonomy]]''<br /><small>''from [[History of Sweden (1772–1809)#The loss of Finland|Sweden]]''</small>
+|established_event2     = [[Finland's Declaration of Independence|Declared]]<br /><small>from [[Russian Soviet Federative Socialist Republic|Bolshevik Russia]]</small>
 |established_event3     = Recognised
 |established_date1      = ''March 29, 1809''
 |established_date2      = December 6, 1917
@@ -144,6 +144,7 @@
 [[es:Finlandia]]
 [[et:Soome]]
 [[eu:Finlandia]]
+[[ext:Finlándia]]
 [[fa:فنلاند]]
 [[fi:Suomi]]
 [[fiu-vro:Soomõ]]
