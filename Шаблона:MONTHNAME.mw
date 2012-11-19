@@ -1,4 +1,4 @@
-<includeonly>{{#if:{{{1|}}}|{{#switch:{{MONTHNUMBER|{{{1}}}}}|1=January|2=фебруара|3=March|4=April|5=May|6=June|7=July|8=August|9=September|10=October|11=November|12=December|Incorrect required parameter 1=''month''!}}|Missing required parameter 1=''month''!}}</includeonly><noinclude>
+<includeonly>{{#if:{{{1|}}}|{{#switch:{{MONTHNUMBER|{{{1}}}}}|1=януара|2=фебруара|3=мареца|4=апріля|5=мая|6=юна|7=юла|8=авґуста|9=cептембера|10=октобера|11=новембера|12=децембера|Incorrect required parameter 1=''month''!}}|Missing required parameter 1=''month''!}}</includeonly><noinclude>
 
 {{pp-template|small=yes}}
 {{Documentation}}
