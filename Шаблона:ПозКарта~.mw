@@ -1,0 +1,18 @@
+<includeonly><div style="font-size:{{#if:{{{label_size|}}}|{{{label_size}}}|88}}%;line-height:1.2em;position:absolute;z-index:2;left:{{ПозКарта/x|{{{1|Россия}}}|{{#expr:({{{lon|{{{long|}}}}}}+0{{{lon_deg|}}}+0{{{lon_min|}}}*(1/60)+0{{{lon_sec|}}}*(1/3600))*{{#ifeq:{{{lon_dir}}}|W|-1|1}}}}|{{#expr:({{{lat|}}}+0{{{lat_deg|}}}+0{{{lat_min|}}}*(1/60)+0{{{lat_sec|}}}*(1/3600))*{{#ifeq:{{{lat_dir}}}|S|-1|1}}}}}}%;top:{{ПозКарта/y|{{{1|Россия}}}|{{#expr:({{{lon|{{{long|}}}}}}+0{{{lon_deg|}}}+0{{{lon_min|}}}*(1/60)+0{{{lon_sec|}}}*(1/3600))*{{#ifeq:{{{lon_dir}}}|W|-1|1}}}}|{{#expr:({{{lat|}}}+0{{{lat_deg|}}}+0{{{lat_min|}}}*(1/60)+0{{{lat_sec|}}}*(1/3600))*{{#ifeq:{{{lat_dir}}}|S|-1|1}}}}}}%"><div style="position:relative;float:left;left:-{{#expr:-0.1+0{{{marksize|9}}}*0.5 round 0}}px;top:-{{#expr:-0.1+0{{{marksize|9}}}*0.5 round 0}}px;">[[File:{{#if:{{{mark|}}}|{{{mark}}}|Red_pog.png}}|{{{marksize|9}}}x{{{marksize|9}}}px|link=]]</div><div style="position:absolute;width:156px;top:-0.5em;{{#switch:{{#switch:{{{position|auto}}}!|!|auto!={{#ifexpr:{{ПозКарта/x|{{{1|Россия}}}|{{#expr:({{{lon|{{{long|}}}}}}+0{{{lon_deg|}}}+0{{{lon_min|}}}*(1/60)+0{{{lon_sec|}}}*(1/3600))*{{#ifeq:{{{lon_dir}}}|W|-1|1}}}}|{{#expr:({{{lat|}}}+0{{{lat_deg|}}}+0{{{lat_min|}}}*(1/60)+0{{{lat_sec|}}}*(1/3600))*{{#ifeq:{{{lat_dir}}}|S|-1|1}}}}}}>50|left|right}}|{{{position}}}}}|none=display:none|top=text-align:center;left:-78px;top:-1.8em|bottom=text-align:center;left:-78px;top:{{#expr:{{{marksize|9}}}*0.5+3}}px|right=text-align:left;left:{{#expr:{{{marksize|9}}}*0.5+2}}px|left=text-align:right;left:{{#expr:-{{{marksize|9}}}*0.5-158}}px}}"><span style="background:{{{background|none}}};padding:0 2px">{{{label|}}}</span></div></div></includeonly><noinclude>{{doc-inline}}См. документацию шаблона '''{{tl|ПозКарта}}'''.
+[[Category:Шаблоны:Позиционные карты]]
+[[Category:Википедия:Исключения из печати|{{PAGENAME}}]]
+
+[[da:Skabelon:Kortpositioner~]]
+[[dsb:Pśedłoga:LocMap~]]
+[[en:Template:Location map~]]
+[[fr:Modèle:Carte position~]]
+[[hr:Predložak:Lokacijska karta točka]]
+[[hsb:Předłoha:LocMap~]]
+[[it:Template:Mappa di localizzazione~]]
+[[ja:Template:Location map~]]
+[[nl:Sjabloon:Positiekaart~]]
+[[os:Шаблон:ПозКартæ~]]
+[[pt:Predefinição:Mapa de localização~]]
+[[ru:Шаблон:ПозКарта~]]
+[[uk:Шаблон:Карта розташування~]]
+</noinclude>
