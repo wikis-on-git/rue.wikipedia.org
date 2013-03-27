@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|хорватьскы}}}{{LangF|de|{{{3}}}}}
+    | + = [[хорватьскый язык|{{{4|хорватьскы}}}]]{{LangF|hr|{{{3}}}}}
+    | * =
+  }}<!--
+-->{{lang|hr|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon hr}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
