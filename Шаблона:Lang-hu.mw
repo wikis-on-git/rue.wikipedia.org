@@ -1,0 +1,11 @@
+{{#if: {{{1|<noinclude>—</noinclude>}}} 
+| {{#switch: {{{3|+}}}
+    | - = {{{4|мадярьскы}}}{{LangF|hu|{{{3}}}}}
+    | + = [[мадярьскый язык|{{{4|мадярьскы}}}]]{{LangF|hu|{{{3}}}}}
+    | * =
+  }}<!--
+-->{{lang|hu|{{{1}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|{{LangTd|{{{2}}}}}}}
+| {{icon hu}}
+}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
