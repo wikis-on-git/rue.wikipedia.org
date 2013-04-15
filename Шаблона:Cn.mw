@@ -1,0 +1,6 @@
+<includeonly><code style="white-space:nowrap;">{{{1|}}}</code></includeonly><noinclude>
+Шаблон заворачивает передаваемый ему параметр в тег &lt;code&gt; и {{tl|nobr}}. Используется в служебных целях.
+
+[[Category:Википедия:Шаблоны]]
+
+</noinclude>
