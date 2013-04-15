@@ -10,6 +10,4 @@ OR {{#ifexist:Вікіпедія:Статті-кандидати на вилуч
 {{#ifexpr: {{#time:Ymd|{{{1|}}}}} = {{#time:Ymd|-7days}} | 
 <tr><td colspan=2 style="text-align:center;color:white;background:gray">'''Обговорення, що закінчилися нещодавно і потребують підведення підсумків'''</td></tr>
 |}}<noinclude>
-[[ru:Шаблон:Удаление статей]]
-[[uk:Шаблон:Вилучення статей]]
 </noinclude>
