@@ -167,7 +167,7 @@
                 |<!--then:-->'''{{{admin_center_type|Administrative&nbsp;center}}}'''<!--
              -->|<!--else:-->{{#if:{{{capital_type|}}}
                              |<!--then:-->'''{{{capital_type}}}'''<!--
-                          -->|<!--else:-->'''[[Головноє місто|Головноє місто]]'''<!--
+                          -->|<!--else:-->'''[[Головне місто|Головный город]]'''<!--
                           -->}}<!--
              -->}}<!--
        ---------------------------------------------------------
@@ -191,7 +191,7 @@
                  -----------------------------------------------
                     --><br/>{{#ifexist:List of cities in {{{common_name}}}
                               |[[List of cities in {{{common_name}}}|(and {{{largest_settlement_type|largest city}}})]]
-                              |(і {{{largest_settlement_type|майбулшоє місто}}})
+                              |(и {{{largest_settlement_type|майбулшый город}}})
                        }}</td><!--
                     --------Add capital:--------
                     --><td>{{{capital}}}<!--
@@ -261,7 +261,7 @@
 ================================================================
 -->{{#if:{{{official_languages|}}} |<!--then:
      --><tr>
-          <th colspan="2" style="vertical-align:middle; white-space:nowrap;">[[Офіціалный язык|Офіціалный(-і) язык(ы)]]</th>
+          <th colspan="2" style="vertical-align:middle; white-space:nowrap;">[[Офіціалный язык|Офіціалні языкы]]</th>
           <td>{{{official_languages|}}}</td>
         </tr><!--
      -->{{#if:{{{regional_languages|}}} |<!--then:
@@ -319,7 +319,7 @@
 ================================================================
 -->{{#if:{{{government_type|}}} |<!--then:
      --><tr>
-          <th colspan="2">[[Влада|Влада]]</th>
+          <th colspan="2">[[Форма влады]]</th>
           <td>{{{government_type|}}}</td>
         </tr><!--
 -->|<!--else no government_type provided, so if at least one leader provided,
@@ -329,7 +329,7 @@
             |<!--then template being used for geopolitical organization:
               --><tr><th colspan="3">Лідеры</th></tr><!--
          -->|<!--else template being used for a country or territory:
-              --><tr><th colspan="3">[[Влада|Влада]]</th></tr><!--
+              --><tr><th colspan="3">[[Форма влады]]</th></tr><!--
          -->}}<!--
     -->}}<!--
 -->}}<!--
@@ -513,22 +513,20 @@
 ================================================================
 -->{{#if:{{{area_km2|}}} |<!--then:
      --><tr class="mergedtoprow">
-          <th colspan="3">[[List of countries and outlying territories by total area|Теріторія]]</th>
+          <th colspan="3">[[List of countries and outlying territories by total area|Територія]]</th>
         </tr>
         <tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">{{{area_label|вшиткого}}}<!--
+          <td style="padding-left:0em;">{{{area_label|вєдно}}}<!--
 --France-related footnote:-->{{#if:{{{FR_foot4|}}} |<!--then:-->{{{FR_foot4}}} }}</td>
           <td>[[{{{area_magnitude|}}} {{#if:{{{area_magnitude|}}} |<!--then:-->m² |<!--else:-->Square metre}} | {{formatnum:{{{area_km2|}}}}}&nbsp;км<sup>2</sup>]]&nbsp;<!--
-              -->{{#if:{{{area_footnote|}}}|{{{area_footnote|}}} }}{{#if:{{{area_rank|}}} |<!--then:-->([[List of countries and outlying territories by total area|{{{area_rank}}}]]) }}<!--
-              --><br/>{{#if:{{{area_sq_mi|}}}|{{formatnum:{{{area_sq_mi|}}}}}|{{formatnum:{{#expr: {{{area_km2|}}} div 2.589988110336 round 0}}}}}}&nbsp;[[Square mile|sq&nbsp;mi]]&nbsp;</td>
-        </tr><!--
+              -->{{#if:{{{area_footnote|}}}|{{{area_footnote|}}} }}{{#if:{{{area_rank|}}} |<!--then:-->([[List of countries and outlying territories by total area|{{{area_rank}}}]]) }}</td></td><!--
 -->}}<!--
    -------------------Percentage water--------------------
 -->{{#if:{{{percent_water|}}} |<!--then:
      --><tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">[[List of countries by percentage of water area|вода&nbsp;(%)]]</td>
+          <td style="padding-left:0em;">[[List of countries by percentage of water area|водної поверьхности, %]]</td>
           <td>{{{percent_water|}}}</td>
         </tr><!--
 -->}}<!--
@@ -565,7 +563,7 @@
 ================================================================
 -->{{#if:{{{population_estimate|}}}{{{population_census|}}}{{{FR_metropole_population|}}} |<!--then:
      --><tr class="mergedtoprow">
-          <th colspan="3">[[Населїня|Населеня]]</th>
+          <th colspan="3">[[Населїня|Обывательство]]</th>
         </tr><!--
      ---------------Estimate---------------
      -->{{#if:{{{population_estimate|}}} |<!--then:
@@ -621,12 +619,12 @@
    -----------------PPP-----------------
 -->{{#if:{{{GDP_PPP|}}} |<!--then:
      --><tr class="mergedtoprow">
-          <td colspan="2">'''[[Грубый домашнїй продукт|ГДП]]'''</td>
+          <td colspan="2">'''[[Грубый домашнїй продукт|ГВР (ВВП)]]'''</td>
           <td>шацованя {{{GDP_PPP_year|}}}. року</td>
         </tr>
         <tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-left:0em;">вшиткого</td>
+          <td style="padding-left:0em;">вєдно</td>
           <td>{{{GDP_PPP}}}&nbsp;<!--
               -->{{#if:{{{GDP_PPP_rank|}}} |<!--then:-->([[List of countries by GDP (PPP)|{{{GDP_PPP_rank}}}]]) }}</td>
         </tr><!--
@@ -634,7 +632,7 @@
    -->{{#if:{{{GDP_PPP_per_capita|}}} |<!--then:
         --><tr class="mergedbottomrow">
              <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-             <td style="padding-left:0em;">на голову</td>
+             <td style="padding-left:0em;">на єдного жителя</td>
              <td>{{{GDP_PPP_per_capita}}}&nbsp;<!--
                  -->{{#if:{{{GDP_PPP_per_capita_rank|}}} |<!--then:-->([[List of countries by GDP (PPP) per capita|{{{GDP_PPP_per_capita_rank}}}]]) }}</td>
            </tr><!--
@@ -680,7 +678,7 @@
 ================================================================
 -->{{#if:{{{HDI|}}} |<!--then:
      --><tr>
-          <td colspan="2">'''[[ІЛР|HDI]]'''&nbsp;{{#if:{{{HDI_year|}}} |<!--then:-->({{{HDI_year|}}}) }}</td>
+          <td colspan="2">'''[[ІЛР]]'''&nbsp;{{#if:{{{HDI_year|}}} |<!--then:-->({{{HDI_year|}}}) }}</td>
           <td>{{{HDI}}}&nbsp;<!--
               -->{{#if:{{{HDI_category|}}} |<!--then:-->({{{HDI_category|}}})&nbsp;}}<!--
               -->{{#if:{{{HDI_rank|}}}     |<!--then:-->([[List of countries by Human Development Index|{{{HDI_rank}}}]]) }}</td>
