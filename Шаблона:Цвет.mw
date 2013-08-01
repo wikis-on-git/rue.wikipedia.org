@@ -1,6 +1,4 @@
 <includeonly>{{#ifexist:Шаблона:цвет/{{{1}}}|{{цвет/{{{1}}}}}|<nowiki>#</nowiki>ECECEC}}</includeonly><noinclude>
 {{Doc}}
 <!-- Пожалуйста, добавляйте категории и интервики на страницу документации! -->[[crh:Şablon:Renk]]
-[[kbd:Template:Color]]
-[[os:Шаблон:Хуыз]]
 </noinclude>
