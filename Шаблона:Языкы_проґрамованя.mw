@@ -1,0 +1,25 @@
+{{Navbox
+|name   = Языкы проґрамованя
+|title  = [[Язык проґрамованя|Языкы проґрамованя]]
+|group1 = [[Мултіпарадіґматічный язык проґрамованя|Мултіпарадіґматічны]]
+|list1  = [[Ада (язык проґрамованя)|Ада]] • [[Common Lisp|Common Lisp]] • [[D (язык проґрамованя)|D]] • [[F Sharp|F#]] • [[PHP|PHP]] • [[Python|Python]] • [[Tcl|Tcl/Tk]]
+|group2 = [[Штруктуроване проґрамованя|Штруктурованы]] ([[Імператівне проґрамованя|процедуралны]])
+|list2  = [[AWK|AWK]] • [[C (язык проґрамованя)|C]] • [[COBOL|COBOL]] • [[Forth|Forth]] • [[Fortran|Fortran]] • [[Lua|Lua]] • [[Modula-2|Modula-2]] / [[Modula-3|Modula-3]] • [[Oberon (язык проґрамованя)|Oberon]] • [[Pascal (язык проґрамованя)|Pascal]] • [[Perl|Perl]] • [[PL/SQL]]
+|group3 = [[Обєктово орьєнтоване проґрамованя|Обєктовы]]
+|list3  = [[BETA|BETA]] • [[C++|C++]] • [[Boo (язык проґрамованя)|Boo]] • [[C Sharp|C#]] • [[Eiffel (язык проґрамованя)|Eiffel]] • [[Flex (язык проґрамованя)|Flex]] • [[Java (язык проґрамованя)|Java]] • [[JavaScript|JavaScript]] • [[Object Pascal|Object Pascal]] • [[Objective-C|Objective-C]] • [[Ruby (язык проґрамованя)|Ruby]] • [[Smalltalk|Smalltalk]] • [[Visual Basic .NET|VB.NET]]
+|group4 = [[Функціоналне проґрамованя|Функціоналны]]
+|list4  = [[Clean|Clean]] • [[Erlang (язык проґрамованя)|Erlang]] • [[Haskell|Haskell]] • [[Lisp|Lisp]] • [[Mathematica|Mathematica]] • [[Miranda (язык проґрамованя)|Miranda]] • [[ML (язык проґрамованя)|ML]] • [[OCaml|OCaml]] • [[Scheme|Scheme]]
+|group5 = [[Лоґічне проґрамованя|Лоґічны]]
+|list5  = [[Пролоґ (язык проґрамованя)|Prolog]] • [[Goedel|Goedel]]
+|group6 = Едукачны
+|list6  = [[Baltazar (язык проґрамованя)|Baltazar]] • [[Baltík|Baltík]] • [[Logo (язык проґрамованя)|Logo]] • [[Karel (язык проґрамованя)|Karel]] • [[Microsoft Small Basic|Microsoft Small Basic]]
+|group7 = [[Езотерічный язык проґрамованя|Езотерічны]]
+|list7  = [[Brainfuck|Brainfuck]] • [[Malbolge|Malbolge]] • [[Ook!|Ook!]] • [[Piet|Piet]] • [[Shakespeare (язык проґрамованя)|Shakespeare]] • [[Taxi (язык проґрамованя)|Taxi]] • [[Whitespace|Whitespace]]
+|group8 = Historické
+|list8  = [[ALGOL|ALGOL]] • [[APL (язык проґрамованя)|APL]] / [[J (язык проґрамованя)|J]] • [[BASIC|BASIC]] • [[MUMPS|MUMPS]] • [[PL/1]] • [[Simula 67|Simula 67]]
+|group9 = Далшы
+|list9  = [[ABAP|ABAP]] • [[AppleScript|AppleScript]] • [[ColdFusion|ColdFusion]] • [[Jazyk symbolických adres|JSA]] • [[MATLAB|MATLAB]] • [[Pawn|Pawn]] • [[SQL|SQL]] • [[Visual Basic|Visual Basic]] • [[VBScript|VBScript]] • [[Vimscript|Vimscript]] • [[Visual FoxPro|Visual FoxPro]] • [[XSLT|XSLT]] • [[Список языків проґрамованя|Список языків проґрамованя]]
+}}<noinclude>
+
+[[en:Template:Major programming languages]]
+</noinclude>
