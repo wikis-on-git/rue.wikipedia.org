@@ -1,0 +1,47 @@
+{{#switch:{{{1|}}}
+| Default | default | white = white
+| Afro-Asiatic | Afro-asiatic | yellow = yellow
+| Algic | lightskyblue = lightskyblue
+| Altaic | yellowgreen = yellowgreen
+| American | lightblue = lightblue
+| Andamanese = <nowiki>#C99FEE</nowiki>
+| Australian | orchid = <nowiki>#eba9ee</nowiki>
+| Austroasiatic | Austro-Asiatic | Austro-asiatic | lightcoral = lightcoral
+| Austronesian | tomato = pink
+| pink = tomato
+| Caucasian = lightgreen
+| Conlang | conlang | constructed language | black = black
+| Creole | creole = tan
+| Dravidian | mediumspringgreen = mediumspringgreen
+| Eskimo-Aleut | lightcyan = lightcyan
+| Hmong-Mien = <nowiki>#ff0033</nowiki>
+| Indo-European | lawngreen = lawngreen
+| isolate | language isolate | Isolate | #dddddd = <nowiki>#dddddd</nowiki>
+| Khoisan | goldenrod = goldenrod
+| Mixed | mixed = tan
+| Na-Dene | Na-Dené | Dene-Yeniseian | Dené-Yeniseian | deepskyblue = deepskyblue
+| Niger-Congo | orange = orange
+| Nilo-Saharan | gold = gold
+| Palaeosiberian | Palaeo-Siberian | Palaeo-siberian | Paleosiberian | Paleo-Siberian | Paleo-siberian = darkseagreen
+| Papuan | violet = <nowiki>#fd79da</nowiki>
+| Pidgin | pidgin = tan
+| Sign | sign | sign language | silver = silver
+| lightgreen = lightgreen
+| Sino-Tibetan = tomato
+| Kadai | lavender = lavender
+| Kradai | lavender = lavender
+| Tai-Kadai | lavender = lavender
+| Uralic | limegreen = limegreen
+| Uto-Aztecan | Utoaztecan | dodgerblue = dodgerblue
+|
+}}<noinclude>{{доц|content=
+
+=== Usage ===
+
+<nowiki>{{</nowiki>[[Template:Infobox language|Infobox language]]<nowiki>/family-color|<family/color>}}</nowiki><br>Replace <family/color> with the language family or specific color to display.
+
+[[ar:قالب:Infobox Language/family-color]]
+[[id:Templat:Infobox Language/family-color]]
+[[lv:Veidne:Infobox Language/family-color]]
+[[sl:Predloga:Infopolje Jezi/barvadružine]]
+}}</noinclude>
