@@ -1,0 +1,4 @@
+<noinclude>{{pp-template}}
+
+{{template doc}}
+</noinclude>{{#switch:{{ucfirst:{{{1}}}}}|Replace this image male.svg|Replace this image female.svg|Replace this image1.svg|Replace this imageb.svg|[[Image:Replace this imageb.svg|150px]]|Replace this image male.svg|[[Image:Replace this image female.svg|150px]] <!-- Only freely-licensed images may be used to depict living people.  See [[WP:NONFREE]].  -->=metadata dummy}}
