@@ -238,7 +238,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}}- {{#if: {{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area1|}}} |
 {{!}} {{!!}} густота
-{{!!}} {{formatnum:{{#expr:{{{stat_pop1}}} div {{{stat_area1}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop1}}} * 2.589988110336 div {{{stat_area1}}} round 1}}}}&nbsp;/sq&nbsp;mi)
+{{!!}} {{formatnum:{{#expr:{{{stat_pop1}}} div {{{stat_area1}}} round 1}}}}/км<sup>2</sup>
 }}}}
 |- {{#if: {{{stat_area2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_pop2|}}} |
@@ -247,7 +247,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}}- {{#if: {{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area2|}}} |
 {{!}} {{!!}} густота
-{{!!}} {{formatnum:{{#expr:{{{stat_pop2}}} div {{{stat_area2}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop2}}} * 2.589988110336 div {{{stat_area2}}} round 1}}}}&nbsp;/sq&nbsp;mi)
+{{!!}} {{formatnum:{{#expr:{{{stat_pop2}}} div {{{stat_area2}}} round 1}}}}/км<sup>2</sup>
 }}}}
 |- {{#if: {{{stat_area3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_pop3|}}} |
@@ -256,7 +256,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}}- {{#if: {{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area3|}}} |
 {{!}} {{!!}} густота
-{{!!}} {{formatnum:{{#expr:{{{stat_pop3}}} div {{{stat_area3}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop3}}} * 2.589988110336 div {{{stat_area3}}} round 1}}}}&nbsp;/sq&nbsp;mi)
+{{!!}} {{formatnum:{{#expr:{{{stat_pop3}}} div {{{stat_area3}}} round 1}}}}/км<sup>2</sup>
 }}}}
 |- {{#if: {{{stat_area4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_pop4|}}} |
@@ -265,7 +265,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}}- {{#if: {{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area4|}}} |
 {{!}} {{!!}} густота
-{{!!}} {{formatnum:{{#expr:{{{stat_pop4}}} div {{{stat_area4}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop4}}} * 2.589988110336 div {{{stat_area4}}} round 1}}}}&nbsp;/sq&nbsp;mi)
+{{!!}} {{formatnum:{{#expr:{{{stat_pop4}}} div {{{stat_area4}}} round 1}}}}/км<sup>2</sup>
 }}}}
 |- {{#if: {{{stat_area5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_pop5|}}} |
@@ -274,7 +274,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}}- class="mergedbottomrow"
 {{#if: {{{stat_area5|}}} |
 {{!}} {{!!}} густота
-{{!!}} {{formatnum:{{#expr:{{{stat_pop5}}} div {{{stat_area5}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop5}}} * 2.589988110336 div {{{stat_area5}}} round 1}}}}&nbsp;/sq&nbsp;mi)
+{{!!}} {{formatnum:{{#expr:{{{stat_pop5}}} div {{{stat_area5}}} round 1}}}}/км<sup>2</sup>
 }}}}
 |-
 {{#if: {{{political_subdiv|}}} |
