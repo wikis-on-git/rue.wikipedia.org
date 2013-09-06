@@ -1,14 +1,8 @@
 <includeonly>{| class="infobox geography" style="width:{{{width|290px}}};"
 |- style="font-size: 85%;" 
 |-
-| colspan="3" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:135%;"| '''{{#if:{{{native_name|}}}
- | {{{conventional_long_name}}}
-   | <br>{{{native_name}}}
- | {{#if:{{{conventional_long_name|}}}
-   | {{{conventional_long_name}}}
-   | ''Error: No name(s) given'' {{#if:{{{_noautocat|<noinclude>yes</noinclude>}}}||[[Category:Former country articles requiring maintenance|N]]}}
-   }}
-}}'''
+| colspan="3" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:135%;"| '''| {{{conventional_long_name}}}
+   | <br>{{{native_name}}}'''
 |-
 <!-- Name of the subdivision -->
 |colspan="3" style="vertical-align:top; text-align:center; font-size:115%;" | {{#if:{{{status_text|}}}|{{{status_text}}}|{{#if:{{{nation|}}}|{{{subdivision}}} {{#ifexist:{{{nation}}}|[[{{{nation}}}]]|{{{nation}}}}} |''Type of subdivision'' of (the) ''Former Country''}} }}
@@ -161,7 +155,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{{date_pre|}}} {{{year_pre|}}}
 }}
 |- class="mergedrow"
-| style="width:1.0em; padding:0 0 0 0.6em;"{{!}}&nbsp;-&nbsp;{{!!}}style="padding-left:0em;text-align:left;"{{!}}{{#if:{{{event_start|}}}| {{#ifexist:{{{event_start}}}|[[{{{event_start}}}]]|{{{event_start}}}}}|Established}}
+| style="width:1.0em; padding:0 0 0 0.6em;"{{!}}&nbsp;-&nbsp;{{!!}}style="padding-left:0em;text-align:left;"{{!}}{{#if:{{{event_start|}}}| {{#ifexist:{{{event_start}}}|[[{{{event_start}}}]]|{{{event_start}}}}}|заоснована}}
 ||{{#if:{{{date_start|}}}|{{#ifexist:{{{date_start}}}|{{{date_start}}}{{#ifexist:{{{year_start}}}|&nbsp;{{{year_start}}}}}|{{{date_start}}}}}|
 {{#if:{{{year_start|}}}|{{#ifexist:{{{year_start}}}|{{{year_start}}}|{{{year_start}}}}}|''Enter start date''{{#if:{{{_noautocat|<noinclude>yes</noinclude>}}}||[[Category:Former country articles requiring maintenance|D]]}}}}}}
 |- class="mergedrow"
