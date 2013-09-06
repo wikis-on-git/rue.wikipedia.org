@@ -1,8 +1,7 @@
 <includeonly>{| class="infobox geography" style="width:{{{width|290px}}};"
 |- style="font-size: 85%;" 
 |-
-| colspan="3" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:135%;"| '''| {{{conventional_long_name}}}
-   | <br>{{{native_name}}}'''
+| colspan="3" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:135%;"| '''{{{conventional_long_name}}}<br>{{{native_name}}}'''
 |-
 <!-- Name of the subdivision -->
 |colspan="3" style="vertical-align:top; text-align:center; font-size:115%;" | {{#if:{{{status_text|}}}|{{{status_text}}}|{{#if:{{{nation|}}}|{{{subdivision}}} {{#ifexist:{{{nation}}}|[[{{{nation}}}]]|{{{nation}}}}} |''Type of subdivision'' of (the) ''Former Country''}} }}
