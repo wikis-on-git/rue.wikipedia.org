@@ -2,9 +2,8 @@
 |- style="font-size: 85%;" 
 |-
 | colspan="3" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:135%;"| '''{{#if:{{{native_name|}}}
- | {{#if:{{{conventional_long_name|}}} {{{native_name}}} 
-   | <br>{{{conventional_long_name}}}
-   }}
+ | {{{conventional_long_name}}}
+   | <br>{{{native_name}}}
  | {{#if:{{{conventional_long_name|}}}
    | {{{conventional_long_name}}}
    | ''Error: No name(s) given'' {{#if:{{{_noautocat|<noinclude>yes</noinclude>}}}||[[Category:Former country articles requiring maintenance|N]]}}
@@ -41,7 +40,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 |-
 {{#if:{{{image_flag|}}}||{{#if:{{{image_coat|}}}|
 {{!}} colspan="3" class="maptable" align=center {{!}}
-<p>[[File:{{{image_coat|<noinclude>Coat of arms None.svg</noinclude>}}}|85px|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}} of {{{common_name}}}]] <p> {{#if:{{{symbol|}}}|[[{{{symbol}}}|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}}]]|{{#ifexist:Coat of arms of {{{common_name}}}|[[Coat of arms of {{{common_name}}}|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}}]]|{{#ifexist:Coat of arms of the {{{common_name}}}|[[Coat of arms of the {{{common_name}}}| |{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}}]]|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}}}}}}}}}}}}
+<p>[[File:{{{image_coat|<noinclude>Coat of arms None.svg</noinclude>}}}|85px|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Герб}} of {{{common_name}}}]] <p> {{#if:{{{symbol|}}}|[[{{{symbol}}}|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Coat of arms}}]]|{{#ifexist:Coat of arms of {{{common_name}}}|[[Coat of arms of {{{common_name}}}|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Герб}}]]|{{#ifexist:Coat of arms of the {{{common_name}}}|[[Coat of arms of the {{{common_name}}}| |{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Герб}}]]|{{#if:{{{symbol_type|}}}|{{{symbol_type}}}|Герб}}}}}}}}}}}}
 |-
 <!-- Motto -->
 {{#if: {{{national_motto|}}} |
@@ -60,7 +59,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 |-
 <!-- Capital -->
 {{#if:{{{capital|}}}|
-{{!}} colspan="2" {{!}} '''Столиця'''
+{{!}} colspan="2" {{!}} '''столиця'''
 {{!}} {{#ifexist:{{{capital}}}|[[{{{capital}}}]]|{{{capital}}}}}{{#if: {{{latd|}}}|<br> <small>{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|display=inline,title}}</small>}} }}
 |- {{#if:{{{government_type|}}} | {{#if:{{{title_leader|}}}{{{title_deputy|}}}|class="mergedtoprow"}}}}
 <!-- Government -->
@@ -154,7 +153,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 }}
 |- class="mergedtoprow"
 <!-- Events  -->
-| colspan="2" {{!}} {{#if:{{{era|}}}|'''Історична епоха'''|'''Історія'''}}
+| colspan="2" {{!}} {{#if:{{{era|}}}|'''історична епоха'''|'''історія'''}}
 || {{#if:{{{era|}}}|{{#ifexist:{{{era|}}}|[[{{{era}}}]]|{{{era}}}}}}}
 |- class="mergedrow"
 {{#if: {{{event_pre|}}} |
@@ -203,7 +202,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 <!-- Area -->
 {{#if: {{{stat_year1|}}}|
 {{#if: {{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}} |
-{{!}} colspan="3" {{!}} '''Розлога'''|
+{{!}} colspan="3" {{!}} '''розлога'''|
 }}
 {{!}}- {{#if: {{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area1|}}} |
@@ -230,14 +229,14 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!}} {{#if: {{{stat_year5|}}}|style="width:1.0em; padding:0 0 0 0.6em;"{{!}}&nbsp;-&nbsp;{{!!}}style="padding:0em 1em 0.2em 0;text-align:left;"{{!}}{{{stat_year5}}} }} {{!}}{{!}} {{formatnum:{{{stat_area5|}}}}}&nbsp;км<sup>2</sup>
 }} }}
 | {{#if: {{{stat_area1|}}} |
- {{!}} colspan="2" {{!}} '''Area'''
+ {{!}} colspan="2" {{!}} '''розлога'''
  {{!!}}  {{formatnum:{{{stat_area1|}}}}}&nbsp;км<sup>2</sup>
 }}
 }}
 |- class="mergedtoprow"
 <!-- Population -->
 {{#if: {{{stat_pop1|}}}{{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} |
-{{!}} colspan="3" {{!}} '''Населеня'''
+{{!}} colspan="3" {{!}} '''населеня'''
 }}
 |- {{#if: {{{stat_area1|}}}{{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_pop1|}}} |
@@ -245,7 +244,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{formatnum:{{{stat_pop1|}}}}}&nbsp;
 {{!}}- {{#if: {{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area1|}}} |
-{{!}} {{!!}} Густота
+{{!}} {{!!}} густота
 {{!!}} {{formatnum:{{#expr:{{{stat_pop1}}} div {{{stat_area1}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop1}}} * 2.589988110336 div {{{stat_area1}}} round 1}}}}&nbsp;/sq&nbsp;mi)
 }}}}
 |- {{#if: {{{stat_area2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
@@ -254,7 +253,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{formatnum:{{{stat_pop2|}}}}}&nbsp;
 {{!}}- {{#if: {{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area2|}}} |
-{{!}} {{!!}} Густота
+{{!}} {{!!}} густота
 {{!!}} {{formatnum:{{#expr:{{{stat_pop2}}} div {{{stat_area2}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop2}}} * 2.589988110336 div {{{stat_area2}}} round 1}}}}&nbsp;/sq&nbsp;mi)
 }}}}
 |- {{#if: {{{stat_area3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
@@ -263,7 +262,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{formatnum:{{{stat_pop3|}}}}}&nbsp;
 {{!}}- {{#if: {{{stat_pop4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area3|}}} |
-{{!}} {{!!}} Густота
+{{!}} {{!!}} густота
 {{!!}} {{formatnum:{{#expr:{{{stat_pop3}}} div {{{stat_area3}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop3}}} * 2.589988110336 div {{{stat_area3}}} round 1}}}}&nbsp;/sq&nbsp;mi)
 }}}}
 |- {{#if: {{{stat_area4|}}}{{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
@@ -272,7 +271,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{formatnum:{{{stat_pop4|}}}}}&nbsp;
 {{!}}- {{#if: {{{stat_pop5|}}} | class="mergedrow" | class="mergedbottomrow"}}
 {{#if: {{{stat_area4|}}} |
-{{!}} {{!!}} Густота
+{{!}} {{!!}} густота
 {{!!}} {{formatnum:{{#expr:{{{stat_pop4}}} div {{{stat_area4}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop4}}} * 2.589988110336 div {{{stat_area4}}} round 1}}}}&nbsp;/sq&nbsp;mi)
 }}}}
 |- {{#if: {{{stat_area5|}}} | class="mergedrow" | class="mergedbottomrow"}}
@@ -281,7 +280,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 {{!!}} {{formatnum:{{{stat_pop5|}}}}}&nbsp;
 {{!}}- class="mergedbottomrow"
 {{#if: {{{stat_area5|}}} |
-{{!}} {{!!}} Густота
+{{!}} {{!!}} густота
 {{!!}} {{formatnum:{{#expr:{{{stat_pop5}}} div {{{stat_area5}}} round 1}}}}&nbsp;/km<sup>2</sup>&nbsp; ({{formatnum:{{#expr: {{{stat_pop5}}} * 2.589988110336 div {{{stat_area5}}} round 1}}}}&nbsp;/sq&nbsp;mi)
 }}}}
 |-
@@ -306,7 +305,7 @@ For the preceding and succeeding entities, give as input the name the territory.
 |-
 {{#if: {{{today|}}} |
 <!-- Present Divisions -->
-{{!}} colspan="2" {{!}} '''Днесь часть'''
+{{!}} colspan="2" {{!}} '''днесь часть'''
 {{!!}} {{{today}}}
 }}
 |-
