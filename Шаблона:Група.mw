@@ -10,7 +10,7 @@
 }}
 {{!}}-
 {{#if:{{{Годи|{{{Years_active|<noinclude>показати</noinclude>}}}}}}|
-! style="text-align: right; background: white; vertical-align: top" {{!}} Годи
+! style="text-align: right; background: white; vertical-align: top" {{!}} Годи екзістування
 {{!}} style="vertical-align: top;"{{!}} {{{Годи|{{{Years_active}}}}}}}}
 {{!}}-
 {{#if:{{{Попередні названія|{{{Previous_names|<noinclude>1</noinclude>}}}}}}|
