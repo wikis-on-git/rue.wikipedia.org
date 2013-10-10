@@ -59,7 +59,7 @@
 {{!}}-
 {{#if:{{{Сайт|{{{URL|{{{Website|<noinclude>показати</noinclude>}}}}}}}}}|
 ! colspan="2" style="text-align: center; background: #EFF0F7" {{!}} {{{Сайт|{{{URL|{{{Website}}}}}}}}}}}
-|}{{#if:{{NAMESPACE}}||[[Категорія:Музичні колективи за алфавітом]]}}<noinclude>{{документація}}</noinclude>
+|}{{#if:{{NAMESPACE}}||[[Категорія:Музичні колективи за алфавітом]]}}
 
 ==Юзинг (використання)==
 <pre>
