@@ -1,0 +1,62 @@
+{| cellspacing="4" class="infobox" style="width: 20em; font-size:95%; text-align: left;"
+! colspan="2" style="text-align: center; background:&#35;b0c4de" | {{#if:{{{Назва|{{{Name|}}}}}}|<big>{{{Назва|{{{Name|}}}}}}</big>|<big>{{PAGENAME}}</big>}}
+{{!}}-
+{{#if:{{{Лого|<noinclude>показати</noinclude>}}}|
+{{!}} colspan="2" style="text-align: center" {{!}} [[Фото:{{{Лого}}}{{!}}200пкс]]}}
+{{!}}-
+{{#if:{{{Фото|{{{Img|{{{Фото|<noinclude>показати</noinclude>}}}}}}}}}|
+{{!}} colspan="2" style="text-align: center" {{!}} [[Зображення:{{{Фотографія|{{{Img|{{{Фото|}}}}}}}}}{{!}}
+{{#if:{{{Ширина_фотографії|{{{Img_size|}}}}}}| {{{Ширина_фотографії|{{{Img_size}}}}}}px| 200пкс}}]]<br /><div><small>{{#if:{{{Дескрипція_фотографії|{{{Img_capt|{{{Підпис|}}}}}}}}}|{{{Дескрипція_фотографії|{{{Img_capt|{{{Підпис|}}}}}}}}}|{{{Названіє|{{{Name}}}}}}}}</small></div>
+}}
+{{!}}-
+{{#if:{{{Годи|{{{Years_active|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Годи
+{{!}} style="vertical-align: top;"{{!}} {{{Годи|{{{Years_active}}}}}}}}
+{{!}}-
+{{#if:{{{Попередні названія|{{{Previous_names|<noinclude>1</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Попередні названія
+{{!}} style="vertical-align: top;"{{!}} {{{Попередні названія|{{{Previous_names}}}}}}}}
+{{!}}-
+{{#if:{{{Звідки|{{{Origin|{{{Місце_створення|<noinclude>показати</noinclude>}}}}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" title="Місце фундації колективу" {{!}} Фундація
+{{!}} style="vertical-align: top;"{{!}} {{{Фундація|{{{Origin|{{{Фундація|}}}}}}}}}}}
+{{!}}-
+{{#if:{{{Країна|<noinclude>показати</noinclude>}}}|
+! style="text-align: right; background: white; vertical-align: top" title="Місце поточної дислокації колективу" {{!}} Країна
+{{!}} style="vertical-align: top;"{{!}} {{{Країна}}}}}
+{{!}}-
+{{#if:{{{Мова|<noinclude>показати</noinclude>}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} [[Мова|Мова(и)]]
+{{!}} style="vertical-align: top;"{{!}} {{{Мова}}}}}
+{{!}}-
+{{#if:{{{Тема |<noinclude>показати</noinclude>}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Тематика
+{{!}} style="vertical-align: top;"{{!}} {{{Тематика}}}}}
+{{!}}-
+{{#if:{{{Жанр (стиль)|{{{Genre|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} [[Жанр|Жанр (style]]
+{{!}} style="vertical-align: top;"{{!}} {{{Жанр|{{{Genre}}}}}}}}
+{{!}}-
+{{#if:{{{Лейбл|{{{Label|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} [[Лейбл|Лейбл(и)]]
+{{!}} style="vertical-align: top;"{{!}} {{{Лейбл|{{{Label}}}}}}}}
+{{!}}-
+{{#if:{{{Продюсер|{{{Leader|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Продюсер
+{{!}} style="vertical-align: top;"{{!}} {{{Керівник|{{{Leader}}}}}}}}
+{{!}}-
+{{#if:{{{Склад|{{{Current_members|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Склад
+{{!}} style="vertical-align: top;"{{!}} {{{Склад|{{{Current_members}}}}}}}}
+{{!}}-
+{{#if:{{{Колишні_учасники|{{{Past_members|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Бивший склад
+{{!}} style="vertical-align: top;"{{!}} {{{Колишні_учасники|{{{Past_members}}}}}}}}
+{{!}}-
+{{#if:{{{Інші_проекти|{{{Associated_acts|<noinclude>показати</noinclude>}}}}}}|
+! style="text-align: right; background: white; vertical-align: top" {{!}} Співпраця
+{{!}} style="vertical-align: top;"{{!}} {{{Інші_проекти|{{{Associated_acts}}}}}}}}
+{{!}}-
+{{#if:{{{Сайт|{{{URL|{{{Website|<noinclude>показати</noinclude>}}}}}}}}}|
+! colspan="2" style="text-align: center; background: #EFF0F7" {{!}} {{{Сайт|{{{URL|{{{Website}}}}}}}}}}}
+|}
