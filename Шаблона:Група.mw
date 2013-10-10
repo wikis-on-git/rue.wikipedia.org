@@ -60,3 +60,5 @@
 {{#if:{{{Сайт|{{{URL|{{{Website|<noinclude>показати</noinclude>}}}}}}}}}|
 ! colspan="2" style="text-align: center; background: #EFF0F7" {{!}} {{{Сайт|{{{URL|{{{Website}}}}}}}}}}}
 |}
+
+[[uk:Шаблон:Музичний колектив]]
